@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf8"?>
+<Reviews>
+	<Review rid="0">
+		<sentences>
+ 			<sentence id=":">
+				<text>
+					I upgraded from a S6 Edge+, and I'm a Samsung girl for life.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This phone ran beautifully right from the get-go.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's not too bulky, I have no problems using it with one hand.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The camera is awesome.
+				</text>
+				<Opinions>
+					<Opinion category="camera#general#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've been playing with it since I got it out of the box!
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I'm still getting used to the new operating system and layout.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#user-friendliness" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've been used to the Galaxy's home button, and the back and multi-screen buttons, so it's interesting adapting to a completely smooth device.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Where the apps icon was on the home screen, is now the camera icon.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If you're upgrading like I did, you have to flick upwards to get to the apps.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					But this is not, in any way, a downside.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The speakers are great, and listening to music through earphones is awesome.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="earphones#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I absolutely love this new phone!
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I definitely recommend this to anyone looking for a new phone!
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="1">
+		<sentences>
+ 			<sentence id=":">
+				<text>
+					I upgraded from a S6 Edge+, and I'm a Samsung girl for life.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This phone ran beautifully right from the get-go.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's not too bulky, I have no problems using it with one hand.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The camera is awesome.
+				</text>
+				<Opinions>
+					<Opinion category="camera#general#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've been playing with it since I got it out of the box!
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I'm still getting used to the new operating system and layout.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#user-friendliness" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've been used to the Galaxy's home button, and the back and multi-screen buttons, so it's interesting adapting to a completely smooth device.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Where the apps icon was on the home screen, is now the camera icon.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If you're upgrading like I did, you have to flick upwards to get to the apps.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					But this is not, in any way, a downside.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The speakers are great, and listening to music through earphones is awesome.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="earphones#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I absolutely love this new phone!
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I definitely recommend this to anyone looking for a new phone!
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

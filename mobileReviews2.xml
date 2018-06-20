@@ -1,0 +1,3411 @@
+<?xml version="1.0" encoding="utf8"?>
+<Reviews>
+	<Review rid="0">
+		<sentences>
+ 			<sentence id=":">
+				<text>
+                There is no other way to put it, this is an excellent device at excellent value.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                The only complaint I have is the confusion with how many devices there are from Huawei for different markets.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+                I purchased 2 phones BEFORE this one.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                First a Nexus 6P (more for Google, but because Huawei built this phone I was more comfortable trying a pure Huawei phone afterwards) then an Honor 7X.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                This is where I had some trouble, because I purchased the international version, which was not made clear as to what networks it supports in the U.S, and many different websites have conflicting information based on whether you pull up the 3GB RAM model VS the 4GB RAM model.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                It's difficult to have confidence in your purchase when buying elsewhere, but buying the Mate SE from Amazon definitely gave me security and confidence in the choice I was making.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                As for the device.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                WOW... I knew I wanted to get it for the extra gig of ram and the Octa-core processor, but this phone continues to impress.
+                </text>
+                <Opinions>
+                    <Opinion category="ram#features#capacity" polarity="positive" implicit="false" />
+                    <Opinion category="processor#features#cores" polarity="positive" implicit="true" />
+                    <Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                I haven't had a single hick-up or issue with anything so far, if it weren't for the network issue I would have never gotten rid of the 4GB RAM 7X, the Mate SE makes you very happy that Huawei is working with American distributors because this is a very underrated device.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                Shipped and arrived next-day, effortless sync, Android experience is smooth, and I do like the skins though I haven't changed any themes myself.
+                </text>
+                <Opinions>
+                    <Opinion category="software>os#functionality#" polarity="" implicit="" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                Camera is ultra-responsive, finger-print is incredibly accurate and unlocks quicker than half-a second, which is hard to comprehend for the price and something I noticed was also equally responsive on the 7X.
+                </text>
+                <Opinions>
+                    <Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+                    <Opinion category="fingerprint-reader#performance#accuracy" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                Just overall incredibly impressed.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#quality#overall" polarity="postive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                Oh and there's a free case which ships with the phone as well, which is just an unexpected plus that makes you happy you chose to support this company.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                In all honesty, I feel like if OnePlus weren't trying to compete on upper-tier financial markets they would be cranking out phones like this no problem, but they're missing a chance to compete with yet another market that is making unparalleled devices for an unbelievable cost.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                For the first time my phone has as much RAM as my laptop and I didn't pay too much.
+                </text>
+                <Opinions>
+                    <Opinion category="ram#features#capacity" polarity="positive" implicit="" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="1">
+        <sentences>
+            <sentence id=":">
+				<text>
+                    I love this phone! 
+                </text>
+                <Opinions>
+                    <Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    It's my second $200 phone (the first was the galaxy j7 prime) and this one is miles better.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The camera is much better and that was my biggest concern.
+                </text>
+                <Opinions>
+                    <Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The screen is really big but it's still easy to use one-handed.
+                </text>
+                <Opinions>
+                    <Opinion category="screen#aesthetics#size" polarity="neutral" implicit="true" />
+                    <Opinion category="screen#aesthetics#size" polarity="neutral" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The fingerprint scanner is incredibly well placed and works immediately every time.
+                </text>
+                <Opinions>
+                    <Opinion category="fingerprint-reader#quality#overall" polarity="positive" implicit="true" />
+                    <Opinion category="fingerprint-reader#performance#speed" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The battery also easily lasts all day and I'm on my phone constantly.
+                </text>
+                <Opinions>
+                    <Opinion category="battery#performance#life" polarity="true" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    Something kind of funny is that the stock keyboard come with what I assume is Chinese emojis and they're hilarious.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    I originally came from the galaxy s7 edge and this phone really doesn't feel like that much of a step down for saving $700 dollars.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#price#worthiness" polarity="postive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The camera isn't as good but that's a lot of money too pay for a camera.
+                </text>
+                <Opinions>
+                    <Opinion category="camera#quality#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    As you can tell, I've been a Samsung girl for a while and switching to an almost stock Android has been great.
+                </text>
+                <Opinions>
+                    <Opinion category="software>os#functionality#user-friendliness" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    I always thought I liked the little changes Samsung made but now I think they would just get in the way.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    There are a few cons.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    First is that you need to either put the free case on it or get a screen protector immediately.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    The corners of the front screen got scratched up after having the phone for less than a day just from setting it face down on tables.
+                </text>
+                <Opinions>
+                    <Opinion category="screen#durability#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    Also, Snapchat occasionally runs slow.
+                </text>
+                <Opinions>
+                    <Opinion category="software>apps#performance#speed" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence id=":">
+				<text>
+                    And finally, I would suggest resetting your phone every so often because it does get bogged down sometimes.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#performance#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+        </sentences>
+
+    </Review>
+
+    <Review rid="2">
+        <sentences>
+            <sentence id=":">
+                <text>
+                    I wish I could give this phone 4.5 stars.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#performance#overall" polarity="Positive" implicit="true">
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    It's not perfect but for $200 it's pretty close.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    The build is solid and the screen is suprisingly good.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true-add-screen#quality#overall-positive-true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I wasn't expecting much for the price so it has exceeded my expectations.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    The only thing it doesn't have that I wish it did is fast charging.
+                </text>
+                <Opinions>
+                    <Opinion category="battery#features#fast-charging" polarity="negative" implicit="false" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I haven't had it long enough to say how big a deal that is but it sure would have been nice.
+                </text>
+                <Opinions>
+                    <Opinion category="battery#features#fast-charging" polarity="negative" implicit="coreference" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    The other odd quirk I've found is that you can't transfer apps to the SD card.
+                </text>
+                <Opinions>
+                    <Opinion category="software>apps#features#customisability" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    You can store files on it but not apps which is strange.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Again, I'm not sure how big a deal that will be over time.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    For the price, at least initially, the phone is well worth it.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="3">
+        <sentences>
+            <sentence>
+                <text>
+                    Was a sweet pickup until it started having problems after two months.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+                    <Opinion category="phone#reliability#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I bought and received the Honor7x in Feb, and writing this review in mid April.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I was thinking of writing the review after using it for three months, but it's suddenly been problem after problem.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#reliability#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    First month went by fine.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I enjoyed the camera and it ran fairly smooth.
+                </text>
+                <Opinions>
+                    <Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+                    <Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Fingerprint sensor is really quick.
+                </text>
+                <Opinions>
+                    <Opinion category="fingerprint-reader#performance#speed" polarity="positive" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Now for the cons; calls don't last more than 15 minutes before it disconnects and I have to recall.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    It wasn't a big problem, but now calls won't last a minute.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    I've been experiencing some strange stutter when switching between basic apps.
+                </text>
+                <Opinions>
+                    <Opinion category="software>apps#performance#speed" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    My phone has also randomly crashed about 4-5 times and just rebooted by itself.
+                </text>
+                <Opinions>
+                    <Opinion category="software>os#reliability#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Sadly, this is all within only two months.
+                </text>
+                <Opinions>
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Who knows what else will random start malfunctioning.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#reliability#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+            <sentence>
+                <text>
+                    Nice phone in specs, but save your money and perhaps look elsewhere.
+                </text>
+                <Opinions>
+                    <Opinion category="phone#features#specs" polarity="positive" implicit="true" />
+                    <Opinion category="phone#quality#overall" polarity="negative" implicit="true" />
+                </Opinions>
+            </sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="4">
+        <sentences>
+			<sentence>
+				<text>
+					I would not recommend this phone if you counted on having the ability to move apps to storage (to expand the limited 32gb of RAM for apps with Micro SD sticks).
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#functionality#customisability" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It has been a long time since that functionality was implemented on stock android, but Huawei has not enabled it in their OS.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#functionality#customisability" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Huge disappointment for me, because otherwise the phone is quite nice.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I would suggest that everyone look at the Mate SE which has more internal memory (64gb) and RAM (3gb) making the lack of functionality less of a problem.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="5">
+        <sentences>
+			<sentence>
+				<text>
+					My Google Nexus 5X phone died yesterday.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I bought it right after Google released it in December 2015, for $380.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It worked fine for almost 2 and a half years, but suddenly went into a boot loop.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's a known hardware problem, and there's no way to fix it (I tried several of the suggestions I found, but no luck).
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					So I looked for an inexpensive replacement that runs Android and supports Verizon's network.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I can't live without a smartphone, because I get tons of emails all day long.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I found out about this phone, it looked very comparable with the Nexus 5X, so I ordered it at 10AM.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The slightly more expensive version without the Amazon ads was not available, so I got the one with the ads.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I have used Amazon and Prime for a long time, so I am used to seeing Amazon ads and suggestions (and tuning them out).
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The phone arrived the same day at 5PM.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It only took a few minutes to swap the SIM card, I few more minutes to download the apps from a Google backup and the photos, too.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#ease-of-migration" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					So I survived about 8 hours without a phone.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This Moto G Plus is almost exactly the same size as the Nexus 5X.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#size" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It has more memory (32GB vs 16GB), it feels faster, and the fingerprint reader works much better.
+				</text>
+				<Opinions>
+					<Opinion category="memory>internal#features#capacity" polarity="positive" implicit="true-add-fingerprint-reader#performance#overall-positive-true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It can also takes a microSD card, which I don't think I'll need because the builtin 32GB is enough for me.
+				</text>
+				<Opinions>
+					<Opinion category="memory>external#functionality#overall" polarity="positive" implicit="true" />
+                    <Opinion category="memory>internal#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The only minor downside is that I got used to the USB C connector on the Nexus, where you can plug the cable in either way.
+				</text>
+				<Opinions>
+					<Opinion category="port#features#charging-port" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Overall, though, it is a great replacement phone and I'm very happy with it.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="6">
+        <sentences>
+			<sentence>
+				<text>
+					I bought this phone just for an overseas trip.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I didn't feel comfortable about taking my company provided Verizon phone.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I knew that most the world uses GSM not CDMA.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					My opinion, the best feature of this phone is that it supports CDMA and GSM.
+				</text>
+				<Opinions>
+					<Opinion category="sim-slot#features#cdma" polarity="postive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I used a Verizon SIM until New York then once at my destination, I purchased a Data only SIM card on a GSM network.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I had WhatsAPP installed which gave me phone and messaging.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Also, because I use Magic Jack for my home office phone I was able to redirect all those calls to the Magic Jack Android app.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Most didn't even knew I was on travel outside the US.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This phone worked flawlessly for me.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					To the extent that I've been back a month and haven't switched back to my Samsung S7.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The Moto G plus doesn't have an IR blaster for remote control, which I thought I would miss but I had forgotten about it till I wrote this.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#ir" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Is it a flagship phone?
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					No, camera is very good but doesn't compete with more expensive phones.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I can say the finger printer reader works much better for me then my S7.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-reader#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Your experience may be different, but for me it worked much better then expected.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+
+        </sentences>
+    </Review>
+
+    <Review rid="7">
+        <sentences>
+			<sentence>
+				<text>
+					Excellent bang for the buck.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Doesn't have the crazy performance for the top games, nor the top end OLED displays of the flagship phones...but who cares?
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="negative" implicit="false" />
+                    <Opinion category="screen#features#type" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's a PHONE. It shouldn't cost as much as an entire laptop.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					If you aren't some loser who lives their whole life on a phone like a zombie, this is going to be spectacular.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Great battery life as well.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="8">
+        <sentences>
+			<sentence>
+				<text>
+					Wow, all I can say is us iPhone and Galaxy phone owners are being duped.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I bought this phone for my daughter, because it was inexpensive and get's generally good reviews.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#Worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I was blown away by the quality of this device for the small investment.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					5.2" Screen 1080p screen, thin, lightweight, fingerprint scanner, snappy interface and just all around a great phone.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#resolution" polarity="neutral" implicit="undefined" />
+					<Opinion category="phone#aesthetics#size" polarity="neutral" implicit="undefined" />
+					<Opinion category="phone#aesthetics#weight" polarity="positive" implicit="undefined" />
+					<Opinion category="fingerprint-reader#quality#overall" polarity="neutral" implicit="undefined" />
+					<Opinion category="software>os#functionality#user-friendliness" polarity="positive" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Is it as good as the newest flagships?
+				</text>
+				<Opinions>
+					<Opinion category="phone#general#overall" polarity="positive" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Of course not but it's 80% as good for about 25% of the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I got the Amazon exclusive version, because I read there were not more ads on the lock screen.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The only difference that I could tell between this one and a stock one, is that you need to login or create an Amazon account during the setup of the device.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					After that, it runs like any other Android phone.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					You really can't go wrong here for the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="9">
+        <sentences>
+			<sentence>
+				<text>
+					Great screen, amazing photos, super fast, and even though it does not have an OLED display it's super clear and vibrant.
+				</text>
+				<Opinions>
+					<Opinion category="sceen#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="screen#aesthetics#color" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For the price this is an amazing phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I had an S6 active prior and didn't want to change it up, but I am glad I did.
+				</text>
+				<Opinions>
+                    <Opinion category="phone#quality#overall" polarity="positive" implicit="true">
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Also the battery with heavy use will last all day.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Watch unbox therapy for a great in-depth review on youtube, everything comes in the box.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="10">
+        <sentences>
+			<sentence>
+				<text>
+					Great screen, amazing photos, super fast, and even though it does not have an OLED display it's super clear and vibrant.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#colors" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For the price this is an amazing phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I had an S6 active prior and didn't want to change it up, but I am glad I did.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Also the battery with heavy use will last all day.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Watch unbox therapy for a great in-depth review on youtube, everything comes in the box.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="11">
+        <sentences>
+			<sentence>
+				<text>
+					I will write a full review in a day or so.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I just wanted to write a quick initial review for those who may be considering this device.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I am very happy with this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					You don't have to be technically inclined to use it.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#user-friendliness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I am technically inclined so there is added value I will mention later.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Specs are really nice for the current price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					You won't find anything close for the price. 
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Updated to latest MiUi that has Android Oreo as it's base.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Very stable and fast OS with extra features.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#reliability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					MiUi is an Android skin or layer on top of Stock Android 8.0.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Of all the skins I.e. TouchWiz from Samsung and the like MiUi is the best although I certainly prefer stock Android.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Screen is very nice for ips LCD.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#type" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Sound could be a little louder but still very nice for a phone.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#loudness" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#clarity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Internal storage is ufs 2.1 which is fast.
+				</text>
+				<Opinions>
+					<Opinion category="memory>internal#performance#type" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Screen to body ratio is excellent.
+				</text>
+				<Opinions>
+					<Opinion category="Phone#Aesthetics#screen-to-body-ratio" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Feels like a 2018 phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Build quality is excellent and the ceramic back is very nice.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The Xiaomi Mi Mix 2s will be released in two weeks and is an incremental upgrade.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For me I would rather save money as the Mi Mix 2 is only 6 months old.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The only con I have is lack of earphone jack.
+				</text>
+				<Opinions>
+					<Opinion category="ports#features#headphone-jack" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This phone with 6" screen is smaller than my other phone with 5.5"screen. Impressive.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#size" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Highly recommend.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Seller shipped fast and product was brand new in sealed package.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="12">
+        <sentences>
+			<sentence>
+				<text>
+					Got this phone after reading a great deal about it.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This device is hands down the best flagship device for $ 400 (no tax).
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Premium build and specs.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="hardware#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Super fast performance with 6gb RAM.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Ignore the negative reviews.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This phone updates to Oreo right after you power it on and connect to a network.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I advice doing a factory reset after the Oreo update.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Has absolutely no bloatware.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Microsoft apps were easy uninstalled.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Has a unique skinned interface which looks very classy It didn't come with a US power adapter which is not a big deal.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Connected to T-Mobile LTE network quickly.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I highly recommend this device to anyone looking for a reasonably priced flagship phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Get it, you wont regret.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="13">
+        <sentences>
+			<sentence>
+				<text>
+					After a day of this phone, it's fantastic.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I upgraded from a Samsung S5 so it's a massive improvement.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The large screen, while not OLED, is still vibrant and looks great on the 1080x2160 resolution.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="positive" implicit="true" />
+					<Opinion category="screen#features#type" polarity="negative" implicit="true" />
+					<Opinion category="screen#aesthetics#colors" polarity="positive" implicit="true" />
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Their custom Android OS is very barebones, but works very well.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					There is no app screen, so you'll have to make do with apps organized through your screens.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#user-friendliness" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Sound quality through speakers is not great, but definitely the worst.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#clarity" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Major con is that there is no 3.5mm headphone jack.
+				</text>
+				<Opinions>
+					<Opinion category="port#features#headphone-jack" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					One note of advice for those with Verizon as their carrier, it does work with Verizon.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					However, if you need to take it to Verizon, take it to a corporate store and not a retailer.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Chances are a retailer are not going to understand what to do.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Corporate store will actually link your device to your account if you need a new SIM.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="14">
+        <sentences>
+			<sentence>
+				<text>
+					Love it, coming from an S7 Edge it's snappy, it has great battery life and while the screen is a downgrade it is still gorgeous.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It really does feel like a full screen phone and it doesn't have that annoying curved glass that led me to always accidentally pressing something.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I'm don't really like the home screen for MIUI that much so I just slapped nova launcher onto it, but I do love how else MIUI compliments android, I especially love how it let's you get rid of the home button and etc in exchange for these really intuitive swipes that can quickly take you back a page or to the home screen.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#user-friendliness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="15">
+        <sentences>
+			<sentence>
+				<text>
+					After having this phone as my daily driver for about 3 months, I have to say it is a pretty great phone for the price point.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The snapdragon 825 is very snappy and the battery performance is impressive.
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#model" polarity="positive" implicit="true" />
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I end the day with about 40-50% of my battery left.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The charging is surprisingly fast as well.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#charging-speed" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The stock Android 8.0 experience is fantastic and it has a great clean feel that is an easy adaption coming from iOS.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#aesthetics#overall" polarity="positive" implicit="true" />
+					<Opinion category="software>os#functionality#user-friendliness" polarity="true" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The fingerprint scanner is equivalent to the scanner on the iPhone 7.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-reader#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Rear camera is also equivalent to the iPhone 7 but the front facing camera is mediocre.
+				</text>
+				<Opinions>
+					<Opinion category="camera>rear#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="camera>front#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I have AT&T and I get 3G/4G just about everywhere I go.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Although, it seems that when the bands switch from 4G to 3G, it sometimes will drop a call.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For the price point you really can't beat this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I switched from an iPhone 7 after iOS 11 ruined my iPhone experience.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					There are a few cons with this phone that are not a deal breaker but for the price point, you can't beat it.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Cons: No LTE
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Not waterproof
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#water-resistance" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Mediocre front facing camera
+				</text>
+				<Opinions>
+					<Opinion category="camera>front#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					No stereo speakers
+				</text>
+				<Opinions>
+					<Opinion category="speakers#features#number" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					4G might be spotty depending on location
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Calls will sometimes drop when switching antenna bands from 4G to 3G.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="16">
+        <sentences>
+			<sentence>
+				<text>
+					This smartphone is great.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Qualcomm 625 chipset means less drag on power (i.e. longer battery life).
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#model" polarity="positive" implicit="true" />
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I also like that is has a 3.5mm headphone jack.
+				</text>
+				<Opinions>
+					<Opinion category="ports#features#headphone-jack" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Totally don't get why smartphone makers are removing the 3.5mm headphone jack.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The construction on this phone is great. Not plasticky.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Feel in the hand in good.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#experience" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Thin.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#size" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The weakness is that the bands that work on TMobile in the US are limited. It works.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Also would be nice if the camera had optical image stabilization.
+				</text>
+				<Opinions>
+					<Opinion category="camera#features#stabilisation" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					A superlative is that software is close to stock Android 8.0.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I really wish Xiaomi has more phones calibrated for the US carriers.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+
+        </sentences>
+    </Review>
+
+    <Review rid="17">
+        <sentences>
+			<sentence>
+				<text>
+					I recently purchased this phone as a replacement after my wife broke her phone and I gave her mine.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I really liked this phone a lot, but the one feature every phone needs is the ability to make and receive calls.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I could make calls fine but not receive calls whatsoever on this phone when on 4g.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Only way I was able to get calls to come through was if I switch exclusively to 2g/edge.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					After a little research I found while yes this phone has 4g on T-Mobile it is missing alot of the LTE bands T-Mobile uses.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					If you have At&t maybe you'll have better luck but for T-Mobile users this phone is not good for receiving calls at all.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Everything else is great on this phone I really can't stress that enough, the screen on time was amazing in the short time I used it (4 hours screen on time with 24 percent battery left and heavy usage) camera was decent (Not Great but good for the price), the build is nice, doesn't feel cheap and the fact this has Android One (basically stock Android) makes this phone feel alot better and smoother than a lot of the mid rangers out there.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#experience" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					But not being able to receive calls was a huge deciding factor for me and I can't really recommend this phone to anyone on T-Mobile’s network.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Hope this helps.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="18">
+        <sentences>
+			<sentence>
+				<text>
+					It is a great phone overall for the price: good performance, quality, OK screen and cameras, I don't have to worry about battery life on a daily basis.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Fingerprint sensor works like a charm, quick and accurate; I'm dependant on this feature.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-sensor#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-sensor#performance#accuracy" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Android One is a great initiative from Google: you're good enough up-to-date, not to a Nexus/Pixel level, but yet good enough; none of the horrible propietary launchers or bloatware from day one.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="negative" implicit="undefined" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I'm sticking to phones that are part of the program only.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="19">
+        <sentences>
+			<sentence>
+				<text>
+					I loved just about everything on this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The dual camera setup was great, having Portrait mode was really cool and I got some great photos with it.
+				</text>
+				<Opinions>
+					<Opinion category="camera#features#number" polarity="positive" implicit="true" />
+					<Opinion category="camera#features#portrait" polarity="positive" implicit="false" />
+					<Opinion category="camera>back#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The phone had plenty of internal storage for whatever I threw at it.
+				</text>
+				<Opinions>
+					<Opinion category="memory>internal#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Having Android 8.0 in it's mostly stock form meant the phone had excellent performance.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="negative" implicit="true" />
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The only downside for me was that I am using My Family Mobile which runs on T-Mobile servers, and this phone doesn't support Band 4 LTE so my calls were all in 2G and the quality was terrible.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					However, this isn't a problem if you use AT&T, so if you do this phone should work great for you.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+    <Review rid="20">
+        <sentences>
+			<sentence>
+				<text>
+					I purchased this phone because I wanted to downgrade to a smaller screen size, and the J3 suited my needs.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Camera takes nice pics, especially when using flash.
+				</text>
+				<Opinions>
+					<Opinion category="camera#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="camera#features#flash" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It doesn't have that pinkish tone that my old phone had, the colors are almost natural when the flash illuminates the scene.
+				</text>
+				<Opinions>
+					<Opinion category="camera#features#flash" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The front facing camera is okay, but am not a big selfie fan, so as long as it works, it's good.
+				</text>
+				<Opinions>
+					<Opinion category="camera>front#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Battery life is really good compared to my old VM phone (Desire 816), it charges up fast and by the end of the day, I've got anywhere from 65 to 75% power left over.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Of course, I'm not a heavy gamer or constantly watching Netflix with my phone, just basic talking, texts and a few rounds of Freecell.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					One thing I learned regarding battery charging is to always disconnect when it's fully charged.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Keeping it plugged in constantly (especially overnight), stresses the battery cells and shortens its life.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The audio output speaker is just above the power button, which is good since the audio won't be muffled when resting on a table top, and is loud enough during speakerphone use.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#design" polarity="positive" implicit="true" />
+					<Opinion category="speakers#performance#loudness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					There's also a built-in maintenance app that's great for cleaning out the memory to keep the phone in top shape and to extend battery life, and it seems to do a fairly decent job at it.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I gave this phone 4 stars since it doesn't have a notification light for missed calls or texts.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#features#notification-light" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					There are several apps on Google Play to remedy this problem (and have tested them).
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For me, I found that LED Actor works best for my needs, and after tweaking the settings a bit (killed the flashing screen mode to save battery life), I will never again miss important calls or texts again.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For my needs and usage... this phone is a great bargain at a great price!
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+
+	<Review rid="21">
+		<sentences>
+			<sentence>
+				<text>
+					Even better than last year's model which I thought was a great phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Snapdragon 630 a much better performing processor.
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#model" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Zeiss lens makes camera a bit better than the mediocre 2017 model.
+				</text>
+				<Opinions>
+					<Opinion category="camera#features#lens" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Nice copper lines add a little flair.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For the price you will not find a better deal in the US imo!
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Android One guaranteed 3 year updates a major selling point as well!
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Thinner bezels are also noticeable!
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Well done HMD/NOKIA!
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="22">
+		<sentences>
+			<sentence>
+				<text>
+					Can't imagine there being a better phone out right now for the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Solid construction (dropped it already and not even a scratch).
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Very responsive OS (Android One).
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Adequate cameras (front & back).
+				</text>
+				<Opinions>
+					<Opinion category="camera>front#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="camera>back#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Great battery life (keep screen brightness below 50%).
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I use my phone a lot for work and so I'm constantly texting or viewing and sending out emails & taking phone calls.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This thing has yet to skip a beat.
+				</text>
+				<Opinions>
+					<Opinion category="phone#reliability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's very reliable which is most important for me when it comes to my phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#reliability#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I went almost 3 days before needing to charge on this thing which honestly I couldn't believe.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I found that the battery life is exponentially better when you keep the screen brightness below 50% which is still plenty adequate especially indoors.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Would highly recommend this phone to those who will to pay a little extra.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Otherwise get the MotoG5 Plus.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="23">
+		<sentences>
+			<sentence>
+				<text>
+					Incredible phone for the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Very snappy user experience.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Excellent build quality.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It checks all the boxes I was looking for which included a fingerprint reader and running Android One.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-reader#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The camera is not fantastic but I don't care.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's fine.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Battery life has been impressively long.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I needed a new phone for when mine died and I just can't bear spending twice or even four times as much on a flagship phone that may only be slightly better.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I got this when a friend recommended it.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I thought, "Nokia? Seriously?"
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I decided to get this one as a temporary phone since it is well reviewed and so affordable, then I'd have a backup phone after I choose a fancy phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I figured it's inexpensive so there would be compromises that I would not want to live with long term.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Turns out that I'm so happy with it that I have no plans to replace it.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					There are no compromises so far with the possible exception of the camera.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					That might be the app, though.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I'll have to try others.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					My favorite surprise was when I got my first call.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The old school Nokia ringtone is the default!
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This is what quality phones should cost.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The flagship phones are a rip-off now that they cost as much as a used car.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>	
+		</sentences>
+	</Review>
+
+	<Review rid="24">
+		<sentences>
+			<sentence>
+				<text>
+					Overall, a great modern android phone at $270.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I wanted an inexpensive phone using a modern, stock android, and that would get fast android updates.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This phone seems great on that score.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="coreference" />
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="coreference" />
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It is fast, and has amazing battery life.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Cameras are very important to me.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Looking at the camera tests, I knew that low-light conditions were a concern on this camera, and I can confirm that they are.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#low-light" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I came from a Lumia 950, which has one of the best cameras on any phone.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This camera takes great outdoor pictures in full sunlight, but any other lighting condition, image quality suffers.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#optimal-light" polarity="positive" implicit="true" />
+					<Opinion category="camera#quality#low-light" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I love the USB C fast charging, but wish it had wireless Qi support as well.
+				</text>
+				<Opinions>
+					<Opinion category="battery#features#fast-charging" polarity="positive" implicit="false" />
+					<Opinion category="battery#features#wireless-charging" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					If I could get this exact same phone with a better camera [OIS, better low-light performance], it would be amazing.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="25">
+		<sentences>
+			<sentence>
+				<text>
+					Granted my old phone was nothing special.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It was a cheap Samsung Avant, running a very old version of Android.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					So far I love this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Stock Android runs very nicely.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I love that there is no bloatware.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It is pretty fast and fluid.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Battery life seems pretty good.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I am no tech guru, but I think this is a very good budget phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I am never going to spend over $300 on a phone.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Yes, it is 3GB of RAM.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Thank goodness we finally cleared the RAM question up.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					4 would have been nice, but 3 is fine.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="positive" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The 4/64 version should be coming soon.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="26">
+		<sentences>
+			<sentence>
+				<text>
+					I totally love this phone and I really wished it came out early.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This is a phone that feels like the designers would use themselves.
+				</text>
+				<Opinions>
+					<Opinion category="phoen#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It has no bloatware like almost other phones I've bought.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#bloatware#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It feels good, works good, and sounds good.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#experience" polarity="positive" implicit="true" />
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="speakers#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Nice back feel, fast camera, good loud speaker, and the fingerprint sensor is one of the best I've tried (doesn't work good if it's cold or if your finger is wet).
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#experience" polarity="positive" implicit="true" />
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="speakers#performance#loudness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					My only gripe is the US version doesn't come in different colors, capacity but you can add memory yourself.
+				</text>
+				<Opinions>
+					<Opinion category="memory>external#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					One other thing it is not bright in sunlight, just go into the settings and make adjustments, and voila he best work phone I've ever used.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="27">
+		<sentences>
+			<sentence>
+				<text>
+					This is a great phone for the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I love that it comes with Android One.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This means regular timely updates.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I hope Nokia brings some of its other offerings to the US because if this very budget phone is anything to go on I can imagine how great their other offerings are.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's snappy in day to day use.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					While the camera does not readily take the most serviceable pictures it does load the camera app quickly and it's shutter speed is excellent so taking a few quick snaps to get a good one is a breeze.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="negative" implicit="true" />
+					<Opinion category="software>apps#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="camera#features#shutter-speed" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Other phones at the sub 300 price point take forever to load the camera app.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It plays games pretty well though I'm not a heavy gamer.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I will not be going back to thousand dollar phones after getting this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					If the Nokia 7 came to the US I would not hesitate to purchase it for the larger screen.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I wish it retained the 4 gigs of RAM for the US version but it's not noticeable as the phone remains snappy and you shouldn't have a ton of apps running at once anyway.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I've been using the phone for a few days and I haven't noticed any lag.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I love the design it has a very premium look and feel.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#design" polarity="positive" implicit="false" />
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The screen is bright and crisp and more than adequately does the job.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#brightness" polarity="positive" implicit="false" />
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I really am very pleased with this budget phone and will keep buying Nokia as long as they are available.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Also this phone gets incredible cellular reception with signal in places that are typically dead zones for everyone where I live.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The fingerprint reader is quick and easy to use.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-reader#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="fingerprint-reader#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					After about three times my finger automatically goes to it.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#design" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I am not sure why others are complaining unless they have extremely poor dexterity.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					If so then most phones' fingerprint scanner will not be good enough for them.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="28">
+		<sentences>
+			<sentence>
+				<text>
+					Needed a temporary replacement phone after my Huawei Nexus 6P battery gone bad.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Saw this phone was part of the Android One program which basically runs stock Android and definitely a must buy.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Phones run smooth as apps work great.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="software>apps#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Little lag here and there but only for apps that need lots of ram to run.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#performance#speed" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Camera is okay.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Not great in low light or dark settings but taking pictures in daylight or lighting is fine.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#low-light" polarity="negative" implicit="false" />
+					<Opinion category="camera#quality#optimal-light" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Another cool thing that got my attention is that it is dual SIM which helps me with my personal and work phone numbers in one phone.
+				</text>
+				<Opinions>
+					<Opinion category="sim-slot#features#dual" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Overall it's a mid range phone and it does the job.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="29">
+		<sentences>
+			<sentence>
+				<text>
+					So far so good.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Android 1 is sweet.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Camera is not great, but the reviews said as much already.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For the price point (269.00) the phone hits the mark: fast performance and Android 1.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="false" />
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					RAM and storage could be better but so far the 3 RAM is holding up (only having to run Android 1 helps), and with being able to add up to 256 GB of extra space in the card slot, it was not a deal breaker.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="neutral" implicit="true" />
+					<Opinion category="memory>internal#features#capacity" polarity="neutral" implicit="true" />
+					<Opinion category="memory>external#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Solid phone so far--looks and feels great.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Works on both AT&T and T-Mobile without issue (bought while with AT&T then I moved to T-Mobile).
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Happy enough with it that I am buying one for my wife as well to replace her flip phone (don't judge!).
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="30">
+		<sentences>
+			<sentence>
+				<text>
+					Just got this yesterday, and so far I'm pretty impressed.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Love the build quality, very solid feeling but comfortable to hold.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Very nice looking phone as well.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#design" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The display is more than adequate, haven't tried the camera yet though.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Got this to replace my Nexus 5X, figured the Nokia is Android 1, so the support and updates should be pretty good.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Popped the AT&T sim in that was in my Nexus, and had an LTE connection immediately.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It also updated to Android 8.1 right away.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Still on the April 2018 security update, will see how quickly the May update shows up.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I've had it on my Nexus for several days already.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Call quality is very good as well.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#signal-strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="31">
+		<sentences>
+			<sentence>
+				<text>
+					I've had the phone a little over a week and so far Love it.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For $500 you are getting a phone comparable to $1000+ Iphone or Samsung.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Works perfect on T-Mobile.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I'm able to receive pictures, group texts, hotspot, no issues with carrier everything works.
+				</text>
+				<Opinions>
+					<Opinion category="phone#functionality#carrier-compatibility" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Phone feels very sturdy does not appear cheaply made and comes with a clear case.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Screen size is Large and resolution is fine.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="positive" implicit="false" />
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Facial recognition works really well saves me unlocking my phone 20+ times a day.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#face-unlock" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					128 GB Storage is plenty for my needs and the 6 GB of Ram makes a difference with a lot of apps open.
+				</text>
+				<Opinions>
+					<Opinion category="memory>internal#features#capacity" polarity="positive" implicit="true" />
+					<Opinion category="ram#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					This phone is also Bloatware FREE.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Meaning no Useless apps you can't remove.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Has Android 8.1 and hopefully it will continue to get updates.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I would highly recommend this phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Performs like a high end device but is half the price.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="32">
+		<sentences>
+			<sentence>
+				<text>
+					Excellent phone at the 500$ price point.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Very similar in specs and performance like it's pricier cousin in the Huawei Mate 10 Pro, other than the latter's water resistant features.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#functionality#overall" polarity="positive" implicit="true" />
+					<Opinion category="phone#performance#overall" polarity="positive" implicit="false" />
+					<Opinion category="phone#features#water-resistance" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					But unless you are planning to dunk the phone into your swimming pool, the phone works fine.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#water-resistance" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					All the responses are quick and you do get the feeling of having a high end processor running your device.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="processor#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The user interface is a modified version of Android Oreo and its decent.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					However, one can always use Nova Launcher to tailor it as per the needs of the user.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#customisability" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Camera quality is good as well and can give the flagship phones a good competition.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Overall, very satisfied.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="33">
+		<sentences>
+			<sentence>
+				<text>
+					Really great phone.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Super fast, lots of storage and RAM.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="memory>internal#features#capacity" polarity="positive" implicit="true" />
+					<Opinion category="ram#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I love the screen size.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I did have a Moto X Pure which has a 5.7" screen.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I didn't think 0.29" would make that big of a difference, but it does.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					And the phone isn't overall much bigger, thanks to its small bezel size.
+				</text>
+				<Opinions>
+					<Opinion category="phone#aesthetics#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The battery has a great life span as well.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Has the quick charge when you use a quick charge charger.
+				</text>
+				<Opinions>
+					<Opinion category="battery#features#fast-charging" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Really like that you can expand the memory.
+				</text>
+				<Opinions>
+					<Opinion category="memory>external#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The front and back cameras are both great.
+				</text>
+				<Opinions>
+					<Opinion category="camera#front#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="camera#front#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Good quality photos.
+				</text>
+				<Opinions>
+					<Opinion category="camera#quality#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Super happy with my purchase.
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Why pay for a popular name brand when you can get a phone for half the price that is equal to or even better?
+				</text>
+				<Opinions>
+					<Opinion category="phone#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Don't it's silly to do so.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+
+	<Review rid="34">
+		<sentences>
+			<sentence>
+				<text>
+					Liking it so far.
+				</text>
+				<Opinions>
+					<Opinion category="phone#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It is pretty zippy and lightweight.
+				</text>
+				<Opinions>
+					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="phone#aesthetics#weight" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I bought it for my wife.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					For a $500 phone, face and fingerprint recognition are crazy fast.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#face-unlock" polarity="positive" implicit="false" />
+					<Opinion category="fingerprint-reader#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The only problem is, face recognition doesn't work all the time.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#face-unlock" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Looks like it has some algorithm to capture the image within x seconds of picking it up after which it fails.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					But not a big deal for my wife at least.
+				</text>
+				<Opinions>
+					<Opinion category="phone#features#face-unlock" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Their EMUI skin is not attractive in my opinion, but I have never been bothered too much by any skin, actually.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					So not a big deal for me.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Speaker is fine, comparable to Galaxy S8 in my view.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Screen is bright, but I never keep it too bright to protect my eyes any ways.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#brightness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Photos come out pretty good and can take fast photos.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The fact that this has audio jack plus the same processor as Mate 10 Pro and a $150 difference (Mate 10 Pro sells for $650 now) made this one my preferred device.
+				</text>
+				<Opinions>
+					<Opinion category="port#features#headphone-jack" polarity="positive" implicit="false" />
+					<Opinion category="processor#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					My biggest problem has been to find a good screen protector and case for this device.
+				</text>
+				<Opinions>
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

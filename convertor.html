@@ -1,0 +1,128 @@
+<html>
+    <head>
+        <title>Convertor</title>
+        <style type="text/css">
+            textarea {
+                width: 100%;
+            }
+            .button {
+            background-color: rgb(207, 17, 17); /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            box-shadow: 1px 1px 1px 1px #888888;
+            border-radius: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .button:active {
+            box-shadow: 0px 0px;
+        }
+        .footer {
+                position: fixed;
+                left: 0;
+                bottom: 0;
+                width: 100%;
+                background-color: rgb(231, 231, 231);
+                color: black;
+                text-align: center;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+            }
+        </style>
+        <!-- Harsh Narang is the greatest coder ever to walk the Earth. Feel free to disagree. -->
+    </head>
+    <body>
+        <center>
+            <h2 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif">
+                Enter text in Text Box1, and get result in Text Box2
+            </h2>
+        </center>
+            <table width=100%>
+                <tr>
+                    <form name="form1">
+                        <td>
+                            <textarea rows=20 columns=500 id="t1"></textarea>
+                        </td>
+                        <td>
+                            <textarea rows=20 columns=500 id="t2"></textarea>
+                        </td>
+                    </form>
+                </tr>
+                <tr>
+                    <td><br /></td>
+                    <td><hr id="h" noshade/></td>
+                </tr>
+                <tr>
+                    <td colspan="2" align="center"><button class="button" id="myb" onclick="convert()">CONVERT</button></td>
+                </tr>
+            </table>
+        <script>
+            document.addEventListener("keydown", function(myEvent) {
+                if((myEvent.metaKey || myEvent.ctrlKey) && myEvent.keyCode==69 ) {
+                    convert();
+                    console.log("oh yeah!");
+                }
+            });
+
+            function convert() {
+                var x1, x2, text, output;
+                x1 = document.getElementById("t1");
+                x2 = document.getElementById("t2");
+                but = document.getElementById("myb");
+                text = x1.value;
+                values = text.split("\n");
+                output = "";
+                for (var i = 0; i < values.length; ++i) {
+                    output += "\t\t\t<sentence>\n\t\t\t\t<text>\n\t\t\t\t\t";
+                    output += values[i];
+                    try {
+                        opSplit = values[i+1].split(" ");
+                    }
+                    catch(err) {
+                        document.getElementById("t2").style.borderColor = "red";
+                        document.getElementById("h").style.borderColor = "red";
+                        return;
+                    }
+                    if (opSplit == "") {
+                        output += '\n\t\t\t\t</text>\n\t\t\t\t<Opinions>\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
+                        i++;
+                    }
+                    else {
+                        t1 = opSplit[0];
+                        t2 = opSplit[1];
+                        t3 = opSplit[2];
+                        if (t2 == "0") {
+                            t2 = "negative";
+                        }
+                        else if (t2 == "1") {
+                            t2 = "neutral";
+                        }
+                        else if (t2 == "2") {
+                            t2 = "positive";
+                        }
+                        if (t3 == "0") {
+                            t3 = "false";
+                        }
+                        else if (t3 == "1") {
+                            t3 = "true";
+                        }
+                        else if (t3 == "2") {
+                            t3 = "coreference";
+                        }
+                        output += '\n\t\t\t\t</text>\n\t\t\t\t<Opinions>\n\t\t\t\t\t<Opinion category="' + t1 + '" polarity="' + t2 + '" implicit="' + t3 + '" />\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
+                        i++;
+                    }
+                }
+                x2.innerHTML = output;
+                document.getElementById("t2").style.borderColor = "green";
+                document.getElementById("h").style.borderColor = "green";
+            }
+        </script>
+    <div class="footer">
+        <p>Harsh Narang, the one and only. Made while interning at UT Dallas.</p>
+    </div>
+    </body>
+</html>

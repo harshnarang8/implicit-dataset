@@ -1,0 +1,199 @@
+Phone
+    Performance
+        overall
+        speed
+        signal-strength
+    features
+        nfc
+        face-unlock (face-unlock-software)
+        enhancement-modes (doubt)
+        water-resistance
+        ease-of-migration
+        temperature
+        bixby (doubt)
+        wifi
+        overall (for specifications and stuff)
+        ir
+    aesthetics
+        strength (durability#build quality)
+        weight (bulky)
+        experience
+        ease-of-use
+        color
+        size
+        screen-to-body-ratio
+        design
+        overall
+    reliability
+        security
+        overall
+    functionality
+        overall
+        carrier-compatibility
+    price
+        worthiness
+
+screen
+    aesthetics
+        aspect-ratio
+        overall
+        color
+        size
+    quality
+        overall
+    features
+        resolution
+        brightness
+        type
+    performance
+        touch
+    durability
+        overall
+
+speakers
+    performance
+        clarity
+        loudness
+    features
+        number
+        water-resistance
+    quality
+        overall
+earphones
+    performance
+        sound-quality
+    quality
+        overall
+camera
+    features
+        portrait
+        number
+        flash
+        lens
+        shutter-speed
+    quality
+        overall
+        low-light
+        optimal-light
+camera>front
+    quality
+        overall
+    features
+        resolution
+camera>back
+    quality
+        overall
+    features
+        resolution
+
+battery
+    performance
+        life
+        charging-speed
+    features
+        fast-charging
+        wireless-charging
+        capacity
+
+software
+    features
+        customizability
+
+software>os
+    functionality
+        user-friendliness
+        overall
+    features
+        bloatware
+        customisabilitiy
+        uprgadation
+        notifications
+    reliability
+        overall
+        security
+    aesthetics
+        overall
+    quality
+        overall
+
+software>apps
+    performance
+        speed
+    reliability
+        overall
+        security
+    features
+        customizability
+    functionality
+        overall
+
+ram
+    features
+        capacity
+    functionality
+        overall
+
+memory>internal
+    features
+        capacity
+    functionality
+        overall
+    performance
+        type
+
+memory>external
+    features
+        capacity
+    functionality
+        overall
+
+memory
+    capacity (check)
+
+fingerprint-reader
+    performance
+        overall
+        speed
+        Accuracy
+    quality
+        overall
+
+hardware
+    functionality
+        overall
+    features
+        notification-light
+
+hardware>motherboard
+    reliability
+        overall
+
+port
+    features
+        headphone-jack
+        charging-port
+charger>cable
+    quality
+        overall
+
+support
+    servicability
+        courtesy
+        competence
+        overall
+
+processor
+    performance
+        overall
+        speed
+    features
+        model
+        cores
+
+sim-slot
+    functionality
+        overall
+    features
+        cdma
+        size
+        dual

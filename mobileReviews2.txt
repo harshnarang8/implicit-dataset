@@ -1,0 +1,122 @@
+There is no other way to put it, this is an excellent device at excellent value. The only complaint I have is the confusion with how many devices there are from Huawei for different markets. I purchased 2 phones BEFORE this one. First a Nexus 6P (more for Google, but because Huawei built this phone I was more comfortable trying a pure Huawei phone afterwards) then an Honor 7X. This is where I had some trouble, because I purchased the international version, which was not made clear as to what networks it supports in the U.S, and many different websites have conflicting information based on whether you pull up the 3GB RAM model VS the 4GB RAM model. It's difficult to have confidence in your purchase when buying elsewhere, but buying the Mate SE from Amazon definitely gave me security and confidence in the choice I was making. As for the device. WOW... I knew I wanted to get it for the extra gig of ram and the Octa-core processor, but this phone continues to impress. I haven't had a single hick-up or issue with anything so far, if it weren't for the network issue I would have never gotten rid of the 4GB RAM 7X, the Mate SE makes you very happy that Huawei is working with American distributors because this is a very underrated device. Shipped and arrived next-day, effortless sync, Android experience is smooth, and I do like the skins though I haven't changed any themes myself. Camera is ultra-responsive, finger-print is incredibly accurate and unlocks quicker than half-a second, which is hard to comprehend for the price and something I noticed was also equally responsive on the 7X. Just overall incredibly impressed. Oh and there's a free case which ships with the phone as well, which is just an unexpected plus that makes you happy you chose to support this company. In all honesty, I feel like if OnePlus weren't trying to compete on upper-tier financial markets they would be cranking out phones like this no problem, but they're missing a chance to compete with yet another market that is making unparalleled devices for an unbelievable cost. For the first time my phone has as much RAM as my laptop and I didn't pay too much.
+
+I've had the phone a little over a week and so far Love it.
+phone#quality#overall 2 1
+For $500 you are getting a phone comparable to $1000+ Iphone or Samsung.
+phone#price#worthiness 2 1
+Works perfect on T-Mobile.
+phone#functionality#carrier-compatibility 2 1
+I'm able to receive pictures, group texts, hotspot, no issues with carrier everything works.
+phone#functionality#carrier-compatibility 2 1
+Phone feels very sturdy does not appear cheaply made and comes with a clear case.
+phone#aesthetics#strength 2 1
+Screen size is Large and resolution is fine.
+screen#aesthetics#size 2 0
+screen#features#resolution 2 0
+Facial recognition works really well saves me unlocking my phone 20+ times a day.
+phone#features#face-unlock 2 0
+128 GB Storage is plenty for my needs and the 6 GB of Ram makes a difference with a lot of apps open.
+memory>internal#features#capacity 2 1
+ram#features#capacity 2 1
+This phone is also Bloatware FREE.
+software>os#features#bloatware 2 0
+Meaning no Useless apps you can't remove.
+
+Has Android 8.1 and hopefully it will continue to get updates.
+software>os#quality#overall positive 1
+I would highly recommend this phone.
+phone#quality#overall 2 1
+Performs like a high end device but is half the price.
+phone#price#worthiness 2 0
+
+
+Excellent phone at the 500$ price point.
+phone#price#worthiness 2 0
+Very similar in specs and performance like it's pricier cousin in the Huawei Mate 10 Pro, other than the latter's water resistant features.
+hardware#functionality#overall 2 1
+
+phone#performance#overall 2 0
+
+phone#features#water-resistance 0 0
+But unless you are planning to dunk the phone into your swimming pool, the phone works fine.
+phone#features#water-resistance 1 0
+All the responses are quick and you do get the feeling of having a high end processor running your device.
+phone#performance#speed 2 1
+
+processor#performance#overall 2 1
+The user interface is a modified version of Android Oreo and its decent.
+software>os#quality#overall 1 1
+However, one can always use Nova Launcher to tailor it as per the needs of the user.
+software>os#features#customisability 2 1
+Camera quality is good as well and can give the flagship phones a good competition.
+camera#quality#overall 2 0
+Overall, very satisfied.
+phone#quality#overall 2 1
+
+
+Really great phone.
+phone#quality#overall 2 1
+Super fast, lots of storage and RAM.
+phone#performance#speed 2 1
+memory>internal#features#capacity 2 1
+ram#features#capacity 2 1
+I love the screen size.
+screen#aesthetics#size 2 0
+I did have a Moto X Pure which has a 5.7" screen.
+
+I didn't think 0.29" would make that big of a difference, but it does.
+
+And the phone isn't overall much bigger, thanks to its small bezel size.
+phone#aesthetics#overall 2 0
+The battery has a great life span as well.
+battery#performance#life 2 0
+Has the quick charge when you use a quick charge charger.
+battery#features#fast-charging 2 0
+Really like that you can expand the memory.
+memory>external#functionality#overall 2 1
+The front and back cameras are both great.
+camera#front#quality#overall 2 1
+
+camera#front#quality#overall 2 1
+Good quality photos.
+camera#quality#overall 2 0
+Super happy with my purchase.
+phone#price#worthiness 2 1
+Why pay for a popular name brand when you can get a phone for half the price that is equal to or even better?
+phone#price#worthiness 2 1
+Don't it's silly to do so.
+
+
+Liking it so far.
+phone#quality#overall 2 1
+It is pretty zippy and lightweight.
+phone#performance#speed 2 1
+
+phone#aesthetics#weight 2 0
+I bought it for my wife.
+
+For a $500 phone, face and fingerprint recognition are crazy fast.
+phone#features#face-unlock 2 0
+
+fingerprint-reader#performance#speed 2 1
+The only problem is, face recognition doesn't work all the time.
+phone#features#face-unlock 1 0
+Looks like it has some algorithm to capture the image within x seconds of picking it up after which it fails.
+
+But not a big deal for my wife at least.
+phone#features#face-unlock 2 0
+Their EMUI skin is not attractive in my opinion, but I have never been bothered too much by any skin, actually.
+software>os#aesthetics#overall 2 1
+So not a big deal for me.
+
+Speaker is fine, comparable to Galaxy S8 in my view.
+screen#quality#overall 2 1
+Screen is bright, but I never keep it too bright to protect my eyes any ways.
+screen#features#brightness 2 0
+Photos come out pretty good and can take fast photos.
+
+The fact that this has audio jack plus the same processor as Mate 10 Pro and a $150 difference (Mate 10 Pro sells for $650 now) made this one my preferred device.
+port#features#headphone-jack 2 0
+
+processor#performance#overall 2 1
+My biggest problem has been to find a good screen protector and case for this device.
