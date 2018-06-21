@@ -1,0 +1,180 @@
+laptop
+    quality
+        overall
+        strength
+    performance
+        overall
+        speed
+        booting (doubt)
+    features
+        dvd-player
+        additional memory (doubt)
+        temperature
+        connections
+        wifi-connectivity
+        ease-of-migration
+    reliablity
+        overall
+    functionality
+        overall
+    portability
+        overall
+    durability
+        overall (doubt)
+    aesthetics
+        weight
+        ease-of-use
+        overall
+        size
+        layout (doubt)
+        thickness
+        sleekness (doubt)
+        form-factor
+
+battery
+    functionality
+        overall (doubt)
+    performance
+        life
+    quality
+        overall (doubt)
+    features
+        capacity
+
+charger
+    functionality
+        overall
+        cord-size
+    aesthetics
+        size
+        weight
+
+software>os
+    functionality
+        overall
+    features
+        upgradation
+        pre-installation
+        bloatware
+        antivirus
+
+software>apps
+    performance
+        overall
+    
+software
+    functionality
+        initial-setup
+    features
+        customisability
+
+webcam
+    functionality
+        overall
+    quality
+        overall
+
+keyboard
+    aesthetics
+        typing-experience
+        strength
+        firmness
+        layout
+        design
+        size
+        dimensions
+        ease-of-use
+    features
+        caps-on-indicators
+        backlight
+    functionality
+        user-friendlines
+    quality
+        overall
+        strength
+
+screen
+    features
+        brightness
+        resolution
+        viewing-angle
+        clarity
+    aesthetics
+        dimensions
+        contrast
+        color
+        size
+    quality
+        overall
+        graphics
+
+speakers
+    performance
+        overall
+        clarity
+        loudness
+        sound-quality
+    quality
+        overall
+
+memory>hard-drive
+    performance
+        speed
+        overall
+
+memory>ssd
+    features
+        m2compatibiltiy
+        nvme-compatibility
+    performance
+        speed
+        overall
+
+ram
+    features
+        capacity
+        upgradation
+    quality
+        overall
+
+processor
+    performance
+        speed
+        power-consumption
+        overall
+    features
+        cores
+        threads
+        models
+
+fingerprint-scanner
+    performance
+        overall
+        speed
+    quality
+        overall
+
+memory
+    features
+        capacity
+
+touchpad
+    quality
+        overall
+    performance
+        accuracy
+    aesthetics
+        ease-of-use
+
+port
+    functionality
+        overall
+
+hardware
+    quality
+        overall
+        strength
+
+earphones
+    performance
+        sound quality
