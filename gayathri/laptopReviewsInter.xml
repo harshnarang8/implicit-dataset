@@ -1,6 +1,5 @@
-1.
 <Reviews>
-	<Review rid="1">
+	<Review rid="0">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -43,7 +42,6 @@
 					It's sturdy, and the hinges work smoothly- nothing feels like it'll break easily.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -73,11 +71,8 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-2.
-<Reviews>
-	<Review rid="0">
+	<Review rid="1">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -158,7 +153,6 @@
 					Word of warning, the back cover is a PITA to take off, almost breaks the warranty on how difficult it was to remove.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
 				</Opinions>
 			</sentence>
  			<sentence id=":">
@@ -183,7 +177,6 @@
 					if i can figure out how to post pics, i will do that shortly.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
 				</Opinions>
 			</sentence>
  			<sentence id=":">
@@ -196,11 +189,8 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-3.
-<Reviews>
-	<Review rid="0">
+	<Review rid="2">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -275,7 +265,7 @@
 					This computer will also play all but the newest games on Full HD with ultra settings, this is something that you might find contrary to what some reviews have said about the core-i5-8250u, but it really does game great.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -310,7 +300,7 @@
 					My only single complaint about this computer doesn't bother me much but it will bother regular users of this laptop and that's the fact that you have to take off the entire bottom of the laptop to access the HDD, to add the M.2 sata III ssd, and to add ram, this includes taking off the two back rubber feet to access screws under them.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -318,16 +308,13 @@
 					Don't let that get you down though its really not hard and the rubber feet just stick back on.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-4.
-<Reviews>
-	<Review rid="0">
+	<Review rid="3">
 		<sentences>
  			<sentence id=":">
 				<text>
@@ -431,11 +418,8 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-5.
-<Reviews>
-	<Review rid="0">
+	<Review rid="4">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -450,7 +434,7 @@
 					I am a casual user, I tend to spend most of my time on my tablet or work laptop.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -458,7 +442,7 @@
 					But occasionally do need a laptop for personal use.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -466,7 +450,7 @@
 					Given that, I didnt want to spend a lot but wanted something good and this fit the bill.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -497,11 +481,8 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-6.
-<Reviews>
-	<Review rid="0">
+	<Review rid="5">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -520,7 +501,6 @@
 					<Opinion category="screen#aesthetics#size" polarity="neutral" implicit="true" />
 					<Opinion category="keyboard#aesthetics#size" polarity="neutral" implicit="false" />
 					<Opinion category="prcessor#performance#speed" polarity="positive" implicit="true" />
-
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -551,13 +531,13 @@
 			</sentence>
 			<sentence id=":">
 				<text>
-					After the SSD upgrade, the computer is very fast,it makes a huge difference in the usability of this computer
+					After the SSD upgrade, the computer is very fast,it makes a huge difference in the usability of this computer.
 				</text>
 				<Opinions>
 					<Opinion category="memory>ssd#performance#speed" polarity="positive" implicit="true" />
 				</Opinions>
 			</sentence>
-. 			<sentence id=":">
+ 			<sentence id=":">
 				<text>
 					Since there aren't any USB3 ports, I purchased a USB C - USB C enclosure for the spare hdd that I removed from this computer.
 				</text>
@@ -570,7 +550,7 @@
 					Still waiting for it to come in, but i'll update my post later.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -611,23 +591,20 @@
 					SAMSUNG, I bought another 8gb from ebay, waiting for that to come in in order to max out the ram to 16gb.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-7.
-<Reviews>
-	<Review rid="0">
+	<Review rid="6">
 		<sentences>
 			<sentence id=":">
 				<text>
 					Just got it today so these are just first impressions.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -635,7 +612,7 @@
 					Pros:
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -700,7 +677,7 @@
 					Cons:
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -746,11 +723,8 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-8.
-<Reviews>
-	<Review rid="0">
+	<Review rid="7">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -837,18 +811,15 @@
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-9.
-<Reviews>
-	<Review rid="0">
+	<Review rid="8">
 		<sentences>
 			<sentence id=":">
 				<text>
 					From this price point the PROS are.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -905,7 +876,7 @@
 					CONS.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -919,7 +890,7 @@
 			<sentence id=":">
 				<text>
 					8th gen i5 is optimized to consume less power but it does not reflect in this laptop
-Don't like the key board design .
+                    Don't like the key board design .
 				</text>
 				<Opinions>
 					<Opinion category="processor#performance#power-consumption" polarity="negative" implicit="true" />
@@ -944,11 +915,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-10.
-<Reviews>
-	<Review rid="0">
+	<Review rid="9">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1035,11 +1003,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-11.
-<Reviews>
-	<Review rid="0">
+	<Review rid="10">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1095,11 +1060,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-12.
-<Reviews>
-	<Review rid="0">
+	<Review rid="11">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1163,11 +1125,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-13.
-<Reviews>
-	<Review rid="0">
+	<Review rid="12">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1182,7 +1141,7 @@ Don't like the key board design .
 					It obviously depends on what you want to do with it.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1270,11 +1229,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-14.
-<Reviews>
-	<Review rid="0">
+	<Review rid="13">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1334,7 +1290,7 @@ Don't like the key board design .
 					This value laptop has some chops.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1342,7 +1298,7 @@ Don't like the key board design .
 					I loaded my desired suite of applications with Ninite dot com, that went quickly.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1382,7 +1338,7 @@ Don't like the key board design .
 					A nice option to watch movies if desired.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1447,7 +1403,7 @@ Don't like the key board design .
 					Bear in mind, I practically had to have the laptop a foot or two from my face for this to kick in.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1460,19 +1416,15 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-15.
-
-<Reviews>
-	<Review rid="0">
+	<Review rid="14">
 		<sentences>
 			<sentence id=":">
 				<text>
 					The laptop arrived.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1529,7 +1481,7 @@ Don't like the key board design .
 					It comes with only 2 hours worth of uninstalling crapware, vs the 8 hours of prepping I'd do on most other laptops.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1537,7 +1489,7 @@ Don't like the key board design .
 					Mostly just the crap that comes with Windows installation, Firefox, a trial for Norton AV or something, and some Acer specific software that really doesn't serve any purpose.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1569,7 +1521,7 @@ Don't like the key board design .
 					However, if you're the only one using it, the screen looks quite good.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1641,11 +1593,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-16.
-<Reviews>
-	<Review rid="0">
+	<Review rid="15">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1719,11 +1668,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-17.
-<Reviews>
-	<Review rid="0">
+	<Review rid="16">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1738,7 +1684,7 @@ Don't like the key board design .
 					It will do anything the typical user needs it to do.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1787,7 +1733,7 @@ Don't like the key board design .
 					You will need to put your own virus protection on it as the trial period ends after 30 days for the virus protection.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1800,11 +1746,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-18.
-<Reviews>
-	<Review rid="0">
+	<Review rid="17">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1877,7 +1820,7 @@ Don't like the key board design .
 					Again though, it's been a solid machine otherwise.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1885,7 +1828,7 @@ Don't like the key board design .
 					Good for anywhere you need cheap function over form.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1898,12 +1841,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-20.
-
-<Reviews>
-	<Review rid="0">
+	<Review rid="18">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -1935,7 +1874,7 @@ Don't like the key board design .
 					I also needed something simple to be able to do my homework and research.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1960,7 +1899,7 @@ Don't like the key board design .
 					Occasionally, I do use it for streaming Netflix, Hulu, and my Ultra Violet collection on Flixster.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1976,7 +1915,7 @@ Don't like the key board design .
 					I avoid installing larger programs on here, since I have another computer for that.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1984,7 +1923,7 @@ Don't like the key board design .
 					Also, I added a micro sd card to the laptop where I can save all my homework and other files on it, that way it still runs smoothly.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -1992,7 +1931,7 @@ Don't like the key board design .
 					I highly recommend this for college students or anyone who is looking for something simple and light-weight.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2000,7 +1939,7 @@ Don't like the key board design .
 					I would not recommend this for those that want or need to install larger programs to their computers or do online gaming.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2008,16 +1947,13 @@ Don't like the key board design .
 					I hope this review helps.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-21.
-<Reviews>
-	<Review rid="0">
+	<Review rid="19">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -2069,7 +2005,7 @@ Don't like the key board design .
 					I decorated mine with a gradient keyboard cover and I bought a 15" sleeve for it as well as a cordless mouse.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2082,11 +2018,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-22.
-<Reviews>
-	<Review rid="0">
+	<Review rid="20">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -2101,7 +2034,7 @@ Don't like the key board design .
 					Before buying this computer, I did a 2 days of researching, watching video reviews, reading the reviews on Amazon and other sites.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2164,11 +2097,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-23.
-<Reviews>
-	<Review rid="0">
+	<Review rid="21">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -2224,7 +2154,7 @@ Don't like the key board design .
 					This machine has dropped below $200 (I bought it for $ 156 here on Amazon refurbished) and I think it's probably the best tech decision I've ever made.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2232,7 +2162,7 @@ Don't like the key board design .
 					Instead of getting a powerful gaming laptop, I bought this and decided to build a gaming desktop.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2240,16 +2170,13 @@ Don't like the key board design .
 					Even after this purchase and building a whole new computer, I'll still come out much better on the money spectrum.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-24.
-<Reviews>
-	<Review rid="0">
+	<Review rid="22">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -2319,18 +2246,15 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-25.
-<Reviews>
-	<Review rid="0">
+	<Review rid="23">
 		<sentences>
 			<sentence id=":">
 				<text>
 					Purchased this laptop after my Chromebook stopped working.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2354,7 +2278,7 @@ Don't like the key board design .
 					Really wanted to wait before writing a review on this item just to make sure that I was totally satisfied with this item.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2362,7 +2286,7 @@ Don't like the key board design .
 					Also, I wanted to see how long it would last without anything going wrong with it.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2436,7 +2360,7 @@ Don't like the key board design .
 					The one thing that is really important to me is the keyboard and this one is perfect for me.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2491,13 +2415,8 @@ Don't like the key board design .
 			</sentence>
 		</sentences>
 	</Review>
-</Reviews>
 
-
-26.
-
-<Reviews>
-	<Review rid="0">
+	<Review rid="24">
 		<sentences>
 			<sentence id=":">
 				<text>
@@ -2512,7 +2431,7 @@ Don't like the key board design .
 					I use it for writing my documents on word or making my excel tables, for surfing the web, for playing netflix.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2520,7 +2439,7 @@ Don't like the key board design .
 					I don't care about playing powerful games, I like to play old snes or gba games so this is perfect, and also, im not a designer, so i dont worry for Photoshop or heavy programs.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2528,7 +2447,7 @@ Don't like the key board design .
 					If you do more than what I do on this PC, you should probably save up for a more expensive equipment.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2552,7 +2471,7 @@ Don't like the key board design .
 			</sentence>
 			<sentence id=":">
 				<text>
-					Lack of space?I use my external HD and im good, only the basic programs stay inside the stream, the rest as well as the pictures stay out of it.
+					Lack of space? I use my external HD and im good, only the basic programs stay inside the stream, the rest as well as the pictures stay out of it.
 				</text>
 				<Opinions>
 					<Opinion category="memory#featutes#capacity" polarity="negative" implicit="true" />
@@ -2573,7 +2492,7 @@ Don't like the key board design .
 					Im planning on getting another one just out of a pure whim, but to me, is worth it.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2581,7 +2500,7 @@ Don't like the key board design .
 					Blocked the updates so it wont be acting slow while using it, and got the 64 gb model to leave some room in case an update requires it but anyway.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
+					
 				</Opinions>
 			</sentence>
 			<sentence id=":">
@@ -2589,14 +2508,9 @@ Don't like the key board design .
 					If you can move around windows and delete or reconfigure a thing here and there, and if you dont use it for something else like myself, then this is the perfect and affordable computer for you.
 				</text>
 				<Opinions>
-					<Opinion category="" polarity="" implicit="" />
 				</Opinions>
 			</sentence>
-If you prefer to have a more powerful equipment and arent please with the basic features that this pc offers, then this aint for you.v
+            If you prefer to have a more powerful equipment and arent please with the basic features that this pc offers, then this aint for you.v
 		</sentences>
 	</Review>
 </Reviews>
-
-
-
-

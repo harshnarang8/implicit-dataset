@@ -1667,7 +1667,7 @@
 		<sentences>
 			<sentence>
 				<text>
-					laptop performs well.
+					Laptop performs well.
 				</text>
 				<Opinions>
 					<Opinion category="laptop#performance#overall" polarity="positive" implicit="false" />

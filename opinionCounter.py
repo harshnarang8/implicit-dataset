@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
-
-tree = ET.parse('mobileReviews.xml')
+import sys
+file = sys.argv[1]
+tree = ET.parse(file)
 
 root = tree.getroot()
 
@@ -30,6 +31,11 @@ for review in root:
 
 sum1 = 0
 sum2 = 0
+
+print "Counts: "
+print sum(pCategoryDict.values())
+print sum(nCategoryDict.values())
+print sum(cCategoryDict.values())
 
 print "Implicit:"
 

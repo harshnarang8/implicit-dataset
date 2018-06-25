@@ -1,0 +1,75 @@
+<Reviews>
+    <Review rid="0">
+        <sentences>
+			<sentence>
+				<text>
+					I love this laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Comes with everything you need: battery, charger, Windows 10, and setup takes 5 minutes.
+				</text>
+				<Opinions>
+					<Opinion category="battery#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="charger#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="software>os#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="software>os#functionality#initial-setup" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					No glitching or anything; can't even tell it's refurbished.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					I'm happy it comes with a DVD player and webcam too.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#dvd-player" polarity="neutral" implicit="false" />
+					<Opinion category="webcam#functionality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					It's sturdy, and the hinges work smoothly- nothing feels like it'll break easily.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#durability#build-quality" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The keys offer a smooth typing experience.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#typing-experience" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					The screen is bright and the sound is good and punchy.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#brightness" polarity="positive" implicit="false" />
+					<Opinion category="speakers#performance#sound-quality" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence>
+				<text>
+					Altogether I'm in love with this laptop for all that it comes with for such a great price- you really cannot beat it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+        </sentences>
+    </Review>
+</Reviews>
