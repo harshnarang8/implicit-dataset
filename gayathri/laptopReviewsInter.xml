@@ -1,0 +1,2602 @@
+1.
+<Reviews>
+	<Review rid="1">
+		<sentences>
+			<sentence id=":">
+				<text>
+					I love this laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Comes with everything you need: battery, charger,Windows 10, and setup takes 5 minutes.
+				</text>
+				<Opinions>
+					<Opinion category="battery#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="charger#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="software>os#functionality#overall" polarity="neutral" implicit="true" />
+					<Opinion category="software#functionality#initial-setup" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					No glitching or anything; can't even tell it's refurbished.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					I'm happy it comes with a DVD player and webcam too.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#dvd-player" polarity="positive" implicit="false" />
+					<Opinion category="webcam#functionality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's sturdy, and the hinges work smoothly- nothing feels like it'll break easily.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The keys offer a smooth typing experience.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#typing-experience" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The screen is bright and the sound is good and punchy.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#brightness" polarity="positive" implicit="false" />
+					<Opinion category="speakers#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Altogether I'm in love with this laptop for all that it comes with for such a great price- you really cannot beat it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+2.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Definitely a steal at the price i bought this for.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Initial impression is that this thing is super light, almost 1/2 the weight of my Asus ux501vw but with the same screen dimensions.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+					<Opinion category="screen#aesthetics#dimensions" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Hard drive is slow and definitely needs to be replaced by an SSD.
+				</text>
+				<Opinions>
+					<Opinion category="memory>hard-drive#performance#speed" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I Bought an M2 gen 3 SSD, but it does not fit, appears that this is NVME.
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#features#compatibility" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Also, popped off the back cover and added a 16gb stick in the empty slot.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#additional-memory" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					My guess is that this can handle 32gb, which makes it such a steal.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#additional-memory" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Keyboard feels firm and no flex, screen is nice for the price range.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#strength" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Battery life doesn't seem to be more than 5 hours, but i expected that going in.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Battery charger is super tiny and lightweight, which is an additional advantage vs the 1 lb brick that you have to lug around with the ux501vw.
+				</text>
+				<Opinions>
+					<Opinion category="charger#aesthetics#size" polarity="positive" implicit="true" />
+					<Opinion category="charger#aesthetics#weight" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Word of warning, the back cover is a PITA to take off, almost breaks the warranty on how difficult it was to remove.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Edit: it definitely supports 32gb ram as that is what i installed last night and it is running just fine.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					also the m2 slot is nvme, i just ordered one as my m2 gen3 ssd did not work due to the connector.
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#features#m2-compatibility" polarity="negative" implicit="false" />
+					<Opinion category="memory>ssd#features#nvme-compatibility" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					if i can figure out how to post pics, i will do that shortly.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					This is a great deal!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+3.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Best laptop you can get for the price.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Any laptops with everything this has will cost between 650-750 dollars and they won't even have all that this laptop has to offer, first I'm an IT I work on computers daily so getting an Asus (top 3 consumer laptop brand) at this price with these specs is all you need to know to buy it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This laptop has a 15.6 inch Full HD (1920x1080) display, yet fits in a 14 inch laptop sleeve, that in itself is awesome.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The 8th gen core i5-8250u is a blazing fast SoC.
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#speed" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Compared to last years core i5-7200u, the 8250u has 4 cores/8 threads instead of 2 cores/4 threads and its overall 56 percent faster.
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#cores" polarity="positive" implicit="false" />
+					<Opinion category="processor#features#threads" polarity="positive" implicit="false" />
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I'll let numbers speak for themselves, on Geekbench 4.2 this laptop scores 4000 on single core, 12,200 on multi core, and over 17,000 on computational using openCL.
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					For those of you that have don't know what I'm talking about, I'll make it easy to understand, IT"S FAST!
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The display is brilliant, has the whitest whites and the blackest blacks, contrast is excellent and the colors are outstanding.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="screen#aesthetics#contrast" polarity="positive" implicit="true" />
+					<Opinion category="screen#aesthetics#colors" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This computer will also play all but the newest games on Full HD with ultra settings, this is something that you might find contrary to what some reviews have said about the core-i5-8250u, but it really does game great.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The fingerprint scanner is something you rarely find on sub 1,000 dollar laptops and this one works perfectly turn it on, it boots up extremely fast at the login screen just press your finger to the reader which is on the top right of the trackpad and when it tells you hello your logged in.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-scanner#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="fingerprint-scanner#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					All in all from an IT's prospective this is the best dang laptop your going to find at this price and even above it, did I mention you can even add a second M.2 sata III ssd and it will using an Intel technology will see the HDD and the ssd as 1 drive and move all your most used content to the ssd for fast access and use the HDD for basic storage.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+					<Opinion category="memory>ssd#features#m2-compatibility" polarity="positive" implicit="true" />
+					<Opinion category="memory>ssd#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I don't see the need to because it already boots dang near as fast as a lot of laptops with ssd's but that would speed it up even more.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					My only single complaint about this computer doesn't bother me much but it will bother regular users of this laptop and that's the fact that you have to take off the entire bottom of the laptop to access the HDD, to add the M.2 sata III ssd, and to add ram, this includes taking off the two back rubber feet to access screws under them.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Don't let that get you down though its really not hard and the rubber feet just stick back on.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+4.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+ 			<sentence id=":">
+				<text>
+					What I like about the ASUS VivoBook:It is so lightweight, you can keep it on your lap forever.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It produces no discernable heat, so you don't need a cooling fan, like on my old laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#temperature" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The ASUS has plenty of storage capacity and is a fast machine.
+				</text>
+				<Opinions>
+					<Opinion category="memory#features#capacity" polarity="positive" implicit="false" />
+					<Opinion category="laptop#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I use a wireless mouse, so I can not comment on the touch pad.
+				</text>
+				<Opinions>
+					<Opinion category="touchpad#quality#overall" polarity="neutral" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I do like the fingerprint sign-in feature a lot.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprint-scanner#quality#overall" polarity="positive" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I also like the clean look of the computer, and the buff, pewter finish.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The monitor is excellent.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					What I would like to see improved:The keyboard has no Caps On indicator, so I usually find out after I have typed a few lines and look at the screen.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#features#caps-on-indicator" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Please, have a Caps On light.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#features#caps-on-indicator" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The keyboard does not feel firm or positive, so it takes getting used to.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#firmness" polarity="negative" implicit="false" />
+					<Opinion category="keyboard#aesthetics#ease-of-use" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I prefer a keyboard with a positive click or feel.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#firmness" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Small potatoes, but I wish the Delete key had larger lettering, as I use that key often and in dim light have difficulty locating it.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard>delete-key#aesthetics#dimensions" polarity="negative" implicit="true" />
+					<Opinion category="keyboard>delete-key#features#ease-of-use" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+5.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Awesome laptop especially if you don't have a ton of cash to spend on a new one or dont need anything super high end.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I am a casual user, I tend to spend most of my time on my tablet or work laptop.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					But occasionally do need a laptop for personal use.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Given that, I didnt want to spend a lot but wanted something good and this fit the bill.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Its super lightweight, fast processor and stylish looking too.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Only drawback is the keyboard doesnt light up so hence the 4 stars.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#features#backlight" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					But otherwise an amazing laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+6.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					The ASUS VivoBook represents what I would want in a full sized laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#size" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					15" screen, full sized keyboard and speed fast enough for some low quality games such as LoL.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="neutral" implicit="true" />
+					<Opinion category="keyboard#aesthetics#size" polarity="neutral" implicit="false" />
+					<Opinion category="prcessor#performance#speed" polarity="positive" implicit="true" />
+
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's light and thin, and overall the screen is pretty good.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#thickness" polarity="positive" implicit="true" />
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					As is the computer is not usable, you must upgrade to SSD.
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The hdd that comes with the computer is slow and loud, in fact the computer is not usable by todays standard, it's terribly slow.
+				</text>
+				<Opinions>
+					<Opinion category="memory>hard-drive#performance#speed" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					After the SSD upgrade, the computer is very fast,it makes a huge difference in the usability of this computer
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+. 			<sentence id=":">
+				<text>
+					Since there aren't any USB3 ports, I purchased a USB C - USB C enclosure for the spare hdd that I removed from this computer.
+				</text>
+				<Opinions>
+					<Opinion category="port#functionlity#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Still waiting for it to come in, but i'll update my post later.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The build quality is cheap.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#overall" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+  			<sentence id=":">
+				<text>
+					everything is plastic.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+
+  			<sentence id=":">
+				<text>
+					The screw nut cracked when I unscrewed he hdd since the surrounding is all plastic.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#overall" polarity="negative" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					the ram my computer came with is branded.
+				</text>
+				<Opinions>
+					<Opinion category="ram#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					SAMSUNG, I bought another 8gb from ebay, waiting for that to come in in order to max out the ram to 16gb.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+7.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Just got it today so these are just first impressions.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Pros:
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Sleek and nice texture on lid.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#sleekness" polarity="positive" implicit="false" />
+					<Opinion category="hardware>lid#aesthetics#texture" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Acceptable amount of flex.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#strength" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Lightweight.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Fingerprint reader is working well.
+				</text>
+				<Opinions>
+					<Opinion category="fingerprit-reader#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Track pad is accurate.
+				</text>
+				<Opinions>
+					<Opinion category="touchpad#performance#accuracy" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Keyboard is comfortable to use.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Screen looks good.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Cons:
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Feels very slow (hoping an ssd will fix this).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Finger doesn't side smoothly along track pad.There's some unnecessary resistance / stickyness.
+				</text>
+				<Opinions>
+					<Opinion category="touchpad#aesthetics#ease-of-use" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Took literally 5+ hours for Windows update / setup.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#upgradation" polarity="neutral" implicit="true" />
+					<Opinion category="software#functionality#initial-setup" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					There's some coil whine type noise but not too loud.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#functionality#noise" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The webcam is a bad joke.
+				</text>
+				<Opinions>
+					<Opinion category="webcam#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+8.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					This laptop is perfect!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've been using it for over a month and I don't have any complaints as of yet.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Compared to my previous laptop (a Lenovo Z50-70 15.6 in.) it is A LOT more functional i.e,I don't have to constantly plug it in to charge, since the battery lasts hours.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#functionality#overall" polarity="positive" implicit="false" />
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Another feature that I like is the weight--I can easily hold it with one hand.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Perfect for users who are travelling with it in a bag, since it doesn't cause a lot of strain.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I was a little hesitant at first to buy it because it has a Core i5 processor and I was hoping to buy a laptop with at least Core i7, but the computer runs very quickly and it isn't slow at all.
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I currently use many Adobe programs on this laptop and it doesn't have any trouble running them at all.
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					One VERY minor issue I have is these little plastic blue things that stick out on the bottom corners of the screen panel.
+				</text>
+				<Opinions>
+					<Opinion category="screen>panel#aesthetics#none" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I have no idea what their purpose is and I can't seem to get it out.
+				</text>
+				<Opinions>
+					<Opinion category="screen>panel#aesthetics#none" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					They sometimes scratch me which is a little annoying, but other than that, 10/10 laptop!
+				</text>
+				<Opinions>
+					<Opinion category="screen>panel#aesthetics#none" polarity="negative" implicit="true" />
+					<Opinion category="laptop#quality#polarity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+9.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					From this price point the PROS are.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Nice Anti glare screen.Good color pixels.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#brightness" polarity="positive" implicit="true" />
+					<Opinion category="screen#aesthetics#color" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					8th Gen i5 processor.
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#model" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Quite fast booting after adding M2 SSD.
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Build quality is good.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#strength" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Do have cheap things.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Look like premium laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aestheics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					CONS.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Battery can be improved.
+				</text>
+				<Opinions>
+					<Opinion category="battery#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					8th gen i5 is optimized to consume less power but it does not reflect in this laptop
+Don't like the key board design .
+				</text>
+				<Opinions>
+					<Opinion category="processor#performance#power-consumption" polarity="negative" implicit="true" />
+					<Opinion category="keyboard#aesthetics#design" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Initially i thought mine is a defective one then cam to know this is chiclet keyboard.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#design" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I was about to return the laptop considering the center portion of the laptop is pressed below.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+10.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					This computer functions very well as a gaming laptop for the price.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The graphics quality is amazing, Skyrim has never looked better.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#graphics" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The laptop runs smoothly and renders larger games quickly.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#peformance#overall" polarity="positive" implicit="true" />
+					<Opinion category="software>apps#peformance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					There are only two cons, the sound quality and the overheating.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#clarity" polarity="negative" implicit="false" />
+					<Opinion category="laptop#features#laptop" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Without head phones the sound is very low for games even with the computer and game volume on max.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#loudness" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					With head phones, however, the sound is clear, crisp, and clean.
+				</text>
+				<Opinions>
+					<Opinion category="earphones#performance3sound-quality" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If playing for short periods of time over heating isn't a problem(1-2 hours of gameplay).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#temperature" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					4+hours you will need a cooling pad/fan which I do have and works very well.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#temperature" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					All in all a great cheap gaming laptop that even with the cons I am not dissatisfied with the product.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If I needed another I would definitely buy again.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#qquality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+11.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Amazing.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Pop an SSD into this thing and you will be amazed.
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Great screen!
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I came from a cheap HP laptop and the screen, build quality, battery life, processing power are miles better!
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="hardware#quality#overall" polarity="positive" implicit="false" />
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+					<Opinion category="processor#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Love the small form factor, perfect laptop at the perfect price.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#form-factor" polarity="positive" implicit="false" />
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Buy it....
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+12.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Computer is pretty much a steal at this price.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					First off its crazy how light this is.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It took a little getting used to the keyboard since it is a 15.6 screen on a smaller laptop, I have not noticed any screen bleeding like others have noticed, good screen.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#ease-of-use" polarity="negative" implicit="true" />
+					<Opinion category="screen#aesthetics#size" polarity="negative" implicit="true" />
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Even without a SSD, it is still pretty fast.
+				</text>
+				<Opinions>
+					<Opinion category="memory>hard-drive#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I haven't had any issues with the keyboard like others have stated, mine feels pretty firm.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="keyboard#aesthetics#firmness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It has great speakers, and decent build quality.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="hardware#quality#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					All around a great buy.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+13.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					It is an okay laptop and nothing more.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It obviously depends on what you want to do with it.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I would not expect this to work well for gaming or other tasks requiring movement of huge data stacks back and forth.
+				</text>
+				<Opinions>
+					<Opinion category="software>apps#performance#overall" polarity="negative" implicit="true" />
+					<Opinion category="laptop#performance#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If you have the tv on and are surfing the web at the same time, this is probably the right product for you.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+
+			<sentence id=":">
+				<text>
+					What I like: Beautiful resolution.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Light to carry.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthtics#weight" polarity="positive" implicit="true" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Bigger screen.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#size" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Nice keyboard.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					What I do not like: The charge cord is very short, about 1/2 the size of a regular charging cord.
+				</text>
+				<Opinions>
+					<Opinion category="charger#functionality#cord-size" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The battery capacity is 3 hours on a full charge.
+				</text>
+				<Opinions>
+					<Opinion category="battery#features#capacity" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The small battery capacity is the number one reason I would not buy this product and would recommend with that caveat being disclosed.
+				</text>
+				<Opinions>
+					<Opinion category="battery#features#capacity" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The fact that I am a light user and mostly read the news and so on, is the reason I did not return this as soon as I received it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+14.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					This is a nice setup for under $400.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The laptop features the Intel i3-8130U 8th generation (latest generation for 4/2018, a 2 core processor), a 1TB drive and 6gb RAM.
+				</text>
+				<Opinions>
+					<Opinion category="processor#features#model" polarity="neutral" implicit="true" />
+					<Opinion category="memory>hard-drive#features#capacity" polarity="neutral" implicit="true" />
+					<Opinion category="ram#features#capacity" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The battery is supposed to last for 12 hours (I tested this a bit but not a lot).
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The laptop has 6gb, a read/write DVD drive, and a lot of connections and a 1920 x 1080 display.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#dvd-drive" polarity="positive" implicit="false" />
+					<Opinion category="laptop#features#connections" polarity="positive" implicit="false" />
+					<Opinion category="screen#aesthetics#size" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The laptop is responsive and snappy for an under $400 laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					I’m a bit perplexed by some of the reviews claiming this to be slow.It is not.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This value laptop has some chops.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I loaded my desired suite of applications with Ninite dot com, that went quickly.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					In testing performance, I ran a Netflix movie and a show on YouTube at the same time with no performance degradation.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					I ran the 2+ hour movie twice while doing other stuff on the laptop and the battery still showed over 7 hours left.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					This laptop has a lot of connectors: USB, HDMI, and even a VGA connection (which I would suggest dropping, if you need that just put a HDMI/VGA adapter in your computer bag).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#connections" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Also included is the R/W DVD drive... something becoming rare in laptops.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#dvd-drive" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					A nice option to watch movies if desired.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The laptop display is good but has a poor viewing angle.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="screen#features#viewing-angle" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I wasn’t surprised, my guess is that this is the display was where trade-offs were made to get the laptop to this price.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The display is hard to see from the side (a witty salesperson would claim this is great for privacy) and required tilting the display forward/back more than I liked to obtain the best viewing angle from the front.
+				</text>
+				<Opinions>
+					<Opinion category="scrreen#features#view-angle" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The speakers surprised me.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The speaker volume is typical to most laptops in that I wish it would be about 20% louder at max.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performnce#loudness" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The speakers seems to be nice but not amazing, at least until I was lying on a couch watching a movie with the laptop on my chest.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The nearness of my ears to the speakers allowed me to hear a very nice spacial mix of the sound.. the movie sound track "bloomed" at that point and was surprisingly good.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Bear in mind, I practically had to have the laptop a foot or two from my face for this to kick in.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Overall, for sub $400, this is a very nice performing laptop.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+15.
+
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					The laptop arrived.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The looks would probably get a 3/5.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's somewhere in the middle of a cheap laptop, with some accents found on more expensive models.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					But the built quality and design, is similar to $300-$500 laptops.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#overall" polarity="positive" implicit="false" />
+					<Opinion category="laptop#aesthetics#design" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Like mentioned, the viewing angles of this screen isn't the best, but if it's just for you, sitting in front, it's quite ok!
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#viewing-angle" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I like how they re-assigned some of the Fn keys (vol and screen brightness) to the cursor keys, instead of your standard number or F-keys.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#features#user-friendliness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The speakers sound very nice for a laptop of this kind.
+				</text>
+				<Opinions>
+					<Opinion category="speakers#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It comes with only 2 hours worth of uninstalling crapware, vs the 8 hours of prepping I'd do on most other laptops.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Mostly just the crap that comes with Windows installation, Firefox, a trial for Norton AV or something, and some Acer specific software that really doesn't serve any purpose.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The weakness of this device is definitely the slow harddrive, that results in a laggy device.
+				</text>
+				<Opinions>
+					<Opinion category="memory>hard-drive#performance#speed" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Upgrade to an SSD ($60-120 more), and this device should work quite well!
+				</text>
+				<Opinions>
+					<Opinion category="memory>ssd#perfromance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					That, and the screen, which has poor viewing angles.
+				</text>
+				<Opinions>
+					<Opinion category="screen#eatures#viewing-angle" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					However, if you're the only one using it, the screen looks quite good.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's definitely bright enough for indoor usage.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#brightness" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The colors are ok.
+				</text>
+				<Opinions>
+					<Opinion category="screen#aesthetics#color" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					They say 'wide gamut', but because the blacks aren't really black, it looks more like a cheaper TFT screen.
+				</text>
+				<Opinions>
+					<Opinion category="screen#" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					For the rest, I had no problems with wifi, browsing, gaming (does well up to 1080p).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#wifi" polarity="positive" implicit="false" />
+					<Opinion category="laptop#functionality#browsing" polarity="positive" implicit="false" />
+					<Opinion category="software>apps#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The RAM is supposedly upgradeable to either 8 or 32GB, but 6GB is really more than you need for day to day usage.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#upgradation" polarity="positive" implicit="false" />
+					<Opinion category="ram#features#capacity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					For the price, it's a great device, that blows older professional laptops of 10x the price, out of the water (performance wise).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It probably will serve me well for the 4 to 6 years of the lifetime of a laptop.(No reason to go with a more expensive Asus or Sony that will outlast this laptop for 4 years, when you only keep laptops 4 to 5 years max).
+				</text>
+				<Opinions>
+					<Opinion category="laptop#durability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					My guess is, this laptop will outlive Windows 10, and that's a good thing!
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#compatiblity" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+16.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Have had good success with Acer laptops in the past, and this adds to that reputation.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quallity#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Impressed with solid construction and speed/processing power considering the price.
+				</text>
+				<Opinions>
+					<Opinion category="hardware#quality#strength" polarity="positive" implicit="true" />
+					<Opinion category="processor#performance#speed" polarity="positive" implicit="false" />
+					<Opinion category="laptop#performance#processing-power" polarity="positive" implicit="false" />
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Recently bought a Lenovo laptop for similar money, and this is way better.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					Setup went quickly; very happy with the wireless, and appreciated the fact that it comes with DVD drive when many now do not.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#functionality#initial-setup" polarity="positive" implicit="false" />
+					<Opinion category="laptop#features#wireless" polarity="positive" implicit="false" />
+					<Opinion category="laptop#features#dvd-drive" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					HD screen provides plenty of clarity.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="true" />
+					<Opinion category="screen#features#clarity" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Very impressed with the long battery life as well.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Windows 10 is a serious upgrade from the previous versions, and having it already installed on here made setup go much faster.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#pre-installation" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Definitely not a high end laptop, but will get the job done for work or for a college student in a non-technical major, and appears much more durable and robust than some of the "sleeker" models on sale in stores next to it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+17.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					This is a nice laptop in the price point.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It will do anything the typical user needs it to do.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It's good for just surfing the internet, playing and streaming videos and music, and even some games.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#functionality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The picture on the screen is very clear and looks fantastic.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#clarity" polarity="positive" implicit="false" />
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I really notice the full HD capabilities.
+				</text>
+				<Opinions>
+					<Opinion category="screen#features#resolution" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The computer speed is good, doesn't run too slow.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#speed" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This is a nice family laptop and it stay in our living room for all family members to use when needed.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					You will need to put your own virus protection on it as the trial period ends after 30 days for the virus protection.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Battery life also seems good with the battery not draining too quickly while doing tasks.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+18.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Laptop performs well.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've even used it as portable game capture machine, which from specs it should really suck at.
+				</text>
+				<Opinions>
+					<Opinion category="software>games#perfromance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The problem is the case and keyboard.
+				</text>
+				<Opinions>
+					<Opinion category="case#quality#overall" polarity="negative" implicit="true" />
+					<Opinion category="keyboard#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Horrible.
+				</text>
+				<Opinions>
+					<Opinion category="case#quality#overall" polarity="negative" implicit="coreference" />
+					<Opinion category="keyboard#quality#overall" polarity="negative" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The pictures do not do it justice.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This is the cheapest feeling laptop I've ever dealt with.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Keyboard is mushy.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#quality#strength" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I was excited when I ordered but immediately regretted it when the wife opened the box.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Again though, it's been a solid machine otherwise.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Good for anywhere you need cheap function over form.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Just set your other expectations really low.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+20.
+
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					I love this little laptop!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Being in college, I needed a laptop that was easy to take to school and back home.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#portability#overall" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This laptop is perfect for trips as such because it barely weighs a thing.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I also needed something simple to be able to do my homework and research.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This laptop is perfect for that too.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#" polarity="positive" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I've had it for two months so far and it doesn't slow down on me since I'm only using it for those things.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#reliability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Occasionally, I do use it for streaming Netflix, Hulu, and my Ultra Violet collection on Flixster.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Still, the computer doesn't slow down.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="coreference" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I avoid installing larger programs on here, since I have another computer for that.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Also, I added a micro sd card to the laptop where I can save all my homework and other files on it, that way it still runs smoothly.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I highly recommend this for college students or anyone who is looking for something simple and light-weight.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I would not recommend this for those that want or need to install larger programs to their computers or do online gaming.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I hope this review helps.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+21.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Windows computers require a bit of work to get them user-ready.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#fetures#user-friendliness" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					So be prepared to uninstall some bloatware from Windows (and a little bit from HP) but it's really simple.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The HP Stream is very lightweight and pleasing to the eye.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="laptop#aesthetics#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The display is lovely, the laptop itself is very thin (easily portable) and have a great keyboard and touch pad size.
+				</text>
+				<Opinions>
+					<Opinion category="screen#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="laptop#aesthetics#thickess" polarity="positive" implicit="true" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="false" />
+					<Opinion category="keyboard#quality#overall" polarity="positive" implicit="true" />
+					<Opinion category="touchpad#aesthetics#size" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It is the least clunky work laptop I've had yet!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#qality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I decorated mine with a gradient keyboard cover and I bought a 15" sleeve for it as well as a cordless mouse.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I'm excited to use bluetooth items with it (like my headphones or my record player for music) and I plan on using this for work for years to come!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#durabiloty#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+22.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					This is a great computer for me!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Before buying this computer, I did a 2 days of researching, watching video reviews, reading the reviews on Amazon and other sites.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					After having the computer for a couple of days, I absolutely love it!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It is very light, and portable for anyone on the go.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It has a batter life that lost all day for me.
+				</text>
+				<Opinions>
+					<Opinion category="battery#perfromance#life" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I attend school from 9am-4pm and I do not need a charge.
+				</text>
+				<Opinions>
+					<Opinion category="battery#performance#life" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The computer was slow when I first received it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					After getting rid of the bloatware and the other apps that you do not need/want, the computer speeds up.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="negative" implicit="false" />
+					<Opinion category="laptop#performance#speed" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Overall and great computer!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+23.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Honestly, when I bought this laptop and saw the specs, I was cautiously optimistic.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					My expectations have been thoroughly exceeded though.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This little laptop is small enough to be actually portable, gets decent battery life at around 6 to 8 hours of average usage, and can stream most media easily without any problems.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="false" />
+					<Opinion category="battery#performance#life" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I'd highly suggest uninstalling some of the startup programs with CCleaner to help with making sure the computer runs as smoothly as possible, as I did.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#features#bloatware" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The only caveat with this computer is that you'll need a MicroSD card or an external hard drive, as the majority of your 32GB will be taken up by main Windows files and temporary files.
+				</text>
+				<Opinions>
+					<Opinion category="memory>hard-drive#features#capacity" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					External memory options are pretty cheap these days, so it shouldn't be too big of an issue.
+				</text>
+				<Opinions>
+					<Opinion category="memory#functionality#external" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This machine has dropped below $200 (I bought it for $ 156 here on Amazon refurbished) and I think it's probably the best tech decision I've ever made.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Instead of getting a powerful gaming laptop, I bought this and decided to build a gaming desktop.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Even after this purchase and building a whole new computer, I'll still come out much better on the money spectrum.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+24.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					It's a good buy for the cost.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The computer has changed a great color to it, which really makes it stand out from all the black and grey computers in the world.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#color" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It works very well.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					No issues so far, but it is not the fastest computer in the world.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#perfromance#speed" polarity="neutral" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It does take some time to start up and it does occasionally freeze out of no where.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#reliability#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Have had it for a little over a month now and no major issues have occurred.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Would definitely recommend for those looking for an inexpensive laptop that don't need a lot of RAM or lightening speed.
+				</text>
+				<Opinions>
+					<Opinion category="ram#features#capacity" polarity="negative" implicit="true" />
+					<Opinion category="laptop#price#worthiness" polarity="positive" implicit="true" />
+					<Opinion category="laptop#performance#speed" polarity="negative" implicit="false" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Would be great for students.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+25.
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					Purchased this laptop after my Chromebook stopped working.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Could not be happier with it!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I have now owned this for 7 months and it is still working well and I have not had any issues at all.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Really wanted to wait before writing a review on this item just to make sure that I was totally satisfied with this item.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Also, I wanted to see how long it would last without anything going wrong with it.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					This laptop is not heavy at all which is great for carrying it around the house and on the go.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					My chrome was heavier than this laptop so to me this is a super plus!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I give it an A for being light weight and portable.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The color is a really nice blue that does match my office décor.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#color" polarity="neutral" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The blue color is not blinding and also not dull it is just the perfect color that does not scream!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#color" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					It has many features that come with it although I have not used most of them because I just really need it to store my paperwork, notes and work on home budgets etc…
+				</text>
+				<Opinions>
+					<Opinion category="laptop#features#overall" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+ 			<sentence id=":">
+				<text>
+					The office products are wonderful so if you need a laptop for home, office or even school work I would recommend this laptop as a great purchase.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Not having watched any movies on it, I can not really comment but it does play youtube videos really well.
+				</text>
+				<Opinions>
+					<Opinion category="software>os#performance#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The one thing that is really important to me is the keyboard and this one is perfect for me.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The keyboard is a good size and I am able to type out my letters and such really fast without having any of the keys getting stuck or locking up which I did start to have a problem with my chrome.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#aesthetics#size" polarity="positive" implicit="true" />
+					<Opinion category="keyboard#features#ease-of-use" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I have used this laptop hours at a time and it does not get hot like others I have owned which is wonderful!
+				</text>
+				<Opinions>
+					<Opinion category="laptop#featutes#temperature" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Also, I have not had any issues with it freezing or locking up on me.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#realiability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I would recommend this laptop to anyone that is considering buying it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It will definitely fit all your needs and much more.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					It is light weight and portable with a great blue color.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="laptop#aesthetics#color" polarity="positive" implicit="false" />
+				</Opinions>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+
+
+26.
+
+<Reviews>
+	<Review rid="0">
+		<sentences>
+			<sentence id=":">
+				<text>
+					I love it.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#quality#overall" polarity="positive" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I use it for writing my documents on word or making my excel tables, for surfing the web, for playing netflix.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					I don't care about playing powerful games, I like to play old snes or gba games so this is perfect, and also, im not a designer, so i dont worry for Photoshop or heavy programs.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If you do more than what I do on this PC, you should probably save up for a more expensive equipment.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Its lightweight, and the purple color is beautiful, for traveling is a complete delight.
+				</text>
+				<Opinions>
+					<Opinion category="laptop#aesthetics#weight" polarity="positive" implicit="false" />
+					<Opinion category="laptop#aesthetics#color" polarity="positive" implicit="false" />
+					<Opinion category="laptop#portability#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The keyboard works fine for me (I use a protector anyway so it looks extra cute with the colorful keys) and the touchpad could have an improvement maybe, but is nothing to die for or to rant about.
+				</text>
+				<Opinions>
+					<Opinion category="keyboard#performance#overall" polarity="positive" implicit="true" />
+					<Opinion category="touchpad#quality#overall" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Lack of space?I use my external HD and im good, only the basic programs stay inside the stream, the rest as well as the pictures stay out of it.
+				</text>
+				<Opinions>
+					<Opinion category="memory#featutes#capacity" polarity="negative" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					The screen is good, not perfect, but good for what I need to do or what I want to see, the camera isnt the best but in my case, i dont use it - - to be honest, I never thought you could fall in love with things, but I just did with this computer.
+				</text>
+				<Opinions>
+					<Opinion category="screen#qulaity#overall" polarity="neutral" implicit="true" />
+					<Opinion category="webcam#qulaity#overall" polarity="neutral" implicit="true" />
+					<Opinion category="laptop#qulaity#overall" polarity="positive" implicit="true" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Im planning on getting another one just out of a pure whim, but to me, is worth it.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					Blocked the updates so it wont be acting slow while using it, and got the 64 gb model to leave some room in case an update requires it but anyway.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+			<sentence id=":">
+				<text>
+					If you can move around windows and delete or reconfigure a thing here and there, and if you dont use it for something else like myself, then this is the perfect and affordable computer for you.
+				</text>
+				<Opinions>
+					<Opinion category="" polarity="" implicit="" />
+				</Opinions>
+			</sentence>
+If you prefer to have a more powerful equipment and arent please with the basic features that this pc offers, then this aint for you.v
+		</sentences>
+	</Review>
+</Reviews>
+
+
+
+
