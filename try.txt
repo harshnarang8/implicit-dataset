@@ -1,7 +1,1263 @@
-        <title>
-            <text>
-            </text>
-        </title>
-        <score value="" />
-        <url link="" />
-		
+1.great price- you really cannot beat it.
+
+I love this laptop.
+laptop#quality#overall 2 1
+Comes with everything you need: battery, charger, Windows 10, and setup takes 5 minutes.
+battery#functionality#overall 1 1
+
+charger#functionality#overall 1 1
+No glitching or anything; can't even tell it's refurbished.
+laptop#performance#overall 2 1
+I'm happy it comes with a DVD player and webcam too.
+laptop#features#dvd-player 1 0
+
+webcam#functionality#overall 1 1
+It's sturdy, and the hinges work smoothly- nothing feels like it'll break easily.
+laptop#durability#build-quality 2 1
+The keys offer a smooth typing experience.
+keyboard#aesthetics#typing-experience 2 0
+The screen is bright and the sound is good and punchy.
+screen#features#brightness 2 0
+
+speakers#performance#sound-quality 2 0
+Altogether I'm in love with this laptop for all that it comes with for such a great price- you really cannot beat it.
+laptop#price#worthiness 2 0
+
+2.Initial impression is that this thing is super light, almost 1/2 the weight of my Asus ...
+
+Definitely a steal at the price i bought this for.
+laptop#price#worthiness 2 0
+Initial impression is that this thing is super light, almost 1/2 the weight of my Asus ux501vw but with the same screen dimensions.
+laptop#aesthetics#weight 2 0
+
+screen#aesthetics#size 2 0
+Hard drive is slow and definitely needs to be replaced by an SSD.
+memory>hard-drive#performance#speed 2 0
+I Bought an M2 gen 3 SSD, but it does not fit, appears that this is NVME.
+memory>ssd#features#m2-compatibility 0 0
+
+memory>ssd#features#nvme-compatibility 0 0
+Also, popped off the back cover and added a 16gb stick in the empty slot.
+ram#features#upgradation 2 1
+My guess is that this can handle 32gb, which makes it such a steal.
+ram#features#capacity 2 1
+keyboard feels firm and no flex, screen is nice for the price range.
+keyboard#aesthetics#build-quality 2 1
+
+screen#quality#overall 2 1
+Battery life doesn't seem to be more than 5 hours, but i expected that going in.
+battery#performance#life 1 0
+Battery charger is super tiny and lightweight, which is an additional advantage vs the 1 lb brick that you have to lug around with the ux501vw.
+charger#aesthetics#weight 2 0
+Word of warning, the back cover is a PITA to take off, almost breaks the warranty on how difficult it was to remove.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+3.Best laptop for 500 dollars hands down. You're getting a fantastic Asus quality Ultrabook for 500 dollars, read my review.
+5
+
+Best laptop you can get for the price.
+laptop#price#worthiness 2 0
+Any laptops with everything this has will cost between 650-750 dollars and they won't even have all that this laptop has to offer, first I'm an IT I work on computers daily so getting an Asus (top 3 consumer laptop brand) at this price with these specs is all you need to know to buy it.
+laptop#price#worthiness 2 0
+This laptop has a 15.6 inch Full HD (1920x1080) display, yet fits in a 14 inch laptop sleeve, that in itself is awesome.
+screen#aesthetics#size 2 1
+screen#aesthetics#resolution 2 1
+laptop#aesthetics#size 2 1
+The 8th gen core i5-8250u is a blazing fast SoC.
+processor#features#model 2 1
+
+proessor#performance#speed 2 1
+Compared to last years core i5-7200u, the 8250u has 4 cores/8 threads instead of 2 cores/4 threads and its overall 56 percent faster.
+processor#features#cores 2 0
+
+processor#features#threads 2 0
+proessor#performance#speed 2 1
+I'll let numbers speak for themselves, on Geekbench 4.2 this laptop scores 4000 on single core, 12,200 on multi core, and over 17,000 on computational using openCL.
+laptop#performance#overall 2 1
+For those of you that have don't know what I'm talking about, I'll make it easy to understand, IT"S FAST!
+laptop#performance#speed 2 1
+The display is brilliant, has the whitest whites and the blackest blacks, contrast is excellent and the colors are outstanding.
+screen#aesthetics#contrast 2 0
+
+screen#aesthetics#color 2 0
+This computer will also play all but the newest games on Full HD with ultra settings, this is something that you might find contrary to what some reviews have said about the core-i5-8250u, but it really does game great.
+laptop#performance#ovarall 2 0
+processor#peformance#overall 2 0
+The fingerprint scanner is something you rarely find on sub 1,000 dollar laptops and this one works perfectly turn it on, it boots up extremely fast at the login screen just press your finger to the reader which is on the top right of the trackpad and when it tells you hello your logged in.
+fingerprint-scanner#performance#overall 2 1
+All in all from an IT's prospective this is the best dang laptop your going to find at this price and even above it, did I mention you can even add a second M.2 sata III ssd and it will using an Intel technology will see the HDD and the ssd as 1 drive and move all your most used content to the ssd for fast access and use the HDD for basic storage.
+laptop#price#worthiness 2 0
+
+memory>ssd#features#m2-compatibility 2 0
+I don't see the need to because it already boots dang near as fast as a lot of laptops with ssd's but that would speed it up even more.
+laptop#performance#booting
+My only single complaint about this computer doesn't bother me much but it will bother regular users of this laptop and that's the fact that you have to take off the entire bottom of the laptop to access the HDD, to add the M.2 sata III ssd, and to add ram, this includes taking off the two back rubber feet to access screws under them.
+latop#features#customisaility 1 1
+Don't let that get you down though its really not hard and the rubber feet just stick back on.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+
+4.Reliable, fast lightweight laptop
+4
+
+What I like about the ASUS VivoBook: It is so lightweight, you can keep it on your lap forever.
+laptop#aesthetics#weight 2 0
+It produces no discernable heat, so you don't need a cooling fan, like on my old laptop.
+laptop#features#temperature 2 0
+The ASUS has plenty of storage capacity and is a fast machine.
+memory#features#capacity 2 0
+I use a wireless mouse, so I can not comment on the touch pad.
+
+I do like the fingerprint sign-in feature a lot.
+fingerprint-scanner#quality#overall 2 1
+I also like the clean look of the computer, and the buff, pewter finish.
+laptop#aesthetics#design 2 1
+The monitor is excellent.
+screen#quality#overall 2 1
+What I would like to see improved: The keyboard has no Caps On indicator, so I usually find out after I have typed a few lines and look at the screen.
+keyboard#features#caps-on-indicators 0 0
+Please, have a Caps On light.
+
+The keyboard does not feel firm or positive, so it takes getting used to.
+keyboard#aesthetics#build-quality 0 1
+I prefer a keyboard with a positive click or feel.
+
+Small potatoes, but I wish the Delete key had larger lettering, as I use that key often and in dim light have difficulty locating it.
+keyboard#aesthetics#design 0 1
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+
+5.Great laptop for those low on funds
+4
+
+Awesome laptop especially if you don't have a ton of cash to spend on a new one or dont need anything super high end.
+laptop#price#worthiness 2 1
+I am a casual user, I tend to spend most of my time on my tablet or work laptop.
+
+But occasionally do need a laptop for personal use.
+
+Given that, I didnt want to spend a lot but wanted something good and this fit the bill.
+laptop#price#worthiness 2 1
+Its super lightweight, fast processor and stylish looking too.
+laptop#aesthetics#weight 2 0
+processor#performance#speed 2 1
+laptop#aesthetics#design 2 1
+Only drawback is the keyboard doesnt light up so hence the 4 stars.
+keyboard#features#backlight 0 1
+But otherwise an amazing laptop.
+laptop#quality#overall 2 0
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+-------------------------------------
+
+6. Good laptop, but you need SSD for it to be useable.
+3
+
+The ASUS VivoBook represents what I would want in a full sized laptop.
+laptop#quality#overall 2 1
+15" screen, full sized keyboard and speed fast enough for some low quality games such as LoL.
+screen#aesthetics#size 2 1
+
+keyboard#aesthetics#layout 2 1
+
+laptop#performance#overall 2 1
+It's light and thin, and overall the screen is pretty good.
+laptop#aesthetics#weight positive 1
+
+screen#quality#overall 2 1
+As is the computer is not usable, you must upgrade to SSD.
+memory>hard-drive#performance#speed 0 1
+The hdd that comes with the computer is slow and loud, in fact the computer is not usable by todays standard, it's terribly slow.
+memory>hard-drive#performance#speed 0 1
+After the SSD upgrade, the computer is very fast.
+
+it makes a huge difference in the usability of this computer.
+
+Since there aren't any USB3 ports, I purchased a USB C - USB C enclosure for the spare hdd that I removed from this computer.
+
+Still waiting for it to come in, but i'll update my post later.
+
+The build quality is cheap. everything is plastic.
+laptop#durability#build-quality 0 0
+the screw nut cracked when I unscrewed he hdd since the surrounding is all plastic.
+laptop#durability#build-quality 0 1
+the ram my computer came with is branded SAMSUNG, I bought another 8gb from ebay, waiting for that to come in in order to max out the ram to 16gb.
+ram#features#capacity 2 1
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+7. First impressions
+3
+
+Just got it today so these are just first impressions.
+
+Pros:
+
+sleek and nice texture on lid
+laptop#aesthetics#design 2 1
+- acceptable amount of flex
+laptop#durability#build-quality 1 1
+- lightweight
+laptop#aesthetics#weight 2 0
+- fingerprint reader is working well
+fingerprint-scanner#performance#overalll 2 1
+- track pad is accurate
+trackpad#performance#accoracy 2 0
+- keyboard is comfortable to use
+keyboard#aesthetics#ease-of-use
+- screen looks good
+screen#quality#overall 2 1
+Cons
+
+- feels very slow (hoping an ssd will fix this)
+memory>hdd#performance#speed 0 1
+- finger doesn't side smoothly along track pad. There's some unnecessary resistance / stickyness
+touchpad#aesthetics#ease-of-use
+- took literally 5+ hours for Windows update / setup
+software>os#features#upgradation 0 1
+- there's some coil whine type noise but not too loud
+laptop#features#quietness 1 1
+- the webcam is a bad joke
+webcam#quality#overall 0 1
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+8.Great, affordable laptop for a student
+5
+
+This laptop is perfect!
+laptop#quality#overall 2 1
+I've been using it for over a month and I don't have any complaints as of yet.
+laptop#quality#overall 2 1
+Compared to my previous laptop (a Lenovo Z50-70 15.6 in.) it is A LOT more functional i.e, I don't have to constantly plug it in to charge, since the battery lasts hours.
+battery#performance#life 2 1
+Another feature that I like is the weight--I can easily hold it with one hand.
+laptop#aesthetics#weight 2 0
+Perfect for users who are travelling with it in a bag, since it doesn't cause a lot of strain.
+laptop#aesthetics#size 2 1
+I was a little hesitant at first to buy it because it has a Core i5 processor and I was hoping to buy a laptop with at least Core i7, but the computer runs very quickly and it isn't slow at all.
+processor#features#model 1 1
+
+processor#performance#speed 2 1
+I currently use many Adobe programs on this laptop and it doesn't have any trouble running them at all.
+laptop#performance#overall 2 1
+One VERY minor issue I have is these little plastic blue things that stick out on the bottom corners of the screen panel.
+laptop#aesthetics#overall 1 1
+I have no idea what their purpose is and I can't seem to get it out.
+
+They sometimes scratch me which is a little annoying, but other than that, 10/10 laptop!
+laptop#quality#overall 2 1
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_6?ie=UTF8&reviewerType=all_reviews&pageNumber=6
+
+9. Nice 8th Gen i5 laptop with $500 budget
+4
+
+From this price point the
+
+PROS are
+
+1. Nice Anti glare screen. Good color pixels
+screen#quality#overall 2 1
+
+screen#aesthetics#color 2 0
+2. 8th Gen i5 processor. Quite fast booting after adding M2 SSD.
+processor#features#model 1 1
+
+processor#performance#speed 2 1
+memory>ssd#features#m2-compatibility 2 0
+3. Build quality is good. Do have cheap things. Look like premium laptop.
+laptop#durability#build-quality 2 0
+
+laptop#aesthics#design 2 1
+CONS
+
+1. Battery can be improved. 8th gen i5 is optimized to consume less power but it does not reflect in this laptop
+battery#performance#life 0 1
+2. Don't like the key board design . Initially i thought mine is a defective one then cam to know this is chiclet keyboard. I was about to return the laptop considering the center portion of the laptop is pressed below. :)
+keyboard#aesthetics#design 0 0
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_6?ie=UTF8&reviewerType=all_reviews&pageNumber=6
+
+10.Great gaming laptop and a great price.
+5
+
+This computer functions very well as a gaming laptop for the price.
+laptop#performance#overall 2 1
+The graphics quality is amazing, Skyrim has never looked better.
+screen#quality#graphicsoverall 2 0
+The laptop runs smoothly and renders larger games quickly.
+laptop#performance#pverall 2 1
+There are only two cons, the sound quality and the overheating
+speakers#performance#sound-quality 0 0
+
+laptop#features#temperature 0 1
+Without head phones the sound is very low for games even with the computer and game volume on max.
+speakers#performnace#sound-quality 0 0
+With head phones, however, the sound is clear, crisp, and clean.
+(doubt)
+If playing for short periods of time over heating isn't a problem(1-2 hours of gameplay).
+laptop#features#temperature 1 1
+4+hours you will need a cooling pad/fan which I do have and works very well.
+laptop#features#temperature 0 1
+All in all a great cheap gaming laptop that even with the cons I am not dissatisfied with the product.
+laptop#price#worthiness 2 1
+If I needed another I would definitely buy again.
+laptop#quality#overall 2 1
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_9?ie=UTF8&reviewerType=all_reviews&pageNumber=9
+
+11. A M A Z I N G
+5
+
+Amazing.
+laptop#quality#overall 2 1
+Pop an SSD into this thing and you will be amazed.
+
+Great screen!
+screen#quality#overall 2 1
+I came from a cheap HP laptop and the screen, build quality, battery life, processing power are miles better!
+screen#quality#overall 2 1
+
+laptop#durability#build-quality 2 0
+
+battery#performance#life 2 0
+
+processor#performance#overall 2 1
+Love the small form factor, perfect laptop at the perfect price
+laptop#aesthetics#form-factor 2 0
+
+laptop#price#worthiness 2 0
+Buy it....
+laptop#pquality#overall 2 1
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_11?ie=UTF8&reviewerType=all_reviews&pageNumber=11
+
+12.You won't find much better at this price other than a deal
+4
+
+Computer is pretty much a steal at this price.
+laptop#price#worthiness 2 0
+First off its crazy how light this is.
+laptop#aesthetics#weight 2 1
+It took a little getting used to the keyboard since it is a 15.6 screen on a smaller laptop, I have not noticed any screen bleeding like others have noticed, good screen.
+screen#aesthetics#size 1 1
+
+screen#quality#overall 2 1
+
+keyboard#aesthetics#ease-of-use 1 1
+Even without a SSD, it is still pretty fast.
+memory>hdd#performance#speed 2 1
+I haven't had any issues with the keyboard like others have stated, mine feels pretty firm.
+keyboard#aesthetics#build#quality 2 1
+It has great speakers, and decent build quality.
+speakers#quality#overall positive 1
+
+laptop#durability#build-quality 2 0
+All around a great buy.
+laptop#price#worthiness 2 1
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_11?ie=UTF8&reviewerType=all_reviews&pageNumber=11
+
+
+13.Nice screen and keyboard, short battery capacity
+4
+
+It is an okay laptop and nothing more.
+laptop#quality#overall 1 1
+It obviously depends on what you want to do with it.
+
+I would not expect this to work well for gaming or other tasks requiring movement of huge data stacks back and forth.
+laptop#performance#heavy 0 1
+If you have the tv on and are surfing the web at the same time, this is probably the right product for you.
+laptop#performance#day-to-day 2 1
+What I like:
+
+Beautiful resolution
+screen#features#resolution 2 1
+Light to carry
+laptop#aesthetics#weight 2 1
+Bigger screen
+screen#aesthetics#size 2 1
+Nice keyboard
+keyobard#quality#overall 2 1
+What I do not like:
+
+The charge cord is very short, about 1/2 the size of a regular charging cord
+charger#functionality#cord-size 1 0
+The battery capacity is 3 hours on a full charge
+battery#performance#life 1 1
+The small battery capacity is the number one reason I would not buy this product and would recommend with that caveat being disclosed.
+battery#performance#life 0 1
+The fact that I am a light user and mostly read the news and so on, is the reason I did not return this as soon as I received it.
+laptop#performance#day-to-day 2 1
+https://www.amazon.com/Lenovo-Performance-A12-9720P-processor-Bluetooth/product-reviews/B0748YG81P/ref=cm_cr_arp_d_viewpnt_lft?ie=UTF8&reviewerType=all_reviews&filterByStar=positive&pageNumber=1
+
+14.Very nice value laptop
+
+4
+
+This is a nice setup for under $400.
+laptop#price#worthiness 2 1
+The laptop features the Intel i3-8130U 8th generation (latest generation for 4/2018, a 2 core processor), a 1TB drive and 6gb RAM.
+processor#features#model 2 1
+
+memory>hdd#features#capacity 2 1
+
+ram#features#capacity 2 1
+The battery is supposed to last for 12 hours (I tested this a bit but not a lot).
+battery#performance#life 2 1
+The laptop has 6gb, a read/write DVD drive, and a lot of connections and a 1920 x 1080 display.
+ram#features#capacity 1 1
+
+laptop#features#dvd-player 1 1
+
+screen#features#resolution 1 1
+The laptop is responsive and snappy for an under $400 laptop.
+laptop#price#worthiness 2 1
+I’m a bit perplexed by some of the reviews claiming this to be slow.
+laptop#performance#speeed 2 1
+It is not.
+laptop#performance#speeed 2 2
+This value laptop has some chops.
+
+I loaded my desired suite of applications with Ninite dot com, that went quickly.
+software#functionality#initial-setup 2 1
+In testing performance, I ran a Netflix movie and a show on YouTube at the same time with no performance degradation.
+laptop#performance#overall 2 1
+I ran the 2+ hour movie twice while doing other stuff on the laptop and the battery still showed over 7 hours left.
+battery#performance#life 2 1
+This laptop has a lot of connectors: USB, HDMI, and even a VGA connection (which I would suggest dropping, if you need that just put a HDMI/VGA adapter in your computer bag).
+port#features#usb 2 0
+
+port#features#hdmi 2 0
+
+port#features#vga 2 0
+Also included is the R/W DVD drive... something becoming rare in laptops.
+laptop#features#dvd-player
+A nice option to watch movies if desired.
+
+The laptop display is good but has a poor viewing angle.
+screen#quality#overall 2 1
+
+screen#features#viewing-angle 0 0
+I wasn’t surprised, my guess is that this is the display was where trade-offs were made to get the laptop to this price.
+screen#quality#overall 0 1
+The display is hard to see from the side (a witty salesperson would claim this is great for privacy) and required tilting the display forward/back more than I liked to obtain the best viewing angle from the front.
+screen#features#viewing-angle 0 1
+The speakers surprised me.
+speakers#quality#overall 1 1
+The speaker volume is typical to most laptops in that I wish it would be about 20% louder at max.
+
+The speakers seems to be nice but not amazing, at least until I was lying on a couch watching a movie with the laptop on my chest.
+speakers#quality#overall 2 1
+The nearness of my ears to the speakers allowed me to hear a very nice spacial mix of the sound.. the movie sound track "bloomed" at that point and was surprisingly good.
+speakers#performance#clarity 2 1
+Bear in mind, I practically had to have the laptop a foot or two from my face for this to kick in.
+
+Overall, for sub $400, this is a very nice performing laptop.
+laptop#price#qorthiness 2 1
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+15.Best bang for the buck as of June 2018!
+4
+
+The laptop arrived, The looks would probably get a 3/5.
+laptop#aesthetics#design 1 1
+It's somewhere in the middle of a cheap laptop, with some accents found on more expensive models.
+laptop#aesthetics#design 1 1
+But the built quality and design, is similar to $300-$500 laptops.
+laptop#aesthetics#design 1 1
+
+laptop#durability#build-quality 1 0
+Like mentioned, the viewing angles of this screen isn't the best, but if it's just for you, sitting in front, it's quite ok!
+screen#features#veiwing-angle 0 0
+
+screen#quality#overall 2 1
+I like how they re-assigned some of the Fn keys (vol and screen brightness) to the cursor keys, instead of your standard number or F-keys.
+keyboard#aesthetics#layout 2 1
+The speakers sound very nice for a laptop of this kind.
+speakers#quality#overall 2 1
+It comes with only 2 hours worth of uninstalling crapware, vs the 8 hours of prepping I'd do on most other laptops.
+software>os#features#bloatware 1 1
+Mostly just the crap that comes with Windows installation, Firefox, a trial for Norton AV or something, and some Acer specific software that really doesn't serve any purpose.
+software>os#features#bloatware 1 1
+The weakness of this device is definitely the slow harddrive, that results in a laggy device.
+memory>hdd#performance#speed 0 1
+Upgrade to an SSD ($60-120 more), and this device should work quite well!
+
+That, and the screen, which has poor viewing angles.
+screen#features#viewing-angle 0 0
+However, if you're the only one using it, the screen looks quite good.
+screen#quality#overall positive 1
+It's definitely bright enough for indoor usage.
+screen#features#brightness 2 0
+The colors are ok.
+screen#aesthietics#colors 1 2
+They say 'wide gamut', but because the blacks aren't really black, it looks more like a cheaper TFT screen.
+screen#quality#overall 1 1
+For the rest, I had no problems with wifi, browsing, gaming (does well up to 1080p).
+laptop#features#wifi-connectivity 2 1
+
+laptop#performance#overall 2 1
+The RAM is supposedly upgradeable to either 8 or 32GB, but 6GB is really more than you need for day to day usage.
+ram#features#upgradation 2 0
+
+ram#features#capacity 2 1
+For the price, it's a great device, that blows older professional laptops of 10x the price, out of the water (performance wise).
+laptop#price#worthiness 2 0
+It probably will serve me well for the 4 to 6 years of the lifetime of a laptop.
+laptop#reliability#overall 2 1
+(No reason to go with a more expensive Asus or Sony that will outlast this laptop for 4 years, when you only keep laptops 4 to 5 years max).
+
+My guess is, this laptop will outlive Windows 10, and that's a good thing!
+laptop#reliability#overall 2 1
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+16.appears to be good value for the money
+4
+
+Have had good success with Acer laptops in the past, and this adds to that reputation.
+laptop#quality#overall 2 1
+Impressed with solid construction and speed/processing power considering the price.
+laptop#durability#build-quality 2 1
+
+processor#performance#overall 2 1
+
+laptop#price#worthiness 2 0
+Recently bought a Lenovo laptop for similar money, and this is way better.
+laptop#quality#overall 2 0
+Setup went quickly; very happy with the wireless, and appreciated the fact that it comes with DVD drive when many now do not.
+software>os#functionality#initial-setup 2 0
+
+laptop#features#wifi-connectivity 2 1
+
+laptop#features#dvd-player 2 0
+HD screen provides plenty of clarity.
+screen#features#resolution 2 1
+
+screen#features#clarity 2 1
+Very impressed with the long battery life as well.
+battery#performance#life 2 0
+Windows 10 is a serious upgrade from the previous versions, and having it already installed on here made setup go much faster.
+software>os#quality#overall 2 1
+
+software>os#functionality#initial-setup 2 0
+Definitely not a high end laptop, but will get the job done for work or for a college student in a non-technical major, and appears much more durable and robust than some of the "sleeker" models on sale in stores next to it.
+laptop#price#worthiness 2 1
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+17.Nice laptop for the family to use.
+5
+
+This is a nice laptop in the price point.
+laptop#price#worthiness 2 0
+It will do anything the typical user needs it to do.
+laptop#performance#overall positive true
+It's good for just surfing the internet, playing and streaming videos and music, and even some games.
+laptop#performance#day-to-day 2 1
+The picture on the screen is very clear and looks fantastic.
+screen#features#clarity(doubt) 2 1
+I really notice the full HD capabilities.
+screen#features#resolution 2 1
+The computer speed is good, doesn't run too slow.
+laptop#performance#speed 2 0
+This is a nice family laptop and it stay in our living room for all family members to use when needed.
+laptop#quality#overall 2 1
+You will need to put your own virus protection on it as the trial period ends after 30 days for the virus protection.
+
+Battery life also seems good with the battery not draining too quickly while doing tasks.
+battery#performance#life 2 0
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+18.Super cheap!
+4
+
+laptop performs well.
+laptop#performance#overall positive 0
+I've even used it as portable game capture machine, which from specs it should really suck at.
+laptop#performance#overall positive 1
+The problem is the case and keyboard.
+laptop#aesthetics#overall 1 1
+
+keyboard#aesthetics#build-quality 1 1
+Horrible.
+laptop#aesthetics#overall 0 2
+
+keyboard#aesthetics#build-quality 0 2
+The pictures do not do it justice.
+
+This is the cheapest feeling laptop I've ever dealt with.
+laptop#aesthetics#design 0 1
+Keyboard is mushy.
+keyboard#aesthetics#build-quality 0 1
+I was excited when I ordered but immediately regretted it when the wife opened the box.
+laptop#aesthetics#design 0 2
+Again though, it's been a solid machine otherwise.
+laptop#performance#overall 2 1
+Good for anywhere you need cheap function over form.
+laptop#performance#overall 2 1
+
+laptop#aesthetics#design 0 1
+Just set your other expectations really low.
+
+https://www.amazon.com/Dell-15-6-inch-Touchscreen-MaxxAudio-Bluetooth/product-reviews/B0778DVNHH/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+19.Great Laptop for College
+5
+
+I love this little laptop!
+laptop#aesthetics#size 2 1
+Being in college, I needed a laptop that was easy to take to school and back home.
+
+This laptop is perfect for trips as such because it barely weighs a thing.
+laptop#aesthetics#weight 2 1
+I also needed something simple to be able to do my homework and research.
+
+This laptop is perfect for that too.
+laptop#performance#day-to-day 2 2
+
+laptop#performance#day-to-day positive coreference
+I've had it for two months so far and it doesn't slow down on me since I'm only using it for those things.
+laptop#performance#day-to-day positive coreference
+Occasionally, I do use it for streaming Netflix, Hulu, and my Ultra Violet collection on Flixster.
+
+Still, the computer doesn't slow down.
+laptop#performance#day-to-day 2 2
+I avoid installing larger programs on here, since I have another computer for that.
+
+Also, I added a micro sd card to the laptop where I can save all my homework and other files on it, that way it still runs smoothly.
+
+I highly recommend this for college students or anyone who is looking for something simple and light-weight.
+laptop#aesthetics#weight 2 0
+
+laptop#performance#day-to-day 2 1
+I would not recommend this for those that want or need to install larger programs to their computers or do online gaming.
+laptop#performance#heavy 0 1
+I hope this review helps.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_dp_d_show_all_top?ie=UTF8&reviewerType=all_reviews
+
+20.Cute color, great preformance
+5
+
+Windows computers require a bit of work to get them user-ready.
+
+So be prepared to uninstall some bloatware from Windows (and a little bit from HP) but it's really simple.
+software>os#features#bloatware 0 1
+The HP Stream is very lightweight and pleasing to the eye.
+laptop#aesthetics#weight 2 0
+
+laptop#aesthetics#design 2 1
+The display is lovely, the laptop itself is very thin (easily portable) and have a great keyboard and touch pad size.
+screen#quality#overall 2 1
+
+laptop#aesthetics#thickness 2 1
+
+keyboard#quality#overall 2 1
+
+touchpad#aesthetics#size 2 0
+It is the least clunky work laptop I've had yet!
+(doubt)
+I decorated mine with a gradient keyboard cover and I bought a 15" sleeve for it as well as a cordless mouse.
+
+I'm excited to use bluetooth items with it (like my headphones or my record player for music) and I plan on using this for work for years to come!
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_dp_d_show_all_top?ie=UTF8&reviewerType=all_reviews
+
+21.Great Computer!
+5
+
+This is a great computer for me!
+laptop#quality#overall positive true
+Before buying this computer, I did a 2 days of researching, watching video reviews, reading the reviews on Amazon and other sites.
+
+After having the computer for a couple of days, I absolutely love it!
+laptop#quality#overall positive true
+It is very light, and portable for anyone on the go.
+laptop#aesthetics#weight 2 1
+laptop#portability#overall 2 0
+It has a battery life that lasts all day for me.
+battery#performance#life 2 0
+I attend school from 9am-4pm and I do not need a charge.
+battery#performance#life 2 1
+The computer was slow when I first received it.
+laptop#performance#speed 0 2
+After getting rid of the bloatware and the other apps that you do not need/want, the computer speeds up.
+software>os#features#bloatware 0 0
+
+laptop#performance#speed 2 0
+Overall and great computer!
+laptop#quality#overall 2 1
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+22.Perfect Sub $200 Laptop
+5
+
+Honestly, when I bought this laptop and saw the specs, I was cautiously optimistic.
+(doubt)
+My expectations have been thoroughly exceeded though.
+laptop#performance#overall 2 2
+This little laptop is small enough to be actually portable, gets decent battery life at around 6 to 8 hours of average usage, and can stream most media easily without any problems.
+laptop#aesthetics#size 2 1
+
+battery#performance#life 2 1
+
+laptop#performance#day-to-day 2 1
+I'd highly suggest uninstalling some of the startup programs with CCleaner to help with making sure the computer runs as smoothly as possible, as I did.
+software>os#functionality#bloatware 0 1
+The only caveat with this computer is that you'll need a MicroSD card or an external hard drive, as the majority of your 32GB will be taken up by main Windows files and temporary files.
+memory#features#capacity 0 1
+External memory options are pretty cheap these days, so it shouldn't be too big of an issue.
+
+This machine has dropped below $200 (I bought it for $156 here on Amazon refurbished) and I think it's probably the best tech decision I've ever made.
+laptop#price#worthiness 2 1
+Instead of getting a powerful gaming laptop, I bought this and decided to build a gaming desktop. Even after this purchase and building a whole new computer, I'll still come out much better on the money spectrum.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+23.It's a good buy for the cost
+4
+
+It's a good buy for the cost.
+laptop#price#worthiness 2 1
+The computer has changed a great color to it, which really makes it stand out from all the black and grey computers in the world.
+laptop#aesthetics#design 2 1
+It works very well.
+laptop#performance#overall 2 1
+No issues so far, but it is not the fastest computer in the world.
+laptop#performance#speed 1 1
+It does take some time to start up and it does occasionally freeze out of no where.
+laptop#performance#boot-speed 0 1
+
+laptop#reliability#overall 0 1
+Have had it for a little over a month now and no major issues have occurred.
+laptop#reliability#overall 2 1
+Would definitely recommend for those looking for an inexpensive laptop that don't need a lot of RAM or lightening speed.
+ram#features#capacity 0 1
+
+laptop#performance#day-to-day 2 1
+Would be great for students.
+laptop#quality#overall 2 1
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+24.Great laptop that is light weight very portable and has a great blue color!
+5
+
+Purchased this laptop after my Chromebook stopped working.
+
+Could not be happier with it!
+laptop#quality#overall positive 1
+I have now owned this for 7 months and it is still working well and I have not had any issues at all.
+laptop#reliability#overall 2 1
+Really wanted to wait before writing a review on this item just to make sure that I was totally satisfied with this item.
+
+Also, I wanted to see how long it would last without anything going wrong with it.
+
+This laptop is not heavy at all which is great for carrying it around the house and on the go.
+laptop#aesthetics#weight 2 1
+
+laptop#portability#overall 2 1
+My chrome was heavier than this laptop so to me this is a super plus!
+laptop#aesthetics#weight 2 1
+I give it an A for being light weight and portable.
+laptop#aesthetics#weight 2 1
+
+laptop#portability#overall 2 1
+The color is a really nice blue that does match my office décor.
+laptop#aesthetics#design 2 1
+The blue color is not blinding and also not dull it is just the perfect color that does not scream!
+laptop#aesthetics#design 2 1
+It has many features that come with it although I have not used most of them because I just really need it to store my paperwork, notes and work on home budgets etc…
+laptop#functionality#overall 2 1
+The office products are wonderful so if you need a laptop for home, office or even school work I would recommend this laptop as a great purchase.
+laptop#quality#overall 2 1
+Not having watched any movies on it, I can not really comment but it does play youtube videos really well.
+screen#quality#overall 2 1
+
+speaker#quality#overall 2 1
+The one thing that is really important to me is the keyboard and this one is perfect for me.
+keyboard#quality#overall 2 1
+The keyboard is a good size and I am able to type out my letters and such really fast without having any of the keys getting stuck or locking up which I did start to have a problem with my chrome.
+keyboard#aesthetics#size 2 0
+
+keyboard#aesthetics#typing-experience 2 1
+I have used this laptop hours at a time and it does not get hot like others I have owned which is wonderful!
+laptop#features#temperature 2 1
+Also, I have not had any issues with it freezing or locking up on me.
+laptop#reliability#overall 2 1
+I would recommend this laptop to anyone that is considering buying it.
+laptop#quality#overall 2 1
+It will definitely fit all your needs and much more.
+laptop#quality#overall 2 1
+It is light weight and portable with a great blue color.
+laptop#aesthetics#weight 2 1
+
+laptop#portability#overall 2 1
+
+laptop#aesthetics#design 2 1
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+25.Good, pretty looking, and affordable
+5
+
+I love it.
+laptop#quality#overall 2 1
+I use it for writing my documents on word or making my excel tables, for surfing the web, for playing netflix.
+laptop#performance#day-to-day 1 1
+I don't care about playing powerful games, I like to play old snes or gba games so this is perfect, and also, im not a designer, so i dont worry for Photoshop or heavy programs
+
+If you do more than what I do on this PC, you should probably save up for a more expensive equipment.
+laptop#performance#heavy 0 1
+Its lightweight, and the purple color is beautiful, for traveling is a complete delight.
+laptop#aesthetics#weight 2 1
+
+laptop#aesthetics#design 2 1
+
+laptop#portability#overall 2 1
+The keyboard works fine for me (I use a protector anyway so it looks extra cute with the colorful keys) and the touchpad could have an improvement maybe, but is nothing to die for or to rant about.
+keyboard#quality#overall 2 1
+
+keyboard#aesthetics#design 2 1
+
+touchpad#quality#overall 1 1
+Lack of space? I use my external HD and im good, only the basic programs stay inside the stream, the rest as well as the pictures stay out of it.
+memory#features#capacity 0 1
+The screen is good, not perfect, but good for what I need to do or what I want to see, the camera isnt the best but in my case, i dont use it - - to be honest, I never thought you could fall in love with things, but I just did with this computer.
+screen#quality#overall 2 1
+
+webcam#quality#overall 0 1
+Im planning on getting another one just out of a pure whim, but to me, is worth it.
+laptop#price#worthiness 2 1
+Blocked the updates so it wont be acting slow while using it, and got the 64 gb model to leave some room in case an update requires it but anyway.
+
+If you can move around windows and delete or reconfigure a thing here and there, and if you dont use it for something else like myself, then this is the perfect and affordable computer for you.
+laptop#price#worthiness 2 1
+If you prefer to have a more powerful equipment and arent please with the basic features that this pc offers, then this aint for you.
+laptop#performance#heavy 0 1
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+26.Talking about everything.
+3
+
+It is fast.
+laptop#performance#speed 2 1
+It has a good amount of memory.
+memory#features#capacity 2 1
+NOW THE PROBLEMS.
+
+If you hold a button for too long, it will get stuck.
+keyboard#quality#overall 0 1
+There is a good amount of memory but not that much.
+memory#features#capacity 1 1
+This is not recommended as a gaming laptop.
+laptop#performance#heavy 0 1
+The left mouse button can get stuck sometimes.
+touchpad#quality#overall 0 1
+The top side has a really smooth plastic, but not the bottom.
+laptop#aesthetics#design 1 1
+Like all computers, it can heat up at the bottom but MAN can this keyboard get hot at the bottom!
+laptop#features#temperature 0 1
+Not a burn hot, but still hot.
+laptop#features#temperature 0 1
+It can do 1080 p videos on Youtube at 30 fps or more, but games are a whole different story.
+laptop#performance#heavy 2 1
+When you push the on button, you have to move your finger on the touch pad REALLY fast.
+
+It can play basic games like agar.io or even Roblox on it pretty decently!
+laptop#performance#day-to-day 2 1
+The screen is big and bright, the sound is good too.
+screen#aesthetics#size 2 1
+
+screen#features#brightness 2 0
+
+speakers#quality#overall 2 1
+Also, this thing is TOUGH!
+laptop#durability#build-quality 2 1
+The first time we dropped it, it was fine.
+laptop#durability#build-quality 2 1
+The 2nd time was on tile while standing up, and the corner on the bottom right side of the cover broke off but nothing bad happened to the computer!
+laptop#durability#build-quality 2 1
+The speakers are on the back of the bottom of the computer, which would be better if it was on the left and right side of where the screen is.
+laptop#design#aesthetics 2 1
+The camera is good and the mic is GREAT!
+webcam#quality#overall 2 1
+
+laptop#features#microphone 2 0
+If you are using this for school worthy things, than this is for you.
+laptop#performance#day-to-day 2 1
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+
+27.basic laptop at a good price
+5
+
+This is a good laptop for the price.
+laptop#price#worthiness 2 0
+It's very basic but works well and was easy to set up.
+laptop#performance#day-to-day 2 1
+
+laptop#features#ease-of-migration 2 1
+We just needed it for our kids to use for schoolwork.
+laptop#performance#day-to-day 2 1
+They need to be able to look up some things online, check email, and type and print assignments.
+
+It works great for these uses.
+laptop#performance#day-to-day 2 2
+I was also able to load a math program which didn't take up too much memory space (the big limitation with this laptop).
+memory#features#capacity 0 1
+All in all this is a good laptop for basic computer work or for kids.
+laptop#performance#day-to-day 2 1
+It does basic functions well and is inexpensive enough that I don't have to worry too much about it being damaged.
+laptop#performance#day-to-day 2 1
+
+laptop#price#worthiness 2 1
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+28.This is truly a steal for a laptop!
+5
+
+This laptop works amazing for school.
+laptop#performance#day-to-day 2 1
+I'm a nursing student and it is the perfect size to carry along with me to classes and it works very fast and opens all Microsoft documents, powerpoints, etc great.
+laptop#aesthetics#size 2 0
+
+laptop#portability#overall 2 1
+
+laptop#performance#day-to-day 2 1
+Everything runs smoothly.
+laptop#performance#day-to-day 2 1
+I think the people who gave it bad reviews were simply expecting way too much out of such a cheap laptop.
+laptop#performance#heavy 0 1
+The price is still amazing for how good of a computer this is.
+laptop#price#worthiness 2 0
+Overall: Runs smooth, quick and has a great battery life!
+laptop#performance#overall 2 1
+
+laptop#performance#speed 2 1
+
+battery#performance#life 2 1
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+
+.---.---.---. 	 	
+29.great price- you really cannot beat it.
+5
+
+I love this laptop. Comes with everything you need: battery, charger, Windows 10, and setup takes 5 minutes. No glitching or anything; can't even tell it's refurbished. I'm happy it comes with a DVD player and webcam too. It's sturdy, and the hinges work smoothly- nothing feels like it'll break easily. The keys offer a smooth typing experience. The screen is bright and the sound is good and punchy.
+Altogether I'm in love with this laptop for all that it comes with for such a great price- you really cannot beat it.
+
+https://www.amazon.com/Dell-Latitude-E6430-Laptop-WEBCAM/product-reviews/B01M31QNF2/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+30.Initial impression is that this thing is super light, almost 1/2 the weight of my Asus ...
+5
+
+Definitely a steal at the price i bought this for.
+
+Initial impression is that this thing is super light, almost 1/2 the weight of my Asus ux501vw but with the same screen dimensions. Hard drive is slow and definitely needs to be replaced by an SSD. I Bought an M2 gen 3 SSD, but it does not fit, appears that this is NVME. Also, popped off the back cover and added a 16gb stick in the empty slot. My guess is that this can handle 32gb, which makes it such a steal.
+
+keyboard feels firm and no flex, screen is nice for the price range. Battery life doesn't seem to be more than 5 hours, but i expected that going in. Battery charger is super tiny and lightweight, which is an additional advantage vs the 1 lb brick that you have to lug around with the ux501vw.
+
+Word of warning, the back cover is a PITA to take off, almost breaks the warranty on how difficult it was to remove.
+
+Edit: it definitely supports 32gb ram as that is what i installed last night and it is running just fine. also the m2 slot is nvme, i just ordered one as my m2 gen3 ssd did not work due to the connector. if i can figure out how to post pics, i will do that shortly. This is a great deal!
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+31.Best laptop for 500 dollars hands down. You're getting a fantastic Asus quality Ultrabook for 500 dollars, read my review.
+5
+
+Best laptop you can get for the price. Any laptops with everything this has will cost between 650-750 dollars and they won't even have all that this laptop has to offer, first I'm an IT I work on computers daily so getting an Asus (top 3 consumer laptop brand) at this price with these specs is all you need to know to buy it. This laptop has a 15.6 inch Full HD (1920x1080) display, yet fits in a 14 inch laptop sleeve, that in itself is awesome. The 8th gen core i5-8250u is a blazing fast SoC. Compared to last years core i5-7200u, the 8250u has 4 cores/8 threads instead of 2 cores/4 threads and its overall 56 percent faster. I'll let numbers speak for themselves, on Geekbench 4.2 this laptop scores 4000 on single core, 12,200 on multi core, and over 17,000 on computational using openCL. For those of you that have don't know what I'm talking about, I'll make it easy to understand, IT"S FAST! The display is brilliant, has the whitest whites and the blackest blacks, contrast is excellent and the colors are outstanding. This computer will also play all but the newest games on Full HD with ultra settings, this is something that you might find contrary to what some reviews have said about the core-i5-8250u, but it really does game great. The fingerprint scanner is something you rarely find on sub 1,000 dollar laptops and this one works perfectly turn it on, it boots up extremely fast at the login screen just press your finger to the reader which is on the top right of the trackpad and when it tells you hello your logged in. All in all from an IT's prospective this is the best dang laptop your going to find at this price and even above it, did I mention you can even add a second M.2 sata III ssd and it will using an Intel technology will see the HDD and the ssd as 1 drive and move all your most used content to the ssd for fast access and use the HDD for basic storage. I don't see the need to because it already boots dang near as fast as a lot of laptops with ssd's but that would speed it up even more. My only single complaint about this computer doesn't bother me much but it will bother regular users of this laptop and that's the fact that you have to take off the entire bottom of the laptop to access the HDD, to add the M.2 sata III ssd, and to add ram, this includes taking off the two back rubber feet to access screws under them. Don't let that get you down though its really not hard and the rubber feet just stick back on.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+32.Reliable, fast lightweight laptop
+4
+
+What I like about the ASUS VivoBook: It is so lightweight, you can keep it on your lap forever. It produces no discernable heat, so you don't need a cooling fan, like on my old laptop. The ASUS has plenty of storage capacity and is a fast machine. I use a wireless mouse, so I can not comment on the touch pad. I do like the fingerprint sign-in feature a lot. I also like the clean look of the computer, and the buff, pewter finish. The monitor is excellent.
+
+What I would like to see improved: The keyboard has no Caps On indicator, so I usually find out after I have typed a few lines and look at the screen. Please, have a Caps On light. The keyboard does not feel firm or positive, so it takes getting used to. I prefer a keyboard with a positive click or feel. Small potatoes, but I wish the Delete key had larger lettering, as I use that key often and in dim light have difficulty locating it.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+33.Great laptop for those low on funds
+4
+
+Awesome laptop especially if you don't have a ton of cash to spend on a new one or dont need anything super high end. I am a casual user, I tend to spend most of my time on my tablet or work laptop. But occasionally do need a laptop for personal use. Given that, I didnt want to spend a lot but wanted something good and this fit the bill. Its super lightweight, fast processor and stylish looking too. Only drawback is the keyboard doesnt light up so hence the 4 stars. But otherwise an amazing laptop.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+34.Good laptop, but you need SSD for it to be useable.
+3
+
+The ASUS VivoBook represents what I would want in a full sized laptop. 15" screen, full sized keyboard and speed fast enough for some low quality games such as LoL. It's light and thin, and overall the screen is pretty good. As is the computer is not usable, you must upgrade to SSD. The hdd that comes with the computer is slow and loud, in fact the computer is not usable by todays standard, it's terribly slow. After the SSD upgrade, the computer is very fast. it makes a huge difference in the usability of this computer. Since there aren't any USB3 ports, I purchased a USB C - USB C enclosure for the spare hdd that I removed from this computer. Still waiting for it to come in, but i'll update my post later.
+
+The build quality is cheap. everything is plastic. the screw nut cracked when I unscrewed he hdd since the surrounding is all plastic. the ram my computer came with is branded SAMSUNG, I bought another 8gb from ebay, waiting for that to come in in order to max out the ram to 16gb.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+35.First impressions
+3
+
+Just got it today so these are just first impressions.
+
+Pros:
+- sleek and nice texture on lid
+- acceptable amount of flex
+- lightweight
+- fingerprint reader is working well
+- track pad is accurate
+- keyboard is comfortable to use
+- screen looks good
+
+Cons
+- feels very slow (hoping an ssd will fix this)
+- finger doesn't side smoothly along track pad. There's some unnecessary resistance / stickyness
+- took literally 5+ hours for Windows update / setup
+- there's some coil whine type noise but not too loud
+- the webcam is a bad joke
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+36.Great, affordable laptop for a student
+5
+
+This laptop is perfect! I've been using it for over a month and I don't have any complaints as of yet. Compared to my previous laptop (a Lenovo Z50-70 15.6 in.) it is A LOT more functional i.e, I don't have to constantly plug it in to charge, since the battery lasts hours. Another feature that I like is the weight--I can easily hold it with one hand. Perfect for users who are travelling with it in a bag, since it doesn't cause a lot of strain.
+
+I was a little hesitant at first to buy it because it has a Core i5 processor and I was hoping to buy a laptop with at least Core i7, but the computer runs very quickly and it isn't slow at all. I currently use many Adobe programs on this laptop and it doesn't have any trouble running them at all.
+
+One VERY minor issue I have is these little plastic blue things that stick out on the bottom corners of the screen panel. I have no idea what their purpose is and I can't seem to get it out. They sometimes scratch me which is a little annoying, but other than that, 10/10 laptop!
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_6?ie=UTF8&reviewerType=all_reviews&pageNumber=6
+
+37.Nice 8th Gen i5 laptop with $500 budget
+4
+
+From this price point the
+PROS are
+1. Nice Anti glare screen. Good color pixels
+2. 8th Gen i5 processor. Quite fast booting after adding M2 SSD.
+3. Build quality is good. Do have cheap things. Look like premium laptop.
+
+CONS
+1. Battery can be improved. 8th gen i5 is optimized to consume less power but it does not reflect in this laptop
+2. Don't like the key board design . Initially i thought mine is a defective one then cam to know this is chiclet keyboard. I was about to return the laptop considering the center portion of the laptop is pressed below. :)
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_6?ie=UTF8&reviewerType=all_reviews&pageNumber=6
+
+38.Great gaming laptop and a great price.
+5
+
+This computer functions very well as a gaming laptop for the price. The graphics quality is amazing, Skyrim has never looked better. The laptop runs smoothly and renders larger games quickly.
+
+There are only two cons, the sound quality and the overheating. Without head phones the sound is very low for games even with the computer and game volume on max. With head phones, however, the sound is clear, crisp, and clean.
+
+If playing for short periods of time over heating isn't a problem(1-2 hours of gameplay). 4+hours you will need a cooling pad/fan which I do have and works very well.
+
+All in all a great cheap gaming laptop that even with the cons I am not dissatisfied with the product. If I needed another I would definitely buy again.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_9?ie=UTF8&reviewerType=all_reviews&pageNumber=9
+
+39.A M A Z I N G
+5
+
+Amazing.
+Pop an SSD into this thing and you will be amazed.
+
+Great screen! I came from a cheap HP laptop and the screen, build quality, battery life, processing power are miles better!
+
+Love the small form factor, perfect laptop at the perfect price
+
+Buy it....
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_11?ie=UTF8&reviewerType=all_reviews&pageNumber=11
+
+14.You won't find much better at this price other than a deal
+4
+
+Computer is pretty much a steal at this price. First off its crazy how light this is. It took a little getting used to the keyboard since it is a 15.6 screen on a smaller laptop, I have not noticed any screen bleeding like others have noticed, good screen. Even without a SSD, it is still pretty fast. I haven't had any issues with the keyboard like others have stated, mine feels pretty firm. It has great speakers, and decent build quality. All around a great buy.
+
+https://www.amazon.com/VivoBook-i5-8250U-NanoEdge-Fingerprint-F510UA-AH51/product-reviews/B0762S8PYM/ref=cm_cr_othr_d_paging_btm_11?ie=UTF8&reviewerType=all_reviews&pageNumber=11
+
+
+16.Nice screen and keyboard, short battery capacity
+4
+
+It is an okay laptop and nothing more. It obviously depends on what you want to do with it. I would not expect this to work well for gaming or other tasks requiring movement of huge data stacks back and forth.
+
+If you have the tv on and are surfing the web at the same time, this is probably the right product for you.
+
+What I like:
+Beautiful resolution
+Light to carry
+Bigger screen
+Nice keyboard
+
+What I do not like:
+The charge cord is very short, about 1/2 the size of a regular charging cord
+The battery capacity is 3 hours on a full charge
+
+The small battery capacity is the number one reason I would not buy this product and would recommend with that caveat being disclosed.
+
+The fact that I am a light user and mostly read the news and so on, is the reason I did not return this as soon as I received it.
+
+https://www.amazon.com/Lenovo-Performance-A12-9720P-processor-Bluetooth/product-reviews/B0748YG81P/ref=cm_cr_arp_d_viewpnt_lft?ie=UTF8&reviewerType=all_reviews&filterByStar=positive&pageNumber=1
+
+17.Very nice value laptop
+
+4
+
+This is a nice setup for under $400. The laptop features the Intel i3-8130U 8th generation (latest generation for 4/2018, a 2 core processor), a 1TB drive and 6gb RAM. The battery is supposed to last for 12 hours (I tested this a bit but not a lot). The laptop has 6gb, a read/write DVD drive, and a lot of connections and a 1920 x 1080 display.
+
+The laptop is responsive and snappy for an under $400 laptop. I’m a bit perplexed by some of the reviews claiming this to be slow. It is not. This value laptop has some chops. I loaded my desired suite of applications with Ninite dot com, that went quickly. In testing performance, I ran a Netflix movie and a show on YouTube at the same time with no performance degradation. I ran the 2+ hour movie twice while doing other stuff on the laptop and the battery still showed over 7 hours left.
+
+This laptop has a lot of connectors: USB, HDMI, and even a VGA connection (which I would suggest dropping, if you need that just put a HDMI/VGA adapter in your computer bag). Also included is the R/W DVD drive... something becoming rare in laptops. A nice option to watch movies if desired.
+
+The laptop display is good but has a poor viewing angle. I wasn’t surprised, my guess is that this is the display was where trade-offs were made to get the laptop to this price. The display is hard to see from the side (a witty salesperson would claim this is great for privacy) and required tilting the display forward/back more than I liked to obtain the best viewing angle from the front.
+
+The speakers surprised me. The speaker volume is typical to most laptops in that I wish it would be about 20% louder at max. The speakers seems to be nice but not amazing, at least until I was lying on a couch watching a movie with the laptop on my chest. The nearness of my ears to the speakers allowed me to hear a very nice spacial mix of the sound.. the movie sound track "bloomed" at that point and was surprisingly good. Bear in mind, I practically had to have the laptop a foot or two from my face for this to kick in.
+
+Overall, for sub $400, this is a very nice performing laptop.
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_dp_d_acr_sr?ie=UTF8&reviewerType=all_reviews
+
+18.Best bang for the buck as of June 2018!
+4
+
+The laptop arrived,
+The looks would probably get a 3/5. It's somewhere in the middle of a cheap laptop, with some accents found on more expensive models.
+But the built quality and design, is similar to $300-$500 laptops.
+
+Like mentioned, the viewing angles of this screen isn't the best, but if it's just for you, sitting in front, it's quite ok!
+I like how they re-assigned some of the Fn keys (vol and screen brightness) to the cursor keys, instead of your standard number or F-keys.
+The speakers sound very nice for a laptop of this kind.
+It comes with only 2 hours worth of uninstalling crapware, vs the 8 hours of prepping I'd do on most other laptops.
+Mostly just the crap that comes with Windows installation, Firefox, a trial for Norton AV or something, and some Acer specific software that really doesn't serve any purpose.
+
+The weakness of this device is definitely the slow harddrive, that results in a laggy device. Upgrade to an SSD ($60-120 more), and this device should work quite well!
+That, and the screen, which has poor viewing angles. However, if you're the only one using it, the screen looks quite good. It's definitely bright enough for indoor usage. The colors are ok. They say 'wide gamut', but because the blacks aren't really black, it looks more like a cheaper TFT screen.
+
+For the rest, I had no problems with wifi, browsing, gaming (does well up to 1080p).
+The RAM is supposedly upgradeable to either 8 or 32GB, but 6GB is really more than you need for day to day usage.
+
+For the price, it's a great device, that blows older professional laptops of 10x the price, out of the water (performance wise).
+It probably will serve me well for the 4 to 6 years of the lifetime of a laptop. (No reason to go with a more expensive Asus or Sony that will outlast this laptop for 4 years, when you only keep laptops 4 to 5 years max).
+My guess is, this laptop will outlive Windows 10, and that's a good thing!
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+19.appears to be good value for the money
+4
+
+Have had good success with Acer laptops in the past, and this adds to that reputation. Impressed with solid construction and speed/processing power considering the price. Recently bought a Lenovo laptop for similar money, and this is way better. Setup went quickly; very happy with the wireless, and appreciated the fact that it comes with DVD drive when many now do not. HD screen provides plenty of clarity. Very impressed with the long battery life as well.
+
+Windows 10 is a serious upgrade from the previous versions, and having it already installed on here made setup go much faster. Definitely not a high end laptop, but will get the job done for work or for a college student in a non-technical major, and appears much more durable and robust than some of the "sleeker" models on sale in stores next to it.
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+20.Nice laptop for the family to use.
+5
+
+This is a nice laptop in the price point. It will do anything the typical user needs it to do. It's good for just surfing the internet, playing and streaming videos and music, and even some games. The picture on the screen is very clear and looks fantastic. I really notice the full HD capabilities. The computer speed is good, doesn't run too slow. This is a nice family laptop and it stay in our living room for all family members to use when needed. You will need to put your own virus protection on it as the trial period ends after 30 days for the virus protection. Battery life also seems good with the battery not draining too quickly while doing tasks.
+
+https://www.amazon.com/Acer-Aspire-i3-8130U-Memory-E5-576-392H/product-reviews/B079TGL2BZ/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+21.Super cheap!
+4
+
+laptop performs well. I've even used it as portable game capture machine, which from specs it should really suck at. The problem is the case and keyboard. Horrible. The pictures do not do it justice. This is the cheapest feeling laptop I've ever dealt with. Keyboard is mushy. I was excited when I ordered but immediately regretted it when the wife opened the box. Again though, it's been a solid machine otherwise. Good for anywhere you need cheap function over form. Just set your other expectations really low.
+
+https://www.amazon.com/Dell-15-6-inch-Touchscreen-MaxxAudio-Bluetooth/product-reviews/B0778DVNHH/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+22.Great Laptop for College
+5
+
+I love this little laptop! Being in college, I needed a laptop that was easy to take to school and back home. This laptop is perfect for trips as such because it barely weighs a thing. I also needed something simple to be able to do my homework and research. This laptop is perfect for that too. I've had it for two months so far and it doesn't slow down on me since I'm only using it for those things. Occasionally, I do use it for streaming Netflix, Hulu, and my Ultra Violet collection on Flixster. Still, the computer doesn't slow down. I avoid installing larger programs on here, since I have another computer for that. Also, I added a micro sd card to the laptop where I can save all my homework and other files on it, that way it still runs smoothly. I highly recommend this for college students or anyone who is looking for something simple and light-weight. I would not recommend this for those that want or need to install larger programs to their computers or do online gaming. I hope this review helps.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_dp_d_show_all_top?ie=UTF8&reviewerType=all_reviews
+
+23.Cute color, great preformance
+5
+
+Windows computers require a bit of work to get them user-ready. So be prepared to uninstall some bloatware from Windows (and a little bit from HP) but it's really simple.
+
+The HP Stream is very lightweight and pleasing to the eye. The display is lovely, the laptop itself is very thin (easily portable) and have a great keyboard and touch pad size. It is the least clunky work laptop I've had yet!
+
+I decorated mine with a gradient keyboard cover and I bought a 15" sleeve for it as well as a cordless mouse. I'm excited to use bluetooth items with it (like my hesdphones or my record player for music) and I plan on using this for work for years to come!
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_dp_d_show_all_top?ie=UTF8&reviewerType=all_reviews
+
+24.Great Computer!
+5
+
+This is a great computer for me! Before buying this computer, I did a 2 days of researching, watching video reviews, reading the reviews on Amazon and other sites. After having the computer for a couple of days, I absolutely love it! It is very light, and portable for anyone on the go. It has a batter life that lost all day for me. I attend school from 9am-4pm and I do not need a charge. The computer was slow when I first received it. After getting rid of the bloatware and the other apps that you do not need/want, the computer speeds up. Overall and great computer!
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
+
+25.Perfect Sub $200 Laptop
+5
+
+Honestly, when I bought this laptop and saw the specs, I was cautiously optimistic. My expectations have been thoroughly exceeded though. This little laptop is small enough to be actually portable, gets decent battery life at around 6 to 8 hours of average usage, and can stream most media easily without any problems. I'd highly suggest uninstalling some of the startup programs with CCleaner to help with making sure the computer runs as smoothly as possible, as I did.
+
+The only caveat with this computer is that you'll need a MicroSD card or an external hard drive, as the majority of your 32GB will be taken up by main Windows files and temporary files. External memory options are pretty cheap these days, so it shouldn't be too big of an issue.
+
+This machine has dropped below $200 (I bought it for $156 here on Amazon refurbished) and I think it's probably the best tech decision I've ever made. Instead of getting a powerful gaming laptop, I bought this and decided to build a gaming desktop. Even after this purchase and building a whole new computer, I'll still come out much better on the money spectrum.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3
+
+26.It's a good buy for the cost
+4
+
+It's a good buy for the cost. The computer has changed a great color to it, which really makes it stand out from all the black and grey computers in the world. It works very well. No issues so far, but it is not the fastest computer in the world. It does take some time to start up and it does occasionally freeze out of no where. Have had it for a little over a month now and no major issues have occurred. Would definitely recommend for those looking for an inexpensive laptop that don't need a lot of RAM or lightening speed. Would be great for students.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+27.Great laptop that is light weight very portable and has a great blue color!
+5
+
+Purchased this laptop after my Chromebook stopped working. Could not be happier with it! I have now owned this for 7 months and it is still working well and I have not had any issues at all. Really wanted to wait before writing a review on this item just to make sure that I was totally satisfied with this item. Also, I wanted to see how long it would last without anything going wrong with it.
+
+This laptop is not heavy at all which is great for carrying it around the house and on the go. My chrome was heavier than this laptop so to me this is a super plus! I give it an A for being light weight and portable. The color is a really nice blue that does match my office décor. The blue color is not blinding and also not dull it is just the perfect color that does not scream! It has many features that come with it although I have not used most of them because I just really need it to store my paperwork, notes and work on home budgets etc… The office products are wonderful so if you need a laptop for home, office or even school work I would recommend this laptop as a great purchase. Not having watched any movies on it, I can not really comment but it does play youtube videos really well.
+
+The one thing that is really important to me is the keyboard and this one is perfect for me. The keyboard is a good size and I am able to type out my letters and such really fast without having any of the keys getting stuck or locking up which I did start to have a problem with my chrome.
+I have used this laptop hours at a time and it does not get hot like others I have owned which is wonderful! Also, I have not had any issues with it freezing or locking up on me.
+
+I would recommend this laptop to anyone that is considering buying it. It will definitely fit all your needs and much more. It is light weight and portable with a great blue color.
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+28.Good, pretty looking, and affordable
+5
+
+I love it. I use it for writing my documents on word or making my excel tables, for surfing the web, for playing netflix. I don't care about playing powerful games, I like to play old snes or gba games so this is perfect, and also, im not a designer, so i dont worry for Photoshop or heavy programs. If you do more than what I do on this PC, you should probably save up for a more expensive equipment.
+
+Its lightweight, and the purple color is beautiful, for traveling is a complete delight. The keyboard works fine for me (I use a protector anyway so it looks extra cute with the colorful keys) and the touchpad could have an improvement maybe, but is nothing to die for or to rant about. Lack of space? I use my external HD and im good, only the basic programs stay inside the stream, the rest as well as the pictures stay out of it. The screen is good, not perfect, but good for what I need to do or what I want to see, the camera isnt the best but in my case, i dont use it - - to be honest, I never thought you could fall in love with things, but I just did with this computer. Im planning on getting another one just out of a pure whim, but to me, is worth it.
+
+Blocked the updates so it wont be acting slow while using it, and got the 64 gb model to leave some room in case an update requires it but anyway.
+
+If you can move around windows and delete or reconfigure a thing here and there, and if you dont use it for something else like myself, then this is the perfect and affordable computer for you. If you prefer to have a more powerful equipment and arent please with the basic features that this pc offers, then this aint for you.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_4?ie=UTF8&reviewerType=all_reviews&pageNumber=4
+
+29.Talking about everything.
+3
+
+It is fast. It has a good amount of memory. NOW THE PROBLEMS. If you hold a button for too long, it will get stuck. There is a good amount of memory but not that much. This is not recommended as a gaming laptop. The left mouse button can get stuck sometimes. The top side has a really smooth plastic, but not the bottom. Like all computers, it can heat up at the bottom but MAN can this keyboard get hot at the bottom! Not a burn hot, but still hot. It can do 1080 p videos on Youtube at 30 fps or more, but games are a whole different story. When you push the on button, you have to move your finger on the touch pad REALLY fast. It can play basic games like agar.io or even Roblox on it pretty decently! The screen is big and bright, the sound is good too. Also, this thing is TOUGH! The first time we dropped it, it was fine. The 2nd time was on tile while standing up, and the corner on the bottom right side of the cover broke off but nothing bad happened to the computer! The speakers are on the back of the bottom of the computer, which would be better if it was on the left and right side of where the screen is. The camera is good and the mic is GREAT! If you are using this for school worthy things, than this is for you.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+
+30.basic laptop at a good price
+5
+
+This is a good laptop for the price. It's very basic but works well and was easy to set up. We just needed it for our kids to use for schoolwork. They need to be able to look up some things online, check email, and type and print assignments. It works great for these uses. I was also able to load a math program which didn't take up too much memory space (the big limitation with this laptop). All in all this is a good laptop for basic computer work or for kids. It does basic functions well and is inexpensive enough that I don't have to worry too much about it being damaged.
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+31.This is truly a steal for a laptop!
+5
+
+This laptop works amazing for school. I'm a nursing student and it is the perfect size to carry along with me to classes and it works very fast and opens all Microsoft documents, powerpoints, etc great. Everything runs smoothly. I think the people who gave it bad reviews were simply expecting way too much out of such a cheap laptop. The price is still amazing for how good of a computer this is.
+Overall: Runs smooth, quick and has a great battery life!
+
+https://www.amazon.com/HP-Stream-Laptop-PC-14-ax010nr/product-reviews/B01JLCKP34/ref=cm_cr_othr_d_paging_btm_5?ie=UTF8&reviewerType=all_reviews&pageNumber=5
+
+

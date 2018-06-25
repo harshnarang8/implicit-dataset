@@ -5,15 +5,19 @@ laptop
     performance
         overall
         speed
-        booting (doubt)
+        booting (doubt boot-speed)
+	day-to-day
+	heavy
     features
         dvd-player
+	microphone
         additional memory (doubt)
         temperature
         connections
         wifi-connectivity
         ease-of-migration
-    reliablity
+	customisability
+    reliability
         overall
     functionality
         overall
@@ -21,6 +25,7 @@ laptop
         overall
     durability
         overall (doubt)
+        build-quality
     aesthetics
         weight
         ease-of-use
@@ -30,6 +35,10 @@ laptop
         thickness
         sleekness (doubt)
         form-factor
+	quietness
+	design
+    price
+        worthiness
 
 battery
     functionality
@@ -51,6 +60,7 @@ charger
 
 software>os
     functionality
+	initial-setup (instead of software#func#init)
         overall
     features
         upgradation
@@ -77,8 +87,9 @@ webcam
 keyboard
     aesthetics
         typing-experience
-        strength
-        firmness
+        strength (doubt)
+        firmness (doubt)
+	build-quality
         layout
         design
         size
@@ -88,7 +99,7 @@ keyboard
         caps-on-indicators
         backlight
     functionality
-        user-friendlines
+        user-friendliness
     quality
         overall
         strength
@@ -117,14 +128,14 @@ speakers
     quality
         overall
 
-memory>hard-drive
+memory>hard-drive (hdd)
     performance
         speed
         overall
 
 memory>ssd
     features
-        m2compatibiltiy
+        m2-compatibility
         nvme-compatibility
     performance
         speed
@@ -145,7 +156,7 @@ processor
     features
         cores
         threads
-        models
+        model
 
 fingerprint-scanner
     performance
@@ -164,6 +175,7 @@ touchpad
     performance
         accuracy
     aesthetics
+	size
         ease-of-use
 
 port

@@ -63,7 +63,6 @@
             document.addEventListener("keydown", function(myEvent) {
                 if((myEvent.metaKey || myEvent.ctrlKey) && myEvent.keyCode==69 ) {
                     convert();
-                    console.log("oh yeah!");
                 }
             });
 
@@ -75,9 +74,11 @@
                 text = x1.value;
                 values = text.split("\n");
                 output = "";
+                output += '\t<Review rid="">\n\t\t<sentences>\n';
                 for (var i = 0; i < values.length; ++i) {
                     output += "\t\t\t<sentence>\n\t\t\t\t<text>\n\t\t\t\t\t";
                     output += values[i];
+                    output += "\n\t\t\t\t</text>";
                     try {
                         opSplit = values[i+1].split(" ");
                     }
@@ -87,35 +88,51 @@
                         return;
                     }
                     if (opSplit == "") {
-                        output += '\n\t\t\t\t</text>\n\t\t\t\t<Opinions>\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
+                        output += '\n\t\t\t\t<Opinions>\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
                         i++;
                     }
                     else {
-                        t1 = opSplit[0];
-                        t2 = opSplit[1];
-                        t3 = opSplit[2];
-                        if (t2 == "0") {
-                            t2 = "negative";
-                        }
-                        else if (t2 == "1") {
-                            t2 = "neutral";
-                        }
-                        else if (t2 == "2") {
-                            t2 = "positive";
-                        }
-                        if (t3 == "0") {
-                            t3 = "false";
-                        }
-                        else if (t3 == "1") {
-                            t3 = "true";
-                        }
-                        else if (t3 == "2") {
-                            t3 = "coreference";
-                        }
-                        output += '\n\t\t\t\t</text>\n\t\t\t\t<Opinions>\n\t\t\t\t\t<Opinion category="' + t1 + '" polarity="' + t2 + '" implicit="' + t3 + '" />\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
-                        i++;
+                        output += "\n\t\t\t\t<Opinions>";
+                        do {
+                            i++;
+                            try {
+                                opSplit = values[i].split(" ");
+                            }
+                            catch(err) {
+                                document.getElementById("t2").style.borderColor = "red";
+                                document.getElementById("h").style.borderColor = "red";
+                                return;
+                            }
+                            t1 = opSplit[0];
+                            t2 = opSplit[1];
+                            t3 = opSplit[2];
+                            if (t2 == "0") {
+                                t2 = "negative";
+                            }
+                            else if (t2 == "1") {
+                                t2 = "neutral";
+                            }
+                            else if (t2 == "2") {
+                                t2 = "positive";
+                            }
+                            if (t3 == "0") {
+                                t3 = "false";
+                            }
+                            else if (t3 == "1") {
+                                t3 = "true";
+                            }
+                            else if (t3 == "2") {
+                                t3 = "coreference";
+                            }
+                            output += '\n\t\t\t\t\t<Opinion category="' + t1 + '" polarity="' + t2 + '" implicit="' + t3 + '" />';
+                            if (values[i+1] == "") {
+                                i++;
+                            }
+                        } while (values[i] == "")
+                        output+= "\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n";
                     }
                 }
+                output += "\t\t</sentences>\n\t</Review>\n";
                 x2.innerHTML = output;
                 document.getElementById("t2").style.borderColor = "green";
                 document.getElementById("h").style.borderColor = "green";

@@ -1385,21 +1385,7 @@
 				</text>
 				<Opinions>
 					<Opinion category="phone#performance#speed" polarity="positive" implicit="true" />
-				</Opinions>
-			</sentence>
-			<sentence>
-				<text>
-					
-				</text>
-				<Opinions>
 					<Opinion category="battery#performance#life" polarity="positive" implicit="false" />
-				</Opinions>
-			</sentence>
-			<sentence>
-				<text>
-					
-				</text>
-				<Opinions>
 					<Opinion category="screen#aesthetics#overall" polarity="positive" implicit="true" />
 				</Opinions>
 			</sentence>
