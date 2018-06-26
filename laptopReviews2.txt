@@ -1,0 +1,104 @@
+1
+I'm not sure that it would be a good buy at $999.00 but if you watch out for specials it is a great deal.
+laptop#price#worthiness 1 1
+I got mine for $799.00 and at that price I think it is excellent.
+laptop#price#worthiness 1 1
+I bought the 128GB/4GB Ram version and it works great.
+laptop#performance#overall 2 1
+One of the tasks I wanted this for was for photography editing on affinity photo.
+
+I was worried that the 4gb of ram would not be enough.
+ram#features#capacity 1 1
+I figured that if it wasn't enough i could always return it.
+
+but fortunately the laptop is holding its own.
+
+However I wouldn't recommend for video editing.
+laptop#performance#heavy 0 1
+Other features I really like on this are the Windows Hello feature.
+
+It works insanely well.
+
+Also, the track pad is amazing!
+touchpad#quality#overall 2 1
+The best I've ever seen on a PC.
+touchpad#quality#overall 2 2
+I didn't give windows 10 S a chance so I can't review that.
+
+The first thing I did was upgrade to Windows 10 Pro.
+software>os#features#upgradation 2 0
+This upgrade is available until 3/30/18 so don't wait too long if you're interested in this.
+
+After that date I read it will be a $50 upgrade.
+
+2
+I am an intense user and the Surface Laptop is the best laptop I owned so far.
+laptop#quality#overall 2 1
+Upgraded it to Win 10 Pro since I need a wide variety of software on the machine for professional use (Image processing, CAD, etc.).
+software>os#features#upgradation 2 0
+The upgrade was free and easy.
+software>os#features#upgradation 2 0
+The keyboard is very precise and comfortable, allowing for fast typing.
+keyboard#aesthetics#typing-experience 2 1
+Mouse and touch screen very accurate.
+touchpad#performance#accuracy 2 1
+screen#features#touch 2 1
+The display is crisp with natural colors.
+screen#aesthetics#color 2 0
+Processor and SSD performance is ample.
+processor#quality#overall 2 1
+memory>ssd#performance#overall 2 0
+Beautiful detail solutions like the power supply plug and the additional USB charging port in the power supply add to the appeal.
+charger#aesthetics#overall 2 1
+charger#features#extra-port 2 0
+And the design is clean, minimalist, beautiful.
+laptop#aesthetics#design 2 0
+I hope I will have this laptop for a very long time!
+laptop#quality#overall 2 1
+3
+Very nice piece of hardware.
+laptop#quality#overall 2 1
+I few minor complaints: Not nuts about how the charge cable interfaces with the laptop..
+charger#features#connection negative 1
+not as good as the maglock system but macs use but better than the typical connector.
+charger#features#connection 1 1
+It is short on ports.
+port#features#number 0 1
+Display Port, USB3 and a headphone jack... and thats it.
+port#features#number 0 1
+port#features#display 0 0
+port#features#card-reader 0 1
+I wish for a built card reader when I forget to bring my USB card reader.
+port#features#card-reader 0 0
+Aside from those complaints, its great.
+laptop#quality#overall 2 1
+Great keyboard, great track pad and HOLYSHITAWESOME SCREEN.
+keyboard#quality#overall 2 1
+touchpad#quality#overall 2 1
+screen#quality#overall 2 1
+Looks great and 3:2 aspect ratio is so great for actual productivity.
+laptop#aesthetics#design 2 1
+
+Great battery life and highly portable size and weight.
+Tight integration between OS and hardware shows... everything just works.
+4
+Amazing product, the materials are great. Feels that it is a premium quality.
+The battery may disappoint you because in tech specs you can see that it will work 14.5 hours. As for me I couldn't get from it more than 8 hours.
+It may heat if you will play games, then you need some additional cooling.
+Also the screen ratio is 2x3 that is great for work. But for movies it may be not as wide as you would like.
+Touch screen is great, very responsible. To keyboard and touch pad there is no complaints.
+5
+I bought this for my wife to replace her older, bulky, HP laptop. It was a few years old and replacement was due. She picked this one out at a retail store and we found it on Amazon for a reduced price. She LOVES it!! So light, fast, and cute because it's her favorite color. The palm rests have a cloth feeling but they are made of some plastic stuff that's easily cleaned, the screen looks great, and the keyboard feels right... partly due to the palm rests allowing a person to rest palms on them while typing. It has a fast hard drive, it's quiet and light. I really don't have negatives to say about it except that it only has a couple of USB 3 ports. That's OK... I bought a tiny USB 3 hub and we're all good now. Definitely recommend this device though it's not cheap.
+6
+I know most people cringe when thinking about Microsoft hardware. There have been some massive failures over the years. Remember around the time of the first iphone, the Windows Phones on AT&T? What a mess. Remember trying to update them? The Surface line of tablets have actually been pretty good, but in the end most people either just want a really good tablet or a good laptop. The surface laptops have filled a nice need which is a speedy laptop that is super slim and can act like a tablet as well. As long as you get the model with at least a core i5, 8 gigs of RAM and 256 SSD, the surface laptop performs great. You can hold it with 2 or 3 fingers and fits in a tablet sleeve. I have one of these myself and we have sold about 20 of them for our employees and clients and have had very few issues so far. The finish on the laptop looks nice, but it can show some fingerprints or new to be wiped off after a lot of use. The reason I am taking off a star is because of the confusion and frustration of having these laptops ship with Windows 10 S. I won't bore you with what Windows 10 S is, suffice to say that it is a stripped down version meant for large rollouts and not suitable for most people. It's true that you can switch to Windows 10 Pro for free, but it's super confusing for people that don't know how or why they need to do that. Overall while not perfect, for the price the surface laptop is a great choice.
+7
+What can I say? From the leather like feel of the palm rest, to the amazingly vibrant screen, to the crazy battery life, this is one darn good machine. Battery Life - I work in Word, Excel, Outlook and OneNote all day long, and using those programs (with Wi-Fi & Bluetooth on, Display at recommended, and power at recommended) I am receiving 16-18 hours of battery life. When I browse the internet in my free time I get closer to 12-14 hours, so high internet usage will drain your battery faster, but still, those are some amazing numbers.
+Display - Bright, vibrant colors. I have never had a problem reading anything, even outdoors.
+Keyboard and trackpad - there is a tiny bit of keyboard flex, but the keys are fine, and the trackpad is wow. The same glass trackpad as the Surface Book (read amazing)
+OS - I have yet to require an app outside of the Windows Store, but if you do, grab your free update to Windows 10 Pro.
+Graphics - can do basic gaming, but no powerhouse.
+Overall - great machine
+8
+This little laptop is amazing. I received it at the same time I bought a Dell Ultrabook, and it will replace my wife's Lenovo laptop that is dying. Externally the laptop has a minimalist styling, lots of aluminum with a tasteful Microsoft logo. It's a little heavier than my ultrabook, which makes sense as the ultrabook is all plastic, and no touch screen. The screen on the Surface is sharp and beautiful. Setup only took a few minutes. I was disappointed when I tried to install Chrome though, and the the pre-installed OS wouldn't allow it. Luckily it did prompt me to switch to regular Windows 10, which I did. Since then I was able to install my normal software suite. The machine is incredibly fast and quiet. It doesn't heat up the way our old Lenovo did. The camera is very high quality as well, my wife's relatives have all commented that her video quality has improved alot. I really like having the touch screen, as I use a tablet daily. I found myself toughing other laptop screens out of habit, with nothing happening...
+My wife and I are very happy with this high quality laptop, it's a great upgrade to our older equipment.
+9

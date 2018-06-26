@@ -35,9 +35,9 @@ laptop
         thickness
         sleekness (doubt)
         form-factor
-	quietness
-	design
-    price
+	    quietness
+	    design
+        price
         worthiness
 
 battery
@@ -54,9 +54,13 @@ charger
     functionality
         overall
         cord-size
+        connection
     aesthetics
+        overall
         size
         weight
+    features
+        extra-port
 
 software>os
     functionality
@@ -110,6 +114,7 @@ screen
         resolution
         viewing-angle
         clarity
+        touch
     aesthetics
         dimensions
         contrast
@@ -181,6 +186,10 @@ touchpad
 port
     functionality
         overall
+    features
+        number
+        card-reader
+        display
 
 hardware
     quality
