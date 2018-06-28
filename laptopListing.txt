@@ -28,6 +28,7 @@ laptop
         build-quality
     aesthetics
         weight
+        color
         ease-of-use
         overall
         size
@@ -39,6 +40,7 @@ laptop
 	    design
         price
         worthiness
+        fingerprint-sensitivity
 
 battery
     functionality
@@ -64,7 +66,7 @@ charger
 
 software>os
     functionality
-	initial-setup (instead of software#func#init)
+	    initial-setup (instead of software#func#init)
         overall
     features
         upgradation
@@ -93,6 +95,7 @@ keyboard
         typing-experience
         strength (doubt)
         firmness (doubt)
+        palm-rest
 	build-quality
         layout
         design
@@ -116,6 +119,7 @@ screen
         clarity
         touch
     aesthetics
+        aspect-ratio
         dimensions
         contrast
         color
@@ -137,6 +141,7 @@ memory>hard-drive (hdd)
     performance
         speed
         overall
+        loudness
 
 memory>ssd
     features
