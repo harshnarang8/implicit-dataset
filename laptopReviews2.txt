@@ -182,140 +182,692 @@ battery#performance#life 2 0
 When I browse the internet in my free time I get closer to 12-14 hours, so high internet usage will drain your battery faster, but still, those are some amazing numbers.
 battery#performance#life 2 1
 Display - Bright, vibrant colors.
-screen#features#brightness 2 1
+screen#features#brightness 2 0
+screen#aesthetics#color 2 1
 I have never had a problem reading anything, even outdoors.
+screen#features#brightness 2 1
 Keyboard and trackpad - there is a tiny bit of keyboard flex, but the keys are fine, and the trackpad is wow.
+keyboard#aesthetics#build-quality 1 1
+touchpad#quality#overall 2 1
 The same glass trackpad as the Surface Book (read amazing)
+touchpad#quality#overall 2 1
 OS - I have yet to require an app outside of the Windows Store, but if you do, grab your free update to Windows 10 Pro.
+software>apps#features#restrictions 1 1
 Graphics - can do basic gaming, but no powerhouse.
+laptop#performance#day-to-day 2 1
+laptop#performance#heavy 0 1
 Overall - great machine
+laptop#quality#overall 2 1
 8
 This little laptop is amazing.
+laptop#aesthetics#size 2 1
+laptop#quality#overall 2 1
 I received it at the same time I bought a Dell Ultrabook, and it will replace my wife's Lenovo laptop that is dying.
+
 Externally the laptop has a minimalist styling, lots of aluminum with a tasteful Microsoft logo.
+laptop#aesthetics#design 2 1
 It's a little heavier than my ultrabook, which makes sense as the ultrabook is all plastic, and no touch screen.
+laptop#aesthetics#weight 2 1
+screen#features#touch 2 0
 The screen on the Surface is sharp and beautiful.
+screen#features#clarity 2 1
+screen#quality#overall 2 1
 Setup only took a few minutes.
+software>os#functionality#initial-setup 2 0
 I was disappointed when I tried to install Chrome though, and the the pre-installed OS wouldn't allow it.
+software>apps#features#restrictions 0 1
 Luckily it did prompt me to switch to regular Windows 10, which I did.
+software>os#features#upgradation 2 1
 Since then I was able to install my normal software suite.
+software>apps#functionality#installation 2 1
 The machine is incredibly fast and quiet.
+laptop#performance#speed 2 1
+laptop#aesthetics#quietness 2 0
 It doesn't heat up the way our old Lenovo did.
+laptop#features#temerature 2 1
 The camera is very high quality as well, my wife's relatives have all commented that her video quality has improved alot.
+webcam#quality#overall 2 0
 I really like having the touch screen, as I use a tablet daily.
-I found myself toughing other laptop screens out of habit, with nothing happening...
+screen#features#touch 2 0
+I found myself touching other laptop screens out of habit, with nothing happening...
+
 My wife and I are very happy with this high quality laptop, it's a great upgrade to our older equipment.
+laptop#quality#overall 2 0
 9
 I compared a bunch of different laptops suitable for gaming and work.
+
 This one was the best price for the specs I was looking for.
+laptop#price#worthiness 2 1
 Build quality is nice.
+laptop#durability#build-quality 2 0
 It doesn't feel cheap.
+laptop#aesthetics#design 2 1
 It has a matte, slightly rubbery finish which feels nice.
+laptop#aesthetics#design 2 1
 No, the screen is not an ips panel but it still looks pretty good.
+screen#features#type 0 1
+screen#quality#overall 2 1
 I have high quality monitors for my desktop and this screen doesn't bother me a bit.
+screen#quality#overall 2 1
 It can run most of the newest games on medium settings.
+laptop#performance#heavy 2 1
 I get 50-60 fps on BF1 and that's without any further tweaking.
+laptop#performance#heavy 2 1
 I thought the red accents would turn me off but it actually looks pretty nice.
+laptop#aesthetics#design 2 1
 Not too "loud" or bright.
+laptop#aesthetics#quietness 2 1
+screen#features#brightness 2 1
 The fans do get a bit noisy but not too bad to where it's annoying.
+laptop#aesthetics#quietness 1 1
 Overall, I would say this is a great gaming laptop in it's price range.
+laptop#price#worthiness 2 0
 It boots fast and runs windows applications very quickly thanks to the ssd and i7.
+laptop#performance#booting 2 0
+laptop#performance#speeed 2 1
+processor#features#model 2 1
+memory>ssd#performance#speed 2 1
 Almost as quick as my desktop with an i7, GTX 1080, 16gb ram, etc. You really don't need more than 8gb of ram unless you are doing some serious multi tasking.
+laptop#performance#speeed 2 1
+ram#features#capacity 2 1
 10
 I have been looking for a budget gaming laptop so that I could play a couple of my games, since my old laptop can't really play games.
+
 After reading some reviews on amazon and some articles about gaming laptops, I decided to go with this laptop.
 
 When using the laptop for hours the keypad tends to get warm but it doesn't get hot to where it burns your fingers.
-I can agree that the audio isn't as great as my asus laptop. It sounds like it the voices are cracking when at high volume, but at low volume (roughly between 15-30) it sounds a lot better with the game audio adjustments.
-I bought the 1050 4gb and the graphics are great very high def and smooth. I can play all of my games at high settings. I play mostly RPGs so it is great to have smooth graphics.
-
+laptop#features#temperature 1 1
+I can agree that the audio isn't as great as my asus laptop.
+speakers#performance#sound-quality 0 1
+It sounds like it the voices are cracking when at high volume, but at low volume (roughly between 15-30) it sounds a lot better with the game audio adjustments.
+speakers#performance#sound-quality 1 1
+I bought the 1050 4gb and the graphics are great very high def and smooth.
+screen#quality#graphics 2 1
+I play mostly RPGs so it is great to have smooth graphics.
+screen#quality#graphics 2 1
 When running windows programs the texts can be blurry but going on the web and playing games everything is all HD.
-The battery life is great when using the web or watching movies, but when it comes to gaming it could honestly use some work. It would last about 1 hour to 1 and 1/2 hours when playing a game that requires a lot of power.
-
+screen#quality#graphics 1 1
+The battery life is great when using the web or watching movies, but when it comes to gaming it could honestly use some work.
+battery#performance#life 1 1
+It would last about 1 hour to 1 and 1/2 hours when playing a game that requires a lot of power.
+battery#performance#life 0 1
 Overall I'm happy with my purchase, and when I added an extra 8gb RAM everything got faster when loading and the battery life was boosted a bit.
+laptop#peformance#overall 2 1
 11
-Totally kicks ass for the price. ROCK solid well built as you would expect from dell. Fit and finish are top notch. Easy access to RAM and Hard drive unlike the bargain basement rip offs at Walmart. You get what you pay for. Using for gaming and home schooling so far its excellent. EVEN with the latest patch from Intel it does not miss a beat.
+Totally kicks ass for the price.
+laptop#price#worthiness 2 0
+ROCK solid well built as you would expect from dell.
+laptop#durability#build-quality 2 0
+Fit and finish are top notch.
+laptop#aesthetics#design 2 1
+Easy access to RAM and Hard drive unlike the bargain basement rip offs at Walmart.
+hardware#features#upgradation 2 1
+You get what you pay for.
+laptop#price#worthiness 2 1
+Using for gaming and home schooling so far its excellent.
+laptop#performance#heavy 2 1
+laptop#performance#day-to-day 2 1
+EVEN with the latest patch from Intel it does not miss a beat.
+laptop#performance#overall 2 1
 12
-I love this computer. I am in CAD heavy classes and use Solidworks, ANSYS, Blender, etc, quite frequently. I have had no issues running any graphics and processing-heavy programs or games. The startup is really fast. The fan is awesome - I can feel the laptop getting hot on my lap then the fan's kick in and the difference is incredible; it actually begins to feel cold (not even warm). The display is clear, the sound is clear. The battery lasts surprisingly long for a gaming laptop, too! I can get at least 4-5 hours on "better battery" mode (the estimate says over 7 but I'm typically never away from a power outlet that long), which was better than my last laptop. Given the price, this laptop does more than I could have hoped for. This is probably one of the best laptops I've owned.
+I love this computer.
+laptop#quality#overall 2 1
+I am in CAD heavy classes and use Solidworks, ANSYS, Blender, etc, quite frequently.
+
+I have had no issues running any graphics and processing-heavy programs or games.
+laptop#performance#heavy 2 1
+The startup is really fast.
+laptop#features#booting 2 1
+The fan is awesome - I can feel the laptop getting hot on my lap then the fan's kick in and the difference is incredible; it actually begins to feel cold (not even warm).
+laptop#features#temperature 2 1
+The display is clear, the sound is clear.
+screen#quality#overall 2 1
+speakers#peformance#sound-quality 2 1
+The battery lasts surprisingly long for a gaming laptop, too!
+battery#performance#life 2 1
+I can get at least 4-5 hours on "better battery" mode (the estimate says over 7 but I'm typically never away from a power outlet that long), which was better than my last laptop.
+battery#performance#life 2 1
+Given the price, this laptop does more than I could have hoped for.
+laptop#price#worthiness 2 0
+This is probably one of the best laptops I've owned.
+laptop#quality#overall 2 1
 13
-The laptop functioned fine and was quick and responsive for the evening that I had it and had all the same specs as what I ordered. However, like a lot of the other reviews, I found the display quality to be terrible. It has more light bleed than my MSRP $300 laptop, color accuracy is low, brightness is low, and the viewing angles are terrible. The overall effect is a dull, imprecise display with only one angle where you can see what's on the screen. It makes no sense to put such a poor screen on a gaming laptop, even if the GTX 1050 isn't top of the line. Count on needing to hook up an external monitor to enjoy your visuals.
+The laptop functioned fine and was quick and responsive for the evening that I had it and had all the same specs as what I ordered.
+laptop#performance#overall 2 1
+laptop#performance#speed 2 1
+However, like a lot of the other reviews, I found the display quality to be terrible.
+screen#quality#overall 0 0
+It has more light bleed than my MSRP $300 laptop, color accuracy is low, brightness is low, and the viewing angles are terrible.
+screen#quality#overall(doubt) 0 1
+screen#aesthetics#color 0 1
+screen#features#brightness 0 0
+screen#features#viewing-angle 0 0
+The overall effect is a dull, imprecise display with only one angle where you can see what's on the screen.
+screen#quality#overall 0 1
+screen#features#viewing-angle 0 0
+It makes no sense to put such a poor screen on a gaming laptop, even if the GTX 1050 isn't top of the line.
+screen#quality#overall 0 1
+graphics-card#features#model 1 1
+Count on needing to hook up an external monitor to enjoy your visuals.
+screen#quality#overall 0 1
+A possible detractor for any potential buyer may be the red backlit keyboard AND red lettering.
+keyboard#features#backlight 0 1
+keyboard#aesthetics#lettering 0 0
+I wasn't expecting this to be such a pain in the neck to use, but I basically could not see the keys without leaning in.
+keyboard#aesthetics#lettering 0 2
+A minor annoyance if you type from memory, but I still do not know why anyone would put a red backlit keyboard on a laptop.
+keyboard#aesthetics#backlight 0 1
+As this is more personal preference, I haven't docked the rating for this.
 
-A possible detractor for any potential buyer may be the red backlit keyboard AND red lettering. I wasn't expecting this to be such a pain in the neck to use, but I basically could not see the keys without leaning in. A minor annoyance if you type from memory, but I still do not know why anyone would put a red backlit keyboard on a laptop. As this is more personal preference, I haven't docked the rating for this.
+While the build is not phenomenal (it's plastic), I couldn't find any obvious structural weaknesses, and for the price I thought it was really good.
+laptop#durability#build-quality 2 0
+Still, it's not rugged and you will need to be careful with it.
+laptop#durability#build-quality 1 2
+I ended up returning it because of the display, and though I did have to pay return shipping, the seller treated me right, so no complaints there.
+screen#quality#overall 0 1
+14(doubt)
+had been contemplating a laptop for quite a while.
 
-While the build is not phenomenal (it's plastic), I couldn't find any obvious structural weaknesses, and for the price I thought it was really good. Still, it's not rugged and you will need to be careful with it. I ended up returning it because of the display, and though I did have to pay return shipping, the seller treated me right, so no complaints there.
-14
- had been contemplating a laptop for quite a while. This is my first as I have always gone the way of desktops until now. With how this computer is equipped, I feel like I got a hell of a deal. Gaming isn't as much of a priority as it had been in the past, but I do some coding and programming that requires some beefy specs. Having a 2.8GHz quad core with 16GB of RAM really makes things easy. And having the SSD makes it boot up in the blink of an eye. And the fans barely make any noise.
+This is my first as I have always gone the way of desktops until now.
 
-The design is great. I love the red accents and backlit keyboard. It's not too cumbersome or too heavy to fit into the laptop pocket of my backpack for traveling.
+With how this computer is equipped, I feel like I got a hell of a deal.
+laptop#price#worthiness 2 1
+Gaming isn't as much of a priority as it had been in the past, but I do some coding and programming that requires some beefy specs.
 
-The only knock that I'm going to give it is what everyone is complaining about. The sound quality! It's awful! They're spotty, they crackle. Doesn't matter what volume level. It always happens.
+Having a 2.8GHz quad core with 16GB of RAM really makes things easy.
+laptop#performance#heavy 2 2
+processor#features#clock-speed 2 1
+processor#features#cores 2 0
+ram#features#capacity 2 1
+And having the SSD makes it boot up in the blink of an eye.
+memory>ssd#features#overall 2 1
+laptop#features#booting 2 0
+And the fans barely make any noise.
+laptop#aesthetics#quietness 2 1
+The design is great.
+laptop#aesthetics#design 2 0
+I love the red accents and backlit keyboard.
+keyboard#aesthetics#design 2 1
+keyboard#aesthetucs#backlight 2 0
+It's not too cumbersome or too heavy to fit into the laptop pocket of my backpack for traveling.
+laptop#portability#overall 1 1
+The only knock that I'm going to give it is what everyone is complaining about.
+
+The sound quality! It's awful!
+speakers#performance#sound-quality 0 0
+They're spotty, they crackle.
+speakers#performance#clarity 0 0
+Doesn't matter what volume level.
+
+It always happens.
+speakers#performance#clarity 0 2
 BUT!!! There is a fix.
-I connected headphones expecting for the quality to be better. But it was still bad. That means it's not the speakers. It has to be the sound card or drivers. I tried updating the Realtek drivers since that is the brand, but the update didn't fix it. I instead installed the default Windows drivers, and magically there were no more issues with sound.
 
-Even though I had to play with the drivers to fix the sound, I still consider it to be a solid buy. There is some bloatware that comes with it, but I deleted all of that. Works like a dream!
+I connected headphones expecting for the quality to be better.
+
+But it was still bad.
+
+That means it's not the speakers.
+
+It has to be the sound card or drivers.
+
+I tried updating the Realtek drivers since that is the brand, but the update didn't fix it.
+
+I instead installed the default Windows drivers, and magically there were no more issues with sound.
+
+Even though I had to play with the drivers to fix the sound, I still consider it to be a solid buy.
+
+There is some bloatware that comes with it, but I deleted all of that.
+
+Works like a dream!
+
 15
-Good value under $700US. CPU chip and GFx can handle a lot. The 1TB HDD is cheap and slow so it really needs its OS installed on an SSD and at least 16GB RAM for heavy multitasking or gaming. Annoying Dell power settings come setup for battery life, so get into the advanced settings if you're wondering why the laptop is running like drunk preschooler.
+Good value under $700US.
+laptop#price#worthiness 2 1
+CPU chip and GFx can handle a lot.
+processor#performance#overall 2 1
+graphics-card#performance#overall 2 1
+The 1TB HDD is cheap and slow so it really needs its OS installed on an SSD and at least 16GB RAM for heavy multitasking or gaming.
+memory>hdd#features#capacity 1 1
+memory>hdd#performance#speed 0 1
+Annoying Dell power settings come setup for battery life, so get into the advanced settings if you're wondering why the laptop is running like drunk preschooler.
+battery#performance#life 2 0
+laptop#performance#overall 0 1
 16
-Excellent laptop, ignore the bad reviews. Not a lot of bloatware and the TN screen is not a big deal and you get a faster refresh rate than IPS also easy on the eyes. The video card does great on high end games at top settings with no freezing, the TI version is not exactly better, just better in some areas. I'm very impressed with it and if it is not enough room on the SSD then do what I did and buy another 256 GB (SATA) on crucial along with an 8 GB DDR4 2400Mhz stick of ram and it's a Ferrari. Get a good free antivirus like avira, get rid of some of the bloatware but be careful not to delete anything with drivers, and if you plan to video capture leave the Xbox app. I really can't believe the bad reviews, even with the addons your under a grand with a very high end machine. The charger is long and has a nice power light along with the slick look of the keyboard and red backlights which actually looks great so if your contemplating this vs an asus or the hp omen like I was I'd def go for this one again. Oh and the fans are pretty quiet and effective along with easy to clean since you have one screw on the bottom of this and run a plastic pry tool around the edge and your into all the hardware. Also it boots in about 5 secs and I have a lot of programs booting on startup just to see how it would handle it. Great buy at this price since a lot of other choices have a hybrid drive or optical with under 200GB SSD or none at all, also the Ram speed is 2400 and capable of 2666 MHz according to crucial with 32 GB MAX (2 slot ) Hope this helps someone!
+Excellent laptop, ignore the bad reviews.
+laptop#quality#overall 2 1
+Not a lot of bloatware and the TN screen is not a big deal and you get a faster refresh rate than IPS also easy on the eyes.
+software>os#features#bloatware 2 0
+screen#features#type 1 1
+screen#features#refresh-rate 2 0
+The video card does great on high end games at top settings with no freezing, the TI version is not exactly better, just better in some areas.
+graphics-card#performance#overall 2 1
+I'm very impressed with it and if it is not enough room on the SSD then do what I did and buy another 256 GB (SATA) on crucial along with an 8 GB DDR4 2400Mhz stick of ram and it's a Ferrari.
+graphics-card#performance#overall 2 2
+memory>ssd#features#capacity 0 1
+ram#features#capacity 0 1
+Get a good free antivirus like avira, get rid of some of the bloatware but be careful not to delete anything with drivers, and if you plan to video capture leave the Xbox app.
+software>os#features#bloatware 1 0
+I really can't believe the bad reviews, even with the addons your under a grand with a very high end machine.
+laptop#price#worthiness 2 1
+The charger is long and has a nice power light along with the slick look of the keyboard and red backlights which actually looks great so if your contemplating this vs an asus or the hp omen like I was I'd def go for this one again.
+charger#functionality#cord-size 2 1
+charger#aesthetics#indicator 2 1
+keyboard#aesthetics#design 2 1
+keyboard#aesthetics#backlight 2 1
+Oh and the fans are pretty quiet and effective along with easy to clean since you have one screw on the bottom of this and run a plastic pry tool around the edge and your into all the hardware.
+fan#performance#quietness 2 0
+fan#performance#overall 2 0
+Also it boots in about 5 secs and I have a lot of programs booting on startup just to see how it would handle it.
+laptop#performance#booting 2 0
+Great buy at this price since a lot of other choices have a hybrid drive or optical with under 200GB SSD or none at all, also the Ram speed is 2400 and capable of 2666 MHz according to crucial with 32 GB MAX (2 slot ) Hope this helps someone!
+laptop#price#worthiness 2 0
 17
-Shipped fast, handled demanding games, and came with the listed specs: i5 7300HQ, GTX 1050 3GB, and 8GB Ram. I was very satisfied with how fast it shipped and how strong it is. I'd get more ram in the future but for now, these 8GB will be perfectly fine. I also love the build quality and the soft touch finish and this is also VERY easy to upgrade. 10/10 would buy again. This is worth the $800 for a cheap, strong gaming laptop.
+Shipped fast, handled demanding games, and came with the listed specs: i5 7300HQ, GTX 1050 3GB, and 8GB Ram.
+laptop#performance#heavy 2 1
+processor#features#model 2 1
+graphics-card#features#model 1 1
+graphics-card#features#capacity 1 1
+I was very satisfied with how fast it shipped and how strong it is.
+laptop#durability#build-quality 2 1
+I'd get more ram in the future but for now, these 8GB will be perfectly fine.
+ram#features#capacity 2 1
+I also love the build quality and the soft touch finish and this is also VERY easy to upgrade.
+laptop#aesthetics#build-quality 2 0
+laptop#aesthetics#finish 2 0
+hardware#features#upgradation 2 0
+10/10 would buy again.
+laptop#quality#overall 2 1
+This is worth the $800 for a cheap, strong gaming laptop.
+laptop#price#worthiness 2 1
 18
-Got the laptop and everything worked like a charm. Others have said that the CPU runs hot and needs to put the fans on blast always and as I'm writing this review the fans are going fairly crazy. During light gaming it feels like it overheats a bit. During heavy gaming it gets pretty hot.
+Got the laptop and everything worked like a charm.
+laptop#performance#overall 2 1
+Others have said that the CPU runs hot and needs to put the fans on blast always and as I'm writing this review the fans are going fairly crazy.
+laptop#features#temperature 1 1
+fan#performance#quietness 0 1
+During light gaming it feels like it overheats a bit.
+laptop#features#temperature 1 1
+During heavy gaming it gets pretty hot.
+laptop#features#temperature 0 1
+Biggest complaint is with the keyboard.
+keyboard#aesthetics#layout 0 2
+It looks like it was designed by someone who never takes their right hand off of the mouse.
+laptop#aesthetics#design 2 1
+It's great for gaming, but awful for programming.
+laptop#performance#heavy 1 1
+Just noticed the numpad page down/up and home/end so hopefully that makes things better, but for such a large laptop it's a bit confusing why they wouldn't have a full keyboard layout.
+keyboard#features#layout 0 0
+Then to waste an entire key on * / + - seems a bit upsetting to me.
+keyboard#features#layout 0 1
+Also the arrow keys location is scrunched up in there.
+keyboard#features#layout 0 1
+Very happy with the laptop, don't get me wrong.
+laptop#quality#overall 2 1
+But, come to terms with the keyboard first and I think your experience will be better.
+keyboard#features#layout 0 2
+Also, to ASUS...come on guys get this figured out.
 
-Biggest complaint is with the keyboard. It looks like it was designed by someone who never takes their right hand off of the mouse. It's great for gaming, but awful for programming. Just noticed the numpad page down/up and home/end so hopefully that makes things better, but for such a large laptop it's a bit confusing why they wouldn't have a full keyboard layout. Then to waste an entire key on * / + - seems a bit upsetting to me. Also the arrow keys location is scrunched up in there.
-
-Very happy with the laptop, don't get me wrong. But, come to terms with the keyboard first and I think your experience will be better. Also, to ASUS...come on guys get this figured out.
 19
-I've been using this computer for about 3 months now and really love it. I needed a professional laptop that could handle the strain of freelance graphic design (rasterizing items in Illustrator, video editing, etc, everything adobe) and boy is this thing a powerhouse. I was using a custom upgraded 2010 macbook pro and it was having a hard time keeping up, fans constantly came on and the thing burned my lap it got so hot. This computer's fans are hardly noticeable, and hardly ever boot on. The speakers are PHENOMENAL, I love listening to music while I work and this has been a great addition to my workspace. I also use a second monitor and it looks great plugged into another screen. The viewing angles aren't the greatest, but you really can't beat what you get for the price. You can even get them custom built with more space at cukusa.com. All around great laptop so far.
+I've been using this computer for about 3 months now and really love it.
+laptop#quality#overall 2 1
+I needed a professional laptop that could handle the strain of freelance graphic design (rasterizing items in Illustrator, video editing, etc, everything adobe) and boy is this thing a powerhouse.
+laptop#performance#heavy 2 1
+I was using a custom upgraded 2010 macbook pro and it was having a hard time keeping up, fans constantly came on and the thing burned my lap it got so hot.
+
+This computer's fans are hardly noticeable, and hardly ever boot on.
+fan#performance#quietness 2 1
+The speakers are PHENOMENAL, I love listening to music while I work and this has been a great addition to my workspace.
+speakers#performance#overall 2 1
+I also use a second monitor and it looks great plugged into another screen.
+
+The viewing angles aren't the greatest, but you really can't beat what you get for the price.
+screen#features#viewing-angle 0 0
+You can even get them custom built with more space at cukusa.com.
+
+All around great laptop so far.
+laptop#quality#overall 2 1
 20
-I love this laptop. I have been using it for a little less than a week now, and I couldn't be happier. This laptop is sleek and light weight for what it is packing. The hardware is great. I have been playing a game with ultra settings and the performance is great (Warhammer 40K Inquisitor Martyr if you're wondering). It may get a tad hot in certain areas under heavy load, but not nearly as bad as some other laptops I've owned. I was surprised by the speakers on this laptop actually. They are on the bottom of the laptop and sound pretty good for laptop speakers; especially sitting on a desk.
-
-If I had to be picky I would say that the screen is great, but you have to find the right angle in order to see the screen properly, not that bad though. The gestures for the track pad can be a bit picky. I am always zooming in and out while trying to scroll or click on something unintentionally. The first thing I noticed I didn't like was that there is no visual indicator for Num or caps lock. Also I would like to have a dedicated page up, page down, home, and end buttons.
+I love this laptop.
+laptop#quality#overall 2 1
+I have been using it for a little less than a week now, and I couldn't be happier.
+laptop#quality#overall 2 1
+This laptop is sleek and light weight for what it is packing.
+laptop#aesthetics#size 2 1
+laptop#aesthetics#weight 2 0
+The hardware is great.
+hardware#quality#overall 2 1
+I have been playing a game with ultra settings and the performance is great (Warhammer 40K Inquisitor Martyr if you're wondering).
+laptop#performance#heavy 2 0
+It may get a tad hot in certain areas under heavy load, but not nearly as bad as some other laptops I've owned.
+laptop#features#temperature 1 1
+I was surprised by the speakers on this laptop actually.
+speakers#quality#overall 2 1
+They are on the bottom of the laptop and sound pretty good for laptop speakers; especially sitting on a desk.
+speakers#performance#sound-quality 2 0
+If I had to be picky I would say that the screen is great, but you have to find the right angle in order to see the screen properly, not that bad though.
+screen#quality#overall 2 1
+screen#features#viewing-angle 0 0
+The gestures for the track pad can be a bit picky.
+touchpad#performance#gestures 1 0
+I am always zooming in and out while trying to scroll or click on something unintentionally.
+touchpad#performance#gestures 1 2
+The first thing I noticed I didn't like was that there is no visual indicator for Num or caps lock.
+keyboard#features#caps-on-indicators 0 1
+Also I would like to have a dedicated page up, page down, home, and end buttons.
+keyboard#aesthetics#layout 0 1
 21
-The laptop is great. I really like it. I gave it a 4 star because of the right side portion of keyword where the numbers are located. They are a bit smaller then the actual letter and are a bit cramped in so sometimes I press the wrong numbers. Its fast, boots up really quick. I would say when I hit the power button, the login screen appears within 5 seconds at most. The powering off is quick as well. Its really quiet, I don't even notice when fans are on and my office is pretty quiet during the day. Only when I'm using a large software program do I hear the fans and not much at all...The laptop does have a quality look and feel with its metal finish. The keyboard is lit and is really helpful. Its slim and light weight. The speakers also sound good, has some bass it to as well...
+The laptop is great.
+laptop#quality#overall 2 1
+I really like it.
+laptop#quality#overall 2 1
+I gave it a 4 star because of the right side portion of keyword where the numbers are located.
+laptop#quality#overall 2 1
+They are a bit smaller then the actual letter and are a bit cramped in so sometimes I press the wrong numbers.
+Its fast, boots up really quick.
+I would say when I hit the power button, the login screen appears within 5 seconds at most.
+The powering off is quick as well.
+Its really quiet, I don't even notice when fans are on and my office is pretty quiet during the day.
+Only when I'm using a large software program do I hear the fans and not much at all...
+The laptop does have a quality look and feel with its metal finish.
+The keyboard is lit and is really helpful.
+Its slim and light weight.
+The speakers also sound good, has some bass it to as well...
 22
-The TN panel that comes with the laptop is absolutely horrible. The color reproduction is acceptable at most, and its contrast is straight up garbage town. Even when you look at the panel dead on, you can still see color shifting at corners of the screen. You will not be using this laptop for any professional work; even media consumption is average at most. The performance of the laptop, however, deserves praise. The GTX 1050 inside do wonders when it comes to graphic demanding tasks like games. GTA V can be ran smoothly on this at about 60 FPS on high settings. If your budget allows, I would take a look at the Dell XPS 15, for a couple hundred more dollars, it gives you a better screen and a better build quality.
+The TN panel that comes with the laptop is absolutely horrible.
+The color reproduction is acceptable at most, and its contrast is straight up garbage town.
+Even when you look at the panel dead on, you can still see color shifting at corners of the screen.
+You will not be using this laptop for any professional work; even media consumption is average at most.
+The performance of the laptop, however, deserves praise.
+The GTX 1050 inside do wonders when it comes to graphic demanding tasks like games.
+GTA V can be ran smoothly on this at about 60 FPS on high settings.
+If your budget allows, I would take a look at the Dell XPS 15, for a couple hundred more dollars, it gives you a better screen and a better build quality.
 23
-After a month of using this laptop for normal college uses, the keys get stuck which creates the backlight look poor. The keys are still pressable, just the backlight looks horrible.
-Battery life is okay, lasts about 4 to 5 hours for normal uses and some photo editing. Gaming on this laptop isn't recommended unless you want to always be plugged in. The battery life can range from 30 minutes to 1.5 hours before it states you need to charge
+After a month of using this laptop for normal college uses, the keys get stuck which creates the backlight look poor.
+The keys are still pressable, just the backlight looks horrible.
+Battery life is okay, lasts about 4 to 5 hours for normal uses and some photo editing.
+Gaming on this laptop isn't recommended unless you want to always be plugged in.
+The battery life can range from 30 minutes to 1.5 hours before it states you need to charge.
 24
-Has worked for me so far, but some things could be better. It works the way it should, starts quickly, runs well, has quiet fans. Though, some aspects could be better.
-The viewing angles on the screen are pretty horrible. If i lean forward or back while sitting I also have to move the screen so that the quality doesn't diminish. Webcam camera is sub-par. I've seen better quality from a $30 drone. The track pad is pretty undesirable, all too often my mouse would seem to teleport from one side of my screen to the other. It also has a sound when you tap it that just makes it sound either cheap or just undesirable, i'm not sure. In order to change the volume on the keyboard you need to press the fn button and then the f10 to f12 buttons, which are on the other side of the keyboard. This means that even a person with as large of hands as I has to struggle to reach it with on hand, which for me is inconvenient. It would have been smart to switch the volume control with the screen control which is closer to the fn button. Also, its annoying that the computer turns itself off whenever you close the computer, so if you are playing a game, make sure you save before you close the computer because otherwise you are losing your progress. Battery life is pretty bad.
+Has worked for me so far, but some things could be better.
+laptop#quality#overall 1 1
+It works the way it should, starts quickly, runs well, has quiet fans.
+laptop#performance#overall 2 1
+laptop#performance#booting 2 1
+fan#performance#quietness 2 0
+Though, some aspects could be better.
 
-Now that ive gotten all of the things that annoy me out of the way, i would like to say that it does have some good things about it too. The keyboard lights up and looks great. The keyboard typing is easy and sounds and feels great. It includes a num pad squeezed in on the right and it is a welcome edition. Even if it does need you to puch the num lock button every time you open the laptop to activate it.
+The viewing angles on the screen are pretty horrible.
+screen#features#viewing-angle 0 0
+If i lean forward or back while sitting I also have to move the screen so that the quality doesn't diminish.
+screen#features#viewing-angle 0 1
+Webcam camera is sub-par.
+webcam#quality#overall 0 1
+I've seen better quality from a $30 drone.
+webcam#quality#overall 0 2
+The track pad is pretty undesirable, all too often my mouse would seem to teleport from one side of my screen to the other.
+touchpad#quality#overall 0 1
+touchpad#performance#accuracy 0 1
+It also has a sound when you tap it that just makes it sound either cheap or just undesirable, i'm not sure.
+touchpad#aesthetics#experience 0 1
+In order to change the volume on the keyboard you need to press the fn button and then the f10 to f12 buttons, which are on the other side of the keyboard.
+keyboard#aesthetics#layout 0 1
+This means that even a person with as large of hands as I has to struggle to reach it with on hand, which for me is inconvenient.
+keyboard#aesthetics#layout 0 2
+It would have been smart to switch the volume control with the screen control which is closer to the fn button.
+keyboard#aesthetics#layout 0 1
+Also, its annoying that the computer turns itself off whenever you close the computer, so if you are playing a game, make sure you save before you close the computer because otherwise you are losing your progress.
+
+Battery life is pretty bad.
+battery#performance#life 0 0
+Now that ive gotten all of the things that annoy me out of the way, i would like to say that it does have some good things about it too.
+
+The keyboard lights up and looks great.
+keyboard#aesthetics#backlight 2 1
+The keyboard typing is easy and sounds and feels great.
+keyboard#aesthetics#typing-experience 2 0
+It includes a num pad squeezed in on the right and it is a welcome edition.
+keyboard#aesthetics#layout 2 1
+Even if it does need you to puch the num lock button every time you open the laptop to activate it.
 
 I bought this computer at $699.99
+laptop#price#worthiness 1 1
 I wouldnt want to pay full price.
+laptop#price#worthiness 0 0
 25
-I am happy with this purchase and so far zero issue with it. I enjoy the red back lit keys and has the F1 through F10 keys as well. It fired up quickly. The few games I play runs great (Empyrion is one I play most). Load time was quick. The graphics very nice too. The laptop fan settings was nice to have access to set the speed. You have full control on alot of stuff from turning on or off the onboard camera, microphone, wifi, and Bluetooth. It comes with Norton Internet security although not a big fan. I will use for now. Otherwise I would buy another MSI laptop again. The company I bought it from shipped it fine and I wish they would use more packaging stuffing it it's box. I did not receive it damaged nor the boxes it was in. Updates as the weeks progress.
+I am happy with this purchase and so far zero issue with it.
+laptop#quality#overall 2 1
+I enjoy the red back lit keys and has the F1 through F10 keys as well.
+It fired up quickly.
+laptop#performance#booting 2 1
+The few games I play runs great (Empyrion is one I play most).
+laptop#performance#heavy 2 1
+Load time was quick.
+laptop#performance#heavy 2 1
+The graphics very nice too.
+graphics-card#performance#overall 2 1
+The laptop fan settings was nice to have access to set the speed.
+fan#features#manual 2 1
+You have full control on alot of stuff from turning on or off the onboard camera, microphone, wifi, and Bluetooth.
+(doubt)
+It comes with Norton Internet security although not a big fan.
+software>os#features#bloatware 2 1
+I will use for now.
+
+Otherwise I would buy another MSI laptop again.
+laptop#quality#overall 2 1
+The company I bought it from shipped it fine and I wish they would use more packaging stuffing it it's box.
+
+I did not receive it damaged nor the boxes it was in.
+
+Updates as the weeks progress.
+
 26
-Really good laptop, especially if you can find the sale for $150 off. Absolutely cannot beat the value.
-Runs Fortnite at a consistent 95 fps with shadows and anti-aliasing at lowest setting, with everything else set for the highest setting (very powerful cpu and gpu). Has more than enough storage to hold all your games and other files. Boots up super fast.
+Really good laptop, especially if you can find the sale for $150 off.
+laptop#quality#overall 2 1
+laptop#price#worthiness 2 1
+Absolutely cannot beat the value.
+laptop#quality#overall 2 1
+Runs Fortnite at a consistent 95 fps with shadows and anti-aliasing at lowest setting, with everything else set for the highest setting (very powerful cpu and gpu).
+Has more than enough storage to hold all your games and other files.
+Boots up super fast.
 Looks great, keys are smooth, display is great.
+laptop#aesthetics#design 2 1
+keyboard#quality#overall 2 1
+screen#quality#overall 2 1
 Kinda heavy, but not an issue for most people.
+laptop#aesthetics#weight 1 1
 I saw reviews saying that theirs came with dead pixels, mine did not.
+screen#quality#overall 1 1
 Definitely happy with this purchase.
+laptop#price#worthiness 2 1
 27
-Very good workhorse computer runs all my programs (python, java, unity, autodesk 360) just modeling programs, coding languages, and game development along with a few games very well. The screen is great but is just a tad too close to the keyboard when closed which leaves marks. The only issue with it is its extremely fragile, this isn't a computer you can drop at all even on soft surfaces. But I love it!
+Very good workhorse computer runs all my programs (python, java, unity, autodesk 360) just modeling programs, coding languages, and game development along with a few games very well.
+laptop#performance#heavy 2 1
+The screen is great but is just a tad too close to the keyboard when closed which leaves marks.
+screen#performance#overall 2 1
+laptop#functionality#design 0 1
+The only issue with it is its extremely fragile, this isn't a computer you can drop at all even on soft surfaces.
+laptop#durability#build-quality 0 1
+But I love it!
+laptop#quality#overall 2 1
 28
-This computer is amazing! This computer is super thin and light weight. It's really fast with no problems at all. I travel a lot and this laptop has been a huge addition to me as it's easy to transport and carry around. The battery life is really long so it makes using it anywhere, anytime really easy and simple. The only downside is that it only has a micro HDMI port, which means I've had to buy adapters for it so I can plug in regular size HDMI and VGA plugs (because it also doesn't have a VGA port). Other than that the computer is fast and I just plain like to use it every day.
+This computer is amazing!
+laptop#quality#overall 2 1
+This computer is super thin and light weight.
+laptop#aesthetics#thickness 2 1
+laptop#aesthetics#weight 2 0
+It's really fast with no problems at all.
+laptop#performance#speed 2 1
+I travel a lot and this laptop has been a huge addition to me as it's easy to transport and carry around.
+laptop#portability#overall 2 1
+The battery life is really long so it makes using it anywhere, anytime really easy and simple.
+battery#performance#life 2 1
+The only downside is that it only has a micro HDMI port, which means I've had to buy adapters for it so I can plug in regular size HDMI and VGA plugs (because it also doesn't have a VGA port).
+port#features#hdmi 0 1
+Other than that the computer is fast and I just plain like to use it every day.
+laptop#performance#speed 2 1
+laptp#quality#overall 2 1
 29
-I am so glad I decided to purchase this laptop. It is lightweight and easy to carry in my backpack. The battery holds very well, I only charge it once or twice a week and I use it daily. I was deciding between this computer and a mac, but because of the price difference I chose this and I am thankful I did. Overall, it is very similar to a mac besides the price. This laptop is perfect for college, I would recommend it to anyone!
+I am so glad I decided to purchase this laptop.
+laptop#quality#overall 2 1
+It is lightweight and easy to carry in my backpack.
+laptop#aesthetics#weight 2 1
+laptop#portability#overall 2 1
+The battery holds very well, I only charge it once or twice a week and I use it daily.
+battery#performance#life 2 1
+I was deciding between this computer and a mac, but because of the price difference I chose this and I am thankful I did.
+laptop#price#worthiness 2 1
+Overall, it is very similar to a mac besides the price.
+laptop#quality#overall 1 1
+This laptop is perfect for college, I would recommend it to anyone!
+laptop#performance#day-to-day 2 1
 30
-let me just start off by saying that i am a college student going to school to become an ESL elementary school teacher. I dont use any fancy programs other than Microsoft office and browsing the web and saving files. I bought the base model which came with the core i5 (7th gen) processor, 2.5 GHz processor with turbo boost to 3.1, a 256 GB SSD with 8 GB of DDR3 RAM. its also the 13.3 inch size with the FHD (1920*1080) screen. i like how it comes with a finger print reader, i find that it works very fast 98% of the time but honestly theres no big deal putting your finger on the sensor a second time. I mainly got this laptop for the weight coming in under 3 pounds and the build quality and keyboard. Note that i have never actually used the keyboard but using it for over a month i can recommend it. the laptop is a mostly aluminium build and it feels really sturdy and not cheap at all if you are coming from old plastic laptops. i can easily take this in my book bag on the bus and train when im traveling to and from school without hurting my back like i used to do with my old laptop. I of course wanted to purchase the other higher end laptops lik the LG gram and XPS 13 but they were already going over $1000. I bought this for about $750 and it feels like it will last many many years. The keyboard is back lit (duh it has to be at this price) and they have a nice distance when pushed. they are very responsive and The 3 settings for how bright you want the keys to be are very handy when doing hw at night. the track pad could be better, i find that you will need to get used to it but over all it is a very nice size and has a sleek design with the no button clickers there. it is like the mack books just not as big. Over all the laptop does not sacrifice the ports, i feel like you get a good selection of ports such as 2 USB ports I believe a 2.0 and a 3.0, also a full size SD card reader, a headphone jack, a USB type c port, and micro HDMI port and of course they proprietary charging port for the charger. I very much recommend this laptop for any one who wants a nice laptop that looks and feels premium just not at those premium prices and at a very good price, and is LIGHT WEIGHT because this thing is not a hassle to take with you anywhere.
+let me just start off by saying that i am a college student going to school to become an ESL elementary school teacher.
+
+I dont use any fancy programs other than Microsoft office and browsing the web and saving files.
+
+I bought the base model which came with the core i5 (7th gen) processor, 2.5 GHz processor with turbo boost to 3.1, a 256 GB SSD with 8 GB of DDR3 RAM.
+processor#features#model 1 1
+processor#features#clock-speed 1 1
+ssd#features#capacity 1 1
+ram#features#capacity 1 1
+its also the 13.3 inch size with the FHD (1920*1080) screen.
+screen#aesthetics#size 1 1
+screen#features#resolution 1 1
+i like how it comes with a finger print reader, i find that it works very fast 98% of the time but honestly theres no big deal putting your finger on the sensor a second time.
+fingerprint-scanner#quality#overall 2 1
+fingerprint-scanner#performance#speed 2 1
+I mainly got this laptop for the weight coming in under 3 pounds and the build quality and keyboard.
+laptop#aesthetics#weight 2 0
+laptop#aesthetics#build-quality 2 0
+Note that i have never actually used the keyboard but using it for over a month i can recommend it.
+keyboard#quality#overall 2 1
+the laptop is a mostly aluminium build and it feels really sturdy and not cheap at all if you are coming from old plastic laptops.
+laptop#durability#build-quality 2 0
+laptop#aesthetics#build-quality 2 0
+i can easily take this in my book bag on the bus and train when im traveling to and from school without hurting my back like i used to do with my old laptop.
+laptop#portability#overall 2 1
+laptop#aesthetics#weight 2 1
+I of course wanted to purchase the other higher end laptops lik the LG gram and XPS 13 but they were already going over $1000.
+
+I bought this for about $750 and it feels like it will last many many years.
+laptop#price#worthiness 2 1
+laptop#reliability#overall 2 1
+The keyboard is back lit (duh it has to be at this price) and they have a nice distance when pushed.
+keyboard#features#backlight 1 1
+keyboard#aesthetics#typing-experience 2 1
+they are very responsive and The 3 settings for how bright you want the keys to be are very handy when doing hw at night.
+keyboard#aesthetics#typing-experience 2 1
+keyboard#features#backlight 2 1
+the track pad could be better, i find that you will need to get used to it but over all it is a very nice size and has a sleek design with the no button clickers there.
+
+it is like the mack books just not as big.
+Over all the laptop does not sacrifice the ports, i feel like you get a good selection of ports such as 2 USB ports I believe a 2.0 and a 3.0, also a full size SD card reader, a headphone jack, a USB type c port, and micro HDMI port and of course they proprietary charging port for the charger.
+I very much recommend this laptop for any one who wants a nice laptop that looks and feels premium just not at those premium prices and at a very good price, and is LIGHT WEIGHT because this thing is not a hassle to take with you anywhere.
 31
-Very good laptop. Great connectvity options and features such as high quality matte screen , ambient light sensor, backlit keyboard, fingerprint scanner, fantastic speakers, quite operation and very good battery life. I was pleasantly surpised with everything this laptop has to offer for such a price and the speediness thanks to the Intel CPU and fast SDD drive. This laptop is a winner in my book, Good job ASUS!
+Very good laptop.
+laptop#quality#overall 2 1
+Great connectvity options and features such as high quality matte screen , ambient light sensor, backlit keyboard, fingerprint scanner, fantastic speakers, quite operation and very good battery life.
+screen#aesthetics#finish 2 1
+screen#features#light-sensor 2 0
+keyboard#features#backlight 2 0
+fingerprint-scanner#quality#iverall 2 1
+speakers#quality#overall 2 1
+fan#performance#quietness 2 0
+battery#performance#life 2 1
+I was pleasantly surpised with everything this laptop has to offer for such a price and the speediness thanks to the Intel CPU and fast SDD drive.
+laptop#price#worthiness 2 0
+laptop#performance#speed 2 0
+processor#performance#overall 2 1
+memory>ssd#performance#speed 2 0
+This laptop is a winner in my book, Good job ASUS!
+laptop#quality#overall 2 1
 32
-I bought this laptop a couple weeks ago after my old macbook finally gave up the ghost, and overall I'm pretty pleased with it. The fingerprint reader works well, the graphics are pretty decent, and overall it runs very well; I haven't had any trouble playing video games or running Photoshop. It's very thin and light, which I really appreciate, and the battery is pretty good--I can go most of a day with lighter/normal usage, less than that if I'm playing games or running something heavy like Photoshop. It doesn't have a CD drive, but i have an external one that hooks up fine. I appreciate how there's one usb port on either side, which gets around the problem of when you have a flash drive or something that's just a little too big and makes it so you can't use the other port. I do wish the SD card reader went in a little deeper, though; i was hoping to be able to just leave an sd card in the slot to save art files to, but the port is shallow enough that about half the card sticks out.
-
-I have, however, had a few problems running Chrome. Youtube videos tend to lag or get staticky/choppy if I'm doing too much in other tabs, and if your internet connection is finicky, then Chrome freezes constantly. However, I suspect this might just be an intersection of Chrome and Windows 10, rather than a problem with the laptop itself, since my old mac never had that particular problem.
-
+I bought this laptop a couple weeks ago after my old macbook finally gave up the ghost, and overall I'm pretty pleased with it.
+The fingerprint reader works well, the graphics are pretty decent, and overall it runs very well; I haven't had any trouble playing video games or running Photoshop.
+It's very thin and light, which I really appreciate, and the battery is pretty good--I can go most of a day with lighter/normal usage, less than that if I'm playing games or running something heavy like Photoshop.
+It doesn't have a CD drive, but i have an external one that hooks up fine.
+I appreciate how there's one usb port on either side, which gets around the problem of when you have a flash drive or something that's just a little too big and makes it so you can't use the other port.
+I do wish the SD card reader went in a little deeper, though; i was hoping to be able to just leave an sd card in the slot to save art files to, but the port is shallow enough that about half the card sticks out.
+I have, however, had a few problems running Chrome.
+Youtube videos tend to lag or get staticky/choppy if I'm doing too much in other tabs, and if your internet connection is finicky, then Chrome freezes constantly.
+However, I suspect this might just be an intersection of Chrome and Windows 10, rather than a problem with the laptop itself, since my old mac never had that particular problem.
 Overall, I would say this is a good laptop if you're somewhere that has a good internet connection.
+laptop#quality#overall 2 1
 33
-After three months I am still extremely pleased with this laptop. It is fast, weighs only half as much as my previous i3 Dell from 2013, and gets things done. I did not buy it for the fingerprint sensor, but I find I use it constantly to log on; it is a great addition that speeds things up. Regarding some of the issues other reviewers have brought up: 1) the trackpad works okay for me; when I am home I use a usb mouse, but on the road the trackpad is fine - no worse than others i have had; 2) the screen seemed a little dim, but when I turned off the ambient light sensor (a tip from another reviewer) it brightened right up; use the fn-A key combination to do that; 3) speakers are adequate for listening to quiet music in a hotel room - i do that constantly; if you want better/louder/multimedia speakers you need a much heavier laptop; the tradeoff is acceptable to me. Every time i pick this up to pack it for a trip it reminds me how much lighter it is than its predecessor.
+After three months I am still extremely pleased with this laptop.
+laptop#quality#overall 2 1
+It is fast, weighs only half as much as my previous i3 Dell from 2013, and gets things done.
+laptop#performance#speed 2 1
+laptop#aesthetics#weight 2 1
+laptop#performance#day-to-day 2 1
+I did not buy it for the fingerprint sensor, but I find I use it constantly to log on; it is a great addition that speeds things up.
+fingerprint-scanner#quality#overall 1 1
+Regarding some of the issues other reviewers have brought up:
+
+1) the trackpad works okay for me; when I am home I use a usb mouse, but on the road the trackpad is fine - no worse than others i have had;
+touchpad#quality#overall 1 1
+2) the screen seemed a little dim, but when I turned off the ambient light sensor (a tip from another reviewer) it brightened right up; use the fn-A key combination to do that;
+screen#quality#brightness 2 1
+3) speakers are adequate for listening to quiet music in a hotel room - i do that constantly; if you want better/louder/multimedia speakers you need a much heavier laptop; the tradeoff is acceptable to me.
+speakers#performance#loudness 1 1
+Every time i pick this up to pack it for a trip it reminds me how much lighter it is than its predecessor.
+laptop#protability#overall 2 1
+laptop#aesthetics#weight 2 1
 34
-This laptop is excellent! It’s very sleek, stylish, and lightweight and battery life is to die for. The zen book does live up to expectations regarding noise, because there is very little to no sound from the fans even when being used to capacity. The laptop hardly ever heats up and usually cool to the touch even after streaming for hours on end. My main qualm with this laptop is it’s lack of CD drive and the trackpad sensing seems to be a bit off, especially when using the 3 and 4 finger gestures. The camera quality is a bit underwhelming but I’m not using my laptop to film anything regularly, so it doesn’t bother me too much. Other than that, this laptop is perfect for college students or people looking for something lightweight and stylish like a MacBook, affordable, and also dependable. I love this laptop and can see myself sticking with the zen book for a long time.
+This laptop is excellent!
+laptop#quality#overall 2 1
+It’s very sleek, stylish, and lightweight and battery life is to die for.
+The zen book does live up to expectations regarding noise, because there is very little to no sound from the fans even when being used to capacity.
+The laptop hardly ever heats up and usually cool to the touch even after streaming for hours on end.
+My main qualm with this laptop is it’s lack of CD drive and the trackpad sensing seems to be a bit off, especially when using the 3 and 4 finger gestures.
+The camera quality is a bit underwhelming but I’m not using my laptop to film anything regularly, so it doesn’t bother me too much.
+Other than that, this laptop is perfect for college students or people looking for something lightweight and stylish like a MacBook, affordable, and also dependable.
+I love this laptop and can see myself sticking with the zen book for a long time.
+laptop#quality#overall 2 1
 35
-I love many things about this laptop. The build quality is very robust with an aluminum body (with exception of bottom cover). The keyboard has a very nice feel to it. The fingerprint reader is very responsive and allows you to sign in using Windows Hello (a new authentication feature on Windows 10). Very good FHD display with good color contrast. Boot time is about 5 seconds. The battery life is fantastic, I can get about 12 hours steady use from a full charge. The speakers in this system are clear. This laptop has plenty of ports which includes a USB-Type C port that is compatible with adapters to make an additional USB 3.0 port. The laptop offers a great balance between portability and performance. I would definitely recommend this product.
-36
-I purchased this about a week ago and have about 8 hours of usage time thus far, but I thought I'd provide a review while I remember to do so. Very sleek, lightweight and slim ultrabook. Boot up time is very fast (less than 10 seconds). Keyboard very responsive and backlit keys work well (a must have) with adjustable light settings. Screen very sharp. Appears to have good battery life; I have only performed the initial charge out of the box. Fingerprint login is cognitive and fast. Again, limited usage time thus far but I am very pleased with this purchase and at this point highly recommend.
+I love many things about this laptop.
+laptop#quality#overall 2 1
+The build quality is very robust with an aluminum body (with exception of bottom cover).
+The keyboard has a very nice feel to it.
+The fingerprint reader is very responsive and allows you to sign in using Windows Hello (a new authentication feature on Windows 10).
+fingerprint-scanner#performance#overall 2 1
+Very good FHD display with good color contrast.
+screen#features#resolution 2 1
+screen#aesthetics#contrast 2 0
+Boot time is about 5 seconds.
+laptop#performance#booting 2 1
+The battery life is fantastic, I can get about 12 hours steady use from a full charge.
+battery#performance#life 2 0
+The speakers in this system are clear.
+speakers#performance#clarity 2 0
+This laptop has plenty of ports which includes a USB-Type C port that is compatible with adapters to make an additional USB 3.0 port.
+port#features#number 2 1
+port#features#usb-c 2 0
+The laptop offers a great balance between portability and performance.
+laptop#portability#overall 2 0
+laptop#performance#overall 2 0
+I would definitely recommend this product.
+laptop#quality#overall 2 1
+36 -
+I purchased this about a week ago and have about 8 hours of usage time thus far, but I thought I'd provide a review while I remember to do so.
+
+Very sleek, lightweight and slim ultrabook.
+laptop#aesthetics#design 2 1
+laptop#aesthetics#weight 2 1
+laptop#aesthetics#thickness 2 1
+laptop#portability#overall 2 1
+Boot up time is very fast (less than 10 seconds).
+laptop#performance#booting 2 0
+Keyboard very responsive and backlit keys work well (a must have) with adjustable light settings.
+keyboard#quality#overall 2 1
+keyboard#features#backlight 2 0
+Screen very sharp.
+screen#quality#graphics 2 1
+Appears to have good battery life; I have only performed the initial charge out of the box.
+battery#performance#life 2 1
+Fingerprint login is cognitive and fast.
+fingerprint-scanner#performance#speed 2 1
+Again, limited usage time thus far but I am very pleased with this purchase and at this point highly recommend.
+laptop#quality#overall 2 0

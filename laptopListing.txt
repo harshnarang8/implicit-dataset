@@ -10,7 +10,7 @@ laptop
 	heavy
     features
         dvd-player
-	microphone
+	    microphone
         additional memory (doubt)
         temperature
         connections
@@ -41,6 +41,8 @@ laptop
         price
         worthiness
         fingerprint-sensitivity
+        build-quality
+        finish
 
 battery
     functionality
@@ -61,6 +63,7 @@ charger
         overall
         size
         weight
+        indicator
     features
         extra-port
 
@@ -77,6 +80,10 @@ software>os
 software>apps
     performance
         overall
+    features
+        restrictions
+    functionality
+        installation
     
 software
     functionality
@@ -96,12 +103,14 @@ keyboard
         strength (doubt)
         firmness (doubt)
         palm-rest
-	build-quality
+	    build-quality
         layout
         design
         size
         dimensions
         ease-of-use
+        lettering
+        backlight
     features
         caps-on-indicators
         backlight
@@ -118,12 +127,16 @@ screen
         viewing-angle
         clarity
         touch
+        type
+        refresh-rate
+        light-sensor
     aesthetics
         aspect-ratio
         dimensions
         contrast
         color
         size
+        finish
     quality
         overall
         graphics
@@ -166,6 +179,7 @@ processor
     features
         cores
         threads
+        clock-speed
         model
 
 fingerprint-scanner
@@ -184,7 +198,9 @@ touchpad
         overall
     performance
         accuracy
+        gestures
     aesthetics
+        experience
 	size
         ease-of-use
 
@@ -193,6 +209,10 @@ port
         overall
     features
         number
+        usb
+        usb-c
+        vga
+        hdmi
         card-reader
         display
 
@@ -200,7 +220,23 @@ hardware
     quality
         overall
         strength
+    features
+        upgradation
 
 earphones
     performance
         sound quality
+
+graphics-card
+    performance
+        overall
+    features
+        model
+        capacity
+
+fan
+    performance
+        overall
+        quietness
+    features
+        manual
