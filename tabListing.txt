@@ -1,0 +1,123 @@
+software>os
+	quality
+		overall
+	functionality
+		user-friendliness
+	features
+		bloatware
+		graphic-interface
+		touch-interface
+		user-friendliness
+ear-phones
+	performance
+		sound-quality
+battery
+	performance
+		life
+		charging-speed
+	quality
+		overall
+charger
+	functionality
+		overall
+	quality
+		overall
+	features
+		cord
+screen
+	aesthetics
+		size
+		color
+		overall
+	features
+		resolution
+		filter
+		brightness
+		lamination
+		clarity
+		pen
+	aestheics
+		size
+	functionality
+		overall
+	performance
+		touch
+	quality
+		fingerprint-magnet
+		overall
+		back-light-bleed
+ram
+	features
+		capacity
+speakers
+	performance
+		loudness
+		sound-quality
+		clarity
+	quality
+		overall
+	features
+		type
+software>apps
+	performance
+		overall
+	features
+		pic-pic mode
+camera
+	quality
+		overall
+	features
+		resolution
+memory>internal
+	features
+		capacity
+tab
+	peformance
+		speed
+	aesthetics
+		ease-of-use
+		overall
+		design
+		weight
+		thickness
+		size
+	features
+		play-back
+		voice-assistant
+		pen
+		overall
+		connectivity
+		cord-size
+		internet-access
+		key-board
+	portability
+		overall
+	durability
+		overall
+	price
+		worthiness
+	feature
+		pen
+	reliability
+		overall
+	functionality
+		initial-setup
+		overall
+	performance
+		overall
+		speed
+		heavy
+		day-to-day
+	quality
+		overall
+		build
+software
+	performance
+		internet-access
+	functionality
+		initial-setup
+	quality
+		overall
+	features
+		multi-app-split-screen
+		internet-access
