@@ -819,6 +819,7 @@ laptop#aesthetics#weight 2 1
 This laptop is excellent!
 laptop#quality#overall 2 1
 It’s very sleek, stylish, and lightweight and battery life is to die for.
+laptop#aesthetics
 The zen book does live up to expectations regarding noise, because there is very little to no sound from the fans even when being used to capacity.
 The laptop hardly ever heats up and usually cool to the touch even after streaming for hours on end.
 My main qualm with this laptop is it’s lack of CD drive and the trackpad sensing seems to be a bit off, especially when using the 3 and 4 finger gestures.
