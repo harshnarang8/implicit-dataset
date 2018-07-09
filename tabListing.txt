@@ -3,10 +3,11 @@ software>os
 		overall
 	functionality
 		user-friendliness
+        graphical-user-interface
 	features
 		bloatware
-		graphic-interface
-		touch-interface
+		graphic-interface(doubt)
+		touch-interface(doubt)
 		user-friendliness
 ear-phones
 	performance
@@ -27,6 +28,7 @@ charger
 screen
 	aesthetics
 		size
+        aspect-ratio
 		color
 		overall
 	features
@@ -36,8 +38,6 @@ screen
 		lamination
 		clarity
 		pen
-	aestheics
-		size
 	functionality
 		overall
 	performance
@@ -72,10 +72,9 @@ memory>internal
 	features
 		capacity
 tab
-	peformance
-		speed
 	aesthetics
-		ease-of-use
+		build-quality
+        ease-of-use
 		overall
 		design
 		weight
@@ -90,6 +89,7 @@ tab
 		cord-size
 		internet-access
 		key-board
+        external-memory
 	portability
 		overall
 	durability
@@ -111,6 +111,7 @@ tab
 	quality
 		overall
 		build
+
 software
 	performance
 		internet-access
