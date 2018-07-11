@@ -1,5 +1,153 @@
-Okay first of all, the phone i received was not fully functional. The volume up did not work what so ever, and the phone was NOT unlocked. Secondly, this phone arrived with clear signs of use. To me, it seem'd like this phone was used, then just factory reset and a average wipe down with a microfiber cloth. Very disappointing. The seller I received my phone from was DealFisher. Now, im not saying this was his fault because I honestly do not know, Im not trying to bash anyone here, I understand things happen, and items get switched up but I'm just saying if you're interested in getting a iphone, I strongly reccomend getting a brand new sealed. You can find them for as low as 400 now. You get what you pay for tho, and I understand amazon is a respectable company who will have no problem refunding me for the defective device. But, I read a lot of bad and good reviews, its kind of a 50/50 it seems when buying refurbished. That's just my 2 cents, and overall review of the device i received. Hope I helped. 
+1.Something Isn't Right…
+1
+I had a Kindle Fire HDX that I purchased 4 years ago, and I loved it.
 
-I thought the phone was great until I started receiving phone calls. At first I thought it was the person on the line who's phone was messed up. After a few phone calls it was obvious the phone isn't working properly and all calls sound like the person is miles away, hard to hear them unless you put them on speaker phone. This was one of my fears of buying a "certified refurbished" product and unfortunately I was right. 
+Unfortunately, it was stolen out of my shopping cart a couple weeks ago, so I ordered the new Fire Tablet.
 
-I upgraded to this Samsung S9 Model SM-G960U1 unlocked version from a Samsung S7. The phone works just fine and the transfer of all my stuff from the old phone to the new went pretty well. While the curved screen has a visual appeal I believe that a flat screen would be both more practical and easier to protect. In terms of it being a tool, I haven't discovered anything new that this phone can do that the S7 couldn't do. It comes with something called "Bixby" that I guess we're supposed to all just know what it is and what to do with it...guess I'm not interested in Bixby until I see some information that educates me on what it does and why I might need it... I do like Samsung phones and once you've grown accustomed to a company's android interface it makes sense to stay with what is familiar. If you have an S7 or S8 there is probably no reason to upgrade to the S9 version unless you have money burning a hole in your pocket. In my case, one of my son's needed a phone so he got my old S7 and I treated myself to a new phone. 
+I hate it.
+tab#quality#overall 0 2
+When I hold it sideways, the screen is short (up and down) and wide/long (side to side).
+screen#aesthetics#aspect-ratio 0 1
+The notifications bar is tiny and does not come down easily.
+software>os#functionality#user-friendliness 0 1
+I mostly just keep switching tabs trying to pull it down.
+software>os#functionality#user-friendliness 0 2
+It is sllllooowwww...as molasses!
+tab#performance#speed
+And it freezes up a lot.
+tab#reliability#overall 0 1
+Frustrating, to say the least!
+tab#reliability#overall 0 1
+Text on websites is tiny.
+software>os#functionality#user-friendliness 0 1
+I have good eyesight, and I'm constantly straining-trying to read.
+software>os#functionality#user-friendliness 0 2
+When I change the font size, it only changes the letters on the keyboard and the URL.
+software>os#functionality#user-friendliness 0 1
+They become huge while website text remains tiny.
+software>os#functionality#user-friendliness 0 1
+Using my fingers to expand everything is a pain.
+software>os#functionality#user-friendliness 0 1
+I would do just about anything else to have my HDX back.
+
+I'm trying to get used to this thing, but I don't know that I can or will.
+software>os#functionality#user-friendliness 0 1
+I think I will have to switch brands because I am just not liking this thing at all...
+tab#quality#overall 0 1
+And, I purchased 2 more of these as Christmas gifts for my niece and nephew.
+
+I feel bad now.
+
+
+2.
+I tried out this tablet this week and I was appalled at the terrible battery life, as well as how slow and unresponsive it was.
+battery#performance#life 0 0
+tab#performance#speed 0 1
+I wasn't expecting much for an inexpensive tablet, but with Amazon's hype about it, I was expecting something more.
+tab#quality#overall 0 1
+Super laggy on most operations, video is not sharp.
+tab#performance#speed 0 1
+tab#features#playback 0 1
+Left off the charger for two days and battery dropped from 100% to 22% just sitting.
+battery#performance#life 0 1
+That is unacceptable to me.
+battery#performance#life 0 2
+Needless to say, I don't plan on keeping this tablet for any regular use.
+tab#quality#overall 0 1
+UPDATE: Amazon replied to my review offering solutions like "Make sure you have enough internal storage left. The device may become slower if it is nearly full."
+
+This is a BRAND NEW tablet with NO APPS installed other than the factory ones.
+
+Tried ONE app and it ran so slow it was painful.
+software>apps#performance 0 1
+Again, charged to 100% and left alone (sleeping).
+
+Battery life just sitting on the table without anything running is atrocious.
+battery#performance#life 0 1
+
+
+3.Bye Bye Kindle Touch
+4
+I bought this tablet to replace my Kindle touch (4th gen) as I wanted a device that I could use on an upcoming trip for online checkins as well a reading device for long flights.
+
+The fact that I can watch movies on this was a welcome bonus as well.
+tab#features#playback 2 1
+I got it in the red punch and it's vibrant and pretty.
+tab#aesthetics#design 2 1
+The design feels sturdy and durable.
+tab#durability#build-quality 2 0
+The screen does pick up fingerprints easily but no more so than any other device without screen protection.
+screen#quality#fingerprint-magnet 1 0
+This is a very good tablet and well worth the price tag.
+tab#price#worthiness 2 0
+I got it for $30.
+
+And it has exceeded my expectations.
+tab#quality#overall 2 1
+It is quite responsive.
+tab#performance#overall 2 1
+I haven't seen any lag while I used it for Netflix,  browsing, and reading- it's actually comparable to my iPad!
+-
+It may freeze up with more memory heavy applications but I don't expect heavy computing either from a $30 tablet.
+tab#performance#heavy 0 0
+The speakers are good enough.
+speakers#quality#overall 2 1
+I used it to watch Netflix while working out and it was loud enough for me.
+speakers#performance#loudness 2 0
+In any event headphones or external speakers can always be added to amp up the audio output if necessary.
+
+I've had no issues with the silk browser.
+software>apps#performance#overall 2 1
+It is very much like Chrome.
+
+Though I downloaded Chrome as I'm used to it, I'd be just as happy using Silk.
+
+Overall the user interface is very easy to use.
+software>os#functionality#user-friendliness 2 1
+Setup was a breeze.
+tab#functionality#initial-setup
+It came pre-registered on my account.
+
+I even handed it over to my mother who is not very tech savvy and she was easily able to start it up and browse the web without me showing her a thing.
+software>os#functionality#user-friendliness 2 1
+The ads that come up on the lock screen are annoying but not unbearable and certainly not worth the $15 price tag to remove them either so I can live with that.
+software>os#features#bloatware 0 1
+When you switch the device on for the first time, you see ads where the screensaver should be but apart from that they disappear when you unlock the device.
+software>os#features#bloatware 0 1
+Do get a micro SD card to expand the storage space as it comes with only 5 gigs of internal storage space.
+memory>internal#features#capacity 0 1
+Be sure to format the card before using as only after having downloading a bunch of apps I realized that to be able to download Netflix content, the card had to be formatted in order for Netflix to recognize it.
+
+Battery life is my only major issue with this tablet.
+battery#performance#life 0 0
+With moderate use, I get a couple hours at most.
+battery#performance#life 0 2
+I expected it to be closer to the touch battery life which could easily give a week with heavy reading.
+battery#performance#life 0 0
+For a 10 hr plane ride, this is not going to cut it.
+battery#performance#life 0 2
+UPDATE: I think the battery needed conditioning.
+
+I've charged a few times now and I seem to be getting a full day of moderate use out of it.
+battery#performance#life 1 2
+
+
+4.Very good Fire Tablet for the money.
+5
+So far I'm very pleased with my Fire 7 Tablet.
+tab#quality#overall 2 1
+Having never owned a tablet before, I've nothing to compare it to, but I just mainly wanted one to read books with and listen to music.
+tab#performance#day-to-day 1 1
+Reading books is very easy with this tablet and so far I have liked all the selections offered.
+tab#performance#day-to-day 2 1
+The quality of music is not excellent, but very good and I really have no complaints.
+speakers#quality#overall 2 1
+The color quality is good and the pictures I have taken with it are very good.
+screen#aesthetics#color 2 0
+camera#quality#overall 2 1
+I do like the Alexa application as well.
+
+Overall, I would recommend this to anyone who has no need for the more expensive tablets if what you want to do with it is just read, listen to music, check email and perhaps go to Facebook.
+
+The battery life is really good which is a big plus.
+battery#performance#life 2 0

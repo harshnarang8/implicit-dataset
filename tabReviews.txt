@@ -38,6 +38,7 @@ And, I purchased 2 more of these as Christmas gifts for my niece and nephew.
 
 I feel bad now.
 
+
 2.
 I tried out this tablet this week and I was appalled at the terrible battery life, as well as how slow and unresponsive it was.
 battery#performance#life 0 0
@@ -134,12 +135,20 @@ battery#performance#life 1 2
 4.Very good Fire Tablet for the money.
 5
 So far I'm very pleased with my Fire 7 Tablet.
+tab#quality#overall 2 1
 Having never owned a tablet before, I've nothing to compare it to, but I just mainly wanted one to read books with and listen to music.
+tab#performance#day-to-day 1 1
 Reading books is very easy with this tablet and so far I have liked all the selections offered.
+tab#performance#day-to-day 2 1
 The quality of music is not excellent, but very good and I really have no complaints.
+speakers#quality#overall 2 1
 The color quality is good and the pictures I have taken with it are very good.
+screen#aesthetics#color 2 0
+camera#quality#overall 2 1
 I do like the Alexa application as well.
+
 Overall, I would recommend this to anyone who has no need for the more expensive tablets if what you want to do with it is just read, listen to music, check email and perhaps go to Facebook.
+
 The battery life is really good which is a big plus.
 battery#performance#life 2 0
 
@@ -288,17 +297,31 @@ tab#price#worthiness 2 1
 9.Great iPad for those on a budget, still is everything awesome you expect from iPad!
 5
 This is truly a fantastic iPad for the money.
+tab#price#worthiness 2 1
 I was skeptical when comparing to the iPad Pro model.
+
 There are certain differences but if you can get passed aesthetics, this is most likely the iPad for you.
+tab#aesthetics#overall 0 0
+
+tab#quality#overall 2 1
 Let's address what it doesn't do/have.
+
 It does not have the fully laminated display so there is a slight airgap between the glass the the display.
+screen#features#lamination 0 0
 This also means the display does not have the anti-glare coating.
+
 It has the A9 vs A9X chip.
+
 It has dual speakers on the bottom and not quad stereo speakers like on the Pro.
+speakers#features#number 0 1
 It also does not have the smart connector for utilizing Apple's new Smart Cover Keyboard, and is not compatible with Apple Pencil.
+
 Other than that, I don't think you can beat this value.
+tab#price#worthiness 2 1
 If you are upgrading from an iPad 3 like I am, this thing is lightening quick!
+tab#performance#speed 2 1
 Even though its slightly heavier than the iPad Pro or Air models, its still a light device, coming in at just under 1 pound.
+tab#aesthetics#weight 2 1
 It is no strain to hold it for any matter of time.
 The screen is bight and crisp.
 screen#features#brightness 2 0
@@ -422,8 +445,12 @@ tab#quality#overall 2 1
 14.Excellent performance for a budget price
 5
 Recently bought this product.
-I have been using it for a month and for it's price, I am really satisfied with my choice.The overall performance exceeds my previous IPad air.
+I have been using it for a month and for it's price, I am really satisfied with my choice.
+tab#price#worthiness 2 0
+The overall performance exceeds my previous IPad air.
+tab#performance#overall 2 0
 Navigation and applications run very smoothly.
+
 Screen quality is excellent.
 It's light weight also makes it very comfortable to use.
 Battery life is very good.
@@ -433,17 +460,28 @@ Camera (8Mp) is acceptable.
 15.Apple’s cheap tablet
 3
 Does everything you want in a tablet minus active stylus, some screen stuttering vs the pro but if you're not super picky it's not slow, definitely faster than the mini 4.
+tab#functionality#overall 2 1
+tab#
 The iPad air 1 case is showing it's age as the guts are surprisingly good but the case feels dated and cheap almost compared to the pro, was a close Battle between this and the Asus Zenpad 3 S 10 but iOS is better on tablets than Android and the A9 in this iPad is a good bit faster than the mediatek chip on the Zenpad, you do get 4gb of ram on the Zenpad though; other than the pro few tablets have 4gb of ram.
+
 
 
 16.Excellent tablet computer; easy set-up and operation
 5
 Once I got my iPad delivered, it didn't take long to set it up.
+tab#functionality#initial-setup 2 0
 Although there were no instructions for setup, Apple's built in, on-screen set up guide made it easy.
+tab#functionality#initial-setup 2 2
 As an experience Apple computer user, this iPad is easy to use.
+tab#functionality#user-friendliness 2 1
 The iPad is fast, and the Retina screen is vibrant.
+tab#performance#speed 2 1
+screen#aesthetics#color 2 1
 colorful and clear.
+screen#features#clarity 2 0
+
 If you order one, be sure to get a case right away to protect it.
+
 I ordered the Roartz Slim-Fit Smart Rubber Folio Case, and it works well and is attractive.
 
 
@@ -454,6 +492,7 @@ tab#quality#overall 2 1
 Haven’t had a problem with any functions since I got it.
 tab#reliability#overall 2 1
 My purpose for getting this iPad was to be able to use it for my GoPro camera & the connectivity is perfect!
+
 Also, the battery life is AMAZING; it can live forever.
 battery#performance#life 2 0
 The charger cord itself is way too short if you are needing to charge & still continue to use the iPad at the same time.
@@ -467,9 +506,17 @@ tab#quality#overall 2 1
 18.Excellent surface for gaming, music, and more!
 5
 Shipping was on-time and everything was in good, new condition as expected.
+
 This was my first tablet purchase - almost exclusively for Hearthstone - and I'm loving it.
+tab#quality#overall 2 1
 Great specs and quality on this iPad.
+
 I highly recommend this tablet for anyone looking for a pretty, portable, and powerful surface to perform any activity on.
+tab#aesthetics#design 2 1
+
+tab#portability#overall 2 0
+
+tab#performance#heavy 2 1
 
 19.Battery Life & Charging with Refurbished iPAD
 2
@@ -482,28 +529,47 @@ https://www.amazon.com/Apple-iPad-MC769LL-9-7-Inch-Black/dp/B006PLODWE/ref=sr_1_
 Really great deal for an excellent little tablet.
 tab#price#worthiness 2 1
 Very basic iPad with not a lot of room for too many apps but still a great buy.
-Fast response and load to all apps. Email, Facetime, YouTube....a whole lot of entertainment.
+tab#quality#overall 2 1
+Fast response and load to all apps.
+tab#performance#speed 2 1
+Email, Facetime, YouTube....a whole lot of entertainment.
+tab#performance#day-to-day 2 1
 I prefer the larger screen instead of the smaller screens you get from a phone.
+screen#aesthetics#size 2 1
 My fingers aren't that small and it's a lot easier to type when everything on the screen is bigger.
+screen#aesthetics#size 2 1
 Wonderful purchase.
-
+tab#price#worthiness 2 1
 
 21.Thumbs up after two weeks
 4
 So far so good.
+tab#quality#overall 2 1
 Product arrived in good condition with two small dents in two corners which do not affect performance.
-I purchased an otter box military grade case immediately for protection and easier handling as I don't mind the additional weight and I use otterbox on all my devices and demonstrate the high grade of protection by throwing them across a room with no damage.
-This is my first iPad and despite its age it is what I expected to receive.
-The screen is perfect and it works as anticipated, slightly slow as it is an older model but effective for my use.
-To my unexpected surprise it is also a Verizon wireless model which I happen to be a Verizon customer.
-Not that I will activate the feature as I am sure it's 3G and more than likely slow.
-Over all I am happy with this purchase at the moment.
-Battery life is acceptable if extra settings are off and the light level is adjusted.
-Charging time is a bit lengthy but overall good.
-Overnight for a full charge.
-The charger and cord weren't so great but I have half a dozen of the genuine ones from iPods and iPhones so no loss there if your an apple fan.
-For now I have to give a thumbs up after two weeks of daily use.
 
+I purchased an otter box military grade case immediately for protection and easier handling as I don't mind the additional weight and I use otterbox on all my devices and demonstrate the high grade of protection by throwing them across a room with no damage.
+
+This is my first iPad and despite its age it is what I expected to receive.
+tab#quality#overall 2 1
+The screen is perfect and it works as anticipated, slightly slow as it is an older model but effective for my use.
+screen#quality#overall 2 1
+tab#performance#speed 2 1
+To my unexpected surprise it is also a Verizon wireless model which I happen to be a Verizon customer.
+
+Not that I will activate the feature as I am sure it's 3G and more than likely slow.
+
+Over all I am happy with this purchase at the moment.
+tab#price#worthiness 2 1
+Battery life is acceptable if extra settings are off and the light level is adjusted.
+battery#performance#life 1 0
+Charging time is a bit lengthy but overall good.
+batter#performance#charging-time 1 1
+Overnight for a full charge.
+batter#performance#charging-time 1 1
+The charger and cord weren't so great but I have half a dozen of the genuine ones from iPods and iPhones so no loss there if your an apple fan.
+charger#features#cord 0 0
+For now I have to give a thumbs up after two weeks of daily use.
+tab#quality#overall 2 1
 
 22.Refurbished unit fit my needs and am very happy
 5
@@ -514,45 +580,89 @@ https://www.amazon.com/Apple-iPad-MC769LL-9-7-Inch-Black/product-reviews/B006PLO
 23.Like much better for movies
 4
 Great so far.
+tab#quality#overall 2 1
 Charges from close to 0% in about 35 minutes.
 Great picture quality for movies.
+screen#quality#overall 2 1
 I am enjoying this more than my former iPad mini, even though this is heavier and doesn't fit in my purse.
+tab#quality#overall 2 1
+tab#aesthetics#weight 0 1
+tab#aesthetics#size 0 1
 Great sound with headphones and almost loud enough to watch video with the built in speakers (but not quite).
+speakers#performance#loudness 0 1
 It has dropped me from our home internet connection a few times but that may be a problem with our wireless technology- not sure yet.
 
 
 24.Very few flaws, no problems with the product.
 5
 When I received my iPad I had some initial difficulty with charging - which ended up being my own fault.
+
 For those who are having an initial struggle with charging this product, I reccomend plugging directly into the wall and perhaps investing in a better charger cord than the one provided with the product.
+
 The iPad has a few chips on it, but none of them are terribly noticeable and don't impact the functionality of the product.
+
 It runs quickly, and doesn't seem to have any problems thus far (November 19, 2016).
+
 I will update my review if there are any problems with the processing or charging in the near future, but for now, this product gets five stars.
 
 
 25.Best Budget iPad!
 5
 Most people say that this is a budget iPad because it is much cheaper that the alternatives.
+tab#price#worthiness 1 1
 Being an Apple user myself, but this being my first iPad ever, I'm very satisfied with this purchase.
+tab#quality#overall 2 1
 The resolution is better than anything I've seen in the tablet market with cheaper android models.
+screen#features#resolution 2 1
 The processing speed is phenomenal, sound is loud and clear.
+tab#performance#speed 2 1
+
+speakers#performance#loudness 2 0
+
+speakers#performance#sound-clarity 2 0
 Sure, the screen is not laminated, but it's a small feature to "sacrifice" for a cheaper model iPad that literally does everything but adapt to the Apple Pen.
+screen#features#lamination 0 0
 If you're older, and just want something to read books on, younger and want to use it for movies, if you're a student (like me), it's a great product for your.
+tab#performance#day-to-day 2 1
 The Kindle and Nook apps run great on it, very nice to read on, very nice to surf the web on.
+tab#performance#day-to-day 2 1
 Overall, a really great product.
+tab#quality#overall 2 1
 It can be a little heavy at times but it's not a big deal.
+tab#aesthetics#weight 2 1
 Not to mention 9.7 inches is much bigger than I had anticipated.
+screen#aesthetics#size 2 1
 It's a nice touch.
+tab#quality#overall 2 1
 
 
 26.It's one Fantastic Tablet, without equal!
 5
 I've had my eye on this IPad since its introduction.
-IMO Apple has always led the pack for consumer products for graphics and audio, so its main use for me will be music composition. I used a much smaller IPad several years ago and the difference is just astonishing. With a 12.9" screen its just smaller than my laptop screen. As far as I'm concerned bigger is better, and this IPad Pro is clearly better! I shared some time with a fellow musician last night and there was no issue of either of us crowding out the other. I won't go into all the specs of the IPad Pro, you've certainly read them before... I paired this with the Logitech Create Keyboard, which does duty not only as a keyboard but also a stand and a hard shell case.
 
-Setup out of the box could not have been easier. I connected it to my wifi signal, gave it my AppleId login information, and let it perform a software upgrade. Using all of its capabilities will take me some time to learn (I'm a Windows guy) but Siri promises to be there whenever I need help.
+IMO Apple has always led the pack for consumer products for graphics and audio, so its main use for me will be music composition.
 
+I used a much smaller IPad several years ago and the difference is just astonishing.
+tab#aesthetics#size 2 1
+With a 12.9" screen its just smaller than my laptop screen.
+screen#aesthetics#size 2 1
+As far as I'm concerned bigger is better, and this IPad Pro is clearly better!
+tab#quality#overall 2 1
+tab#aesthetics#size 2 1
+I shared some time with a fellow musician last night and there was no issue of either of us crowding out the other.
+
+I won't go into all the specs of the IPad Pro, you've certainly read them before...
+
+I paired this with the Logitech Create Keyboard, which does duty not only as a keyboard but also a stand and a hard shell case.
+
+Setup out of the box could not have been easier.
+tab#functionality#initial-setup 2 0
+I connected it to my wifi signal, gave it my AppleId login information, and let it perform a software upgrade.
+tab#functionality#initial-setup 2 1
+Using all of its capabilities will take me some time to learn (I'm a Windows guy) but Siri promises to be there whenever I need help.
+software>os#functionality#user-friendliness 2 1
 If you've been waiting to see what other people are saying about the IPad Pro, let me say "It's one Fantastic Tablet, without equal!"
+tablet#quality#overall 2 1
 
 
 27.Another Great Apple Product
@@ -564,36 +674,65 @@ https://www.amazon.com/Apple-iPad-Pro-Wi-Fi-Gold/product-reviews/B0155OC26U/ref=
 28.Huge iPad!
 5
 I have never had an iPad, so I decided to go for an iPad pro.
+
 I thought, finally, something that is worth my money.
+
 I'm glad to have waited until now to buy an iPad; due to apple always releasing a new tablet every year, I was always skeptical on purchasing tablets, but this tablet is very nice.
+tab#price#worthiness 2 2
+tab#quality#overall 2 1
 It is built with good quality material, the screen is huge, didn't really need a MacBook for what I like to do.
+tab#aesthetics#build-quality 2 1
 I'm into to gaming, somewhat, so having a Mac for gaming is a bit redundant, given the fact that this doesn't need much to be able to game.
+tab#performance#heavy 2 1
 Just a download and that is it, and having the big screen is very nice for both gaming and also watching my favorite shows on.
+screen#aesthetics#size 2 1
 The speakers are way nice on the tablet.
+speakers#quality#overall 2 1
 I also love having a full size keyboard to type on.
+tab#features#keyboard 2 0
 One other thing that I like is having the ability of having 2 apps side by side, and also having picture in picture mode on some of the video apps I have on my iPad pro so far.
+software>apps#features#pic-pic-mode 2 1
 The battery lasts a long time, which is very nice for the "tasks" at hand.
+battery#performance#life 2 1
 All in all, this tablet was worth it for me.
+tab#quality#overall 2 1
 Also I should mention that I purchased the apple pencil along with this beast of a tablet, as well as the apple keyboard for this machine, and I have to say, they both work very well.
 
 
 29.Excellent except charger will not work.
 5
 Beautiful screen, excellent functionality, familiar and intuitive interface.
+screen#quality#overall 2 1
+tab#functionality#overall 2 0
+software>os#functionality#graphical-user-interface 2 0
 Love it.
+tab#quality#overall 2 1
 EXCEPT, the charger that comes with it will NOT charge at all.
+charger#functionality#overall 0 1
 It is the type where the prongs fold into the charger when not in use and the prongs will not make contact unless you lean something against the charger to keep it pressed sideways.
+charger#functionality#overall 0 1
 I turn my device on and watch the charging icon and the minute I take my hand off the charger it stops charging.
+charger#functionality#overall 0 1
 Needless to say, the best mobile device in the world is worthless if you can't charge it.
+charger#functionality#overall 0 1
 We bought two of these iPad's and both chargers have the same problem.
+charger#functionality#overall 0 1
+
 
 30.Four speakers are the bomb~ Can't wait to try the pen later...
 5
 Love it.
+tab#quality#overall 2 1
 Having four speakers that sound like they are made by Dr. Dre makes every music sound like studio quality...
+speakers#performance#sound-quality 2 1
 Oh, and the screen is big.
+screen#aesthetics#size 2 1
 But, heavy...
+tab#aesthetics#weight 2 1
 Why can't they make it to be under 1 lb and use free microwaves that are already in the air everywhere, thanks to cell phones and global surveillance device network, to power it?!
+
 It is not like it is extracting data out of it.
+
 It just needs to absorb the energy for electrons.
+
 I am telling you, these devices will make human beef jerkies out of us.

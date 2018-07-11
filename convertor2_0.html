@@ -1,26 +1,212 @@
 <html>
 <head>
-<script type="text/javascript">
-  function readSingleFile(evt) {
-    var f = evt.target.files[0];   
-    if (f) {
-      var r = new FileReader();
-      r.onload = function(e) { 
-          var contents = e.target.result;             
-          var ct = r.result;
-          var words = ct.split(' ');            
-          alert(words[0]);
-      }
-      r.readAsText(f);
-    } else { 
-      alert("Failed to load file");
-    }
-  }
-
-  document.getElementById('fileinput').addEventListener('change', readSingleFile, false);
-</script>
+    <title>multiple reviews annotator</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <input type="file" id="fileinput" />
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4"><br /><br /></div>
+            <div class="col-sm-4">
+                <br />
+                <input type="file" id="fileinput" class="form-control center-block"/>
+                <br />
+            </div>
+            <div class="col-sm-4"><br /><br /></div>
+        </div>
+        <div class="row">
+            <div class="col-sm-2 h-100">
+                <br /><br /><br /><br /><br />
+                <button type="button" class="btn center-block vertical-center" onclick="moveToPrev()"> < </button>
+            </div>
+            <div class="col-sm-8 mx-auto">
+                <textarea id="t1" class="form-control" width="100%" rows="10"></textarea>
+            </div>
+            <div class="col-sm-2 mx-auto">
+                <br /><br /><br /><br /><br />
+                <button type="button" class="btn center-block" onclick="moveToNext()"> > </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-3"></div>
+            <div class="col-sm-1"></div>
+            <div class="col-sm-2">
+                <br />
+                <div class="well well-sm">Review id: <span id="rid"></span></div>
+            </div>
+            <div class="col-sm-1">
+                <br />
+                <button type="button" class="btn btn-primary" onclick="convert()"> Convert </button>
+                
+                <br />
+            </div>
+            <div class="col-sm-5">
+                <br />
+                <button type="button" class="btn btn-primary" onclick="convertAll()"> Convert All </button>
+                <br />
+            </div>
+        </div>
+        <div class="row">
+                <div class="col-sm-2 h-100">
+                </div>
+                <div class="col-sm-8 mx-auto">
+                    <textarea id="t2" class="form-control" width="100%" rows="10"></textarea>
+                </div>
+                <div class="col-sm-2 mx-auto">
+                </div>
+            </div>
+    </div>
+    
+    <script type="text/javascript">
+        var i = 0;
+        var reviews;
+        var maxLength;
+        function readSingleFile(evt) {
+            i = 0;
+            var f = evt.target.files[0];   
+            if (f) {
+                var r = new FileReader();
+                r.onload = function(e) { 
+                    var contents = e.target.result;             
+                    var ct = r.result;
+                    reviews = ct.split("\n\n\n");
+                    maxLength = reviews.length;            
+                    // alert(reviews[0]);
+                    document.getElementById('t1').value = reviews[i];
+                    document.getElementById('rid').innerHTML = i;
+                    console.log(i);
+                }
+                r.readAsText(f);
+            }
+            else { 
+                alert("Failed to load file");
+            }
+        }
+        
+        function moveToNext() {
+            console.log("next!");
+            reviews[i] = document.getElementById('t1').value;
+            i++;
+            if (i < maxLength) {
+                document.getElementById('t1').value = reviews[i];
+                document.getElementById('rid').innerHTML = i;
+                console.log(i);
+            }
+            else {
+                i--;
+            }
+        }
+
+        function moveToPrev() {
+            console.log("previous!");
+            reviews[i] = document.getElementById('t1').value;
+            i--;
+            if (i >= 0) {
+                document.getElementById('t1').value = reviews[i];
+                document.getElementById('rid').innerHTML = i;
+                console.log(i);
+            }
+            else {
+                i++;
+            }
+        }
+
+        function convertReview(text, k) {
+            console.log(k);
+            var values = text.split("\n");
+            var output = "";
+            var opSplit;
+            output += '\t<Review rid="'+ k.toString() +'">\n\t\t<sentences>\n';
+            for (var j = 0; j < values.length; ++j) {
+                output += "\t\t\t<sentence>\n\t\t\t\t<text>\n\t\t\t\t\t";
+                output += values[j];
+                output += "\n\t\t\t\t</text>";
+                try {
+                    opSplit = values[j+1].split(" ");
+                }
+                catch(err) {
+                    document.getElementById("t2").style.borderColor = "red";
+                    // document.getElementById("h").style.borderColor = "red";
+                    return;
+                }
+                if (opSplit == "") {
+                    output += '\n\t\t\t\t<Opinions>\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n';
+                    j++;
+                }
+                else {
+                    output += "\n\t\t\t\t<Opinions>";
+                    do {
+                        j++;
+                        try {
+                            opSplit = values[j].split(" ");
+                        }
+                        catch(err) {
+                            document.getElementById("t2").style.borderColor = "red";
+                            // document.getElementById("h").style.borderColor = "red";
+                            return;
+                        }
+                        t1 = opSplit[0];
+                        t2 = opSplit[1];
+                        t3 = opSplit[2];
+                        if (t2 == "0") {
+                            t2 = "negative";
+                        }
+                        else if (t2 == "1") {
+                            t2 = "neutral";
+                        }
+                        else if (t2 == "2") {
+                            t2 = "positive";
+                        }
+                        if (t3 == "0") {
+                            t3 = "false";
+                        }
+                        else if (t3 == "1") {
+                            t3 = "true";
+                        }
+                        else if (t3 == "2") {
+                            t3 = "coreference";
+                        }
+                        output += '\n\t\t\t\t\t<Opinion category="' + t1 + '" polarity="' + t2 + '" implicit="' + t3 + '" />';
+                        if (values[j+1] == "") {
+                            j++;
+                        }
+                    } while (values[j] == "")
+                    output+= "\n\t\t\t\t</Opinions>\n\t\t\t</sentence>\n";
+                }
+            }
+            output += "\t\t</sentences>\n\t</Review>\n";
+            return output;
+        }
+
+        function convert() {
+            console.log(i);
+            reviews[i] = document.getElementById('t1').value;
+            var x1, x2, text, output;
+            x1 = document.getElementById("t1");
+            x2 = document.getElementById("t2");
+            but = document.getElementById("myb");
+            text = x1.value;
+            output = convertReview(text, i);
+            x2.value = output;
+            document.getElementById("t2").style.borderColor = "green";
+        }
+
+        function convertAll() {
+            var x1, x2, outputString;
+            reviews[i] = document.getElementById('t1').value;
+            outputString = "<Reviews>\n";
+            for(var j = 0; j < reviews.length; j++) {
+                outputString += convertReview(reviews[j], j);
+            }
+            outputString += "</Reviews>";
+            document.getElementById("t2").value = outputString;
+            document.getElementById("t2").style.borderColor = "green";
+        }
+        document.getElementById('fileinput').addEventListener('change', readSingleFile, false);
+      </script>
 </body>
 </html>

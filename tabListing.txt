@@ -57,6 +57,7 @@ speakers
 	quality
 		overall
 	features
+		number
 		type
 software>apps
 	performance
