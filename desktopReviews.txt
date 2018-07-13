@@ -37,11 +37,28 @@ It's nice that it's compact so it doesn't take up so much of my desk.
 desktop#aesthetics#size 2 1
 The screen is a nice size.
 screen#aesthetics#size 2 1
-The performance however leaves something to be desired. I use this computer approximately 8 hours a day 5 days a week and I have noticed that it definitely has slowed down a lot since I first started using it. I don't save a lot directly to the computer because I use an external hard drive so I'm not sure exactly why it's starting to lag. Start up has gotten especially slow. When I first started using it it would start up very quickly. Now it take several minutes. The most annoying thing about this computer is that at least twice a day, every day it will just freeze out of nowhere and I have to restart it. This is not only annoying and wastes my time but have lost work as a result. I have gotten in the habit of constantly saving whatever I"m working on but I always end up losing something due to it just freezing out of nowhere. I definitely would not purchase this again if I had a choice.
+The performance however leaves something to be desired.
+I use this computer approximately 8 hours a day 5 days a week and I have noticed that it definitely has slowed down a lot since I first started using it.
+I don't save a lot directly to the computer because I use an external hard drive so I'm not sure exactly why it's starting to lag.
+Start up has gotten especially slow.
+When I first started using it it would start up very quickly.
+Now it take several minutes.
+The most annoying thing about this computer is that at least twice a day, every day it will just freeze out of nowhere and I have to restart it.
+This is not only annoying and wastes my time but have lost work as a result.
+I have gotten in the habit of constantly saving whatever I"m working on but I always end up losing something due to it just freezing out of nowhere.
+I definitely would not purchase this again if I had a choice.
 
 
 4
-Love this new All in One Dell computer. Beautiful large screen, great sound quality and super fast i3 chip. Should have upgraded sooner. Minor business applications I use are fast, with no interference with the other applications running at the same time. A totally fast, quiet, efficient, quality computing experience. And I don't miss the "messy mass" of wires. Would definitely recommend to others looking for a great computer.
+Love this new All in One Dell computer.
+desktop#quality#overall 2 1
+desktop#aesthetics#form-factor 2 1
+Beautiful large screen, great sound quality and super fast i3 chip.
+Should have upgraded sooner.
+Minor business applications I use are fast, with no interference with the other applications running at the same time.
+A totally fast, quiet, efficient, quality computing experience.
+And I don't miss the "messy mass" of wires.
+Would definitely recommend to others looking for a great computer.
 
 
 5
@@ -130,15 +147,29 @@ screen#quality#overall 2 1
 speakers#performance#sound-quality 2 1
 The keyboard and mouse provided are not wireless, but they do the job well.
 keyboard#quality#overall 2 1
+mouse#quality#overall 2 1
 Still looks clean after a couple of months of use.
+desktop#reliability#overall 2 1
 
-https://www.amazon.com/Dell-i3265-A643WHT-PUS-Inspiron-Desktop-Display/product-reviews/B071DVKVKZ/ref=cm_cr_othr_d_paging_btm_11?ie=UTF8&reviewerType=all_reviews&pageNumber=11
-
-10.Satisfactory but Slow
-3
+10
 I have to start this review with the disclaimer that, while I use a computer every day (who doesn't, right?) and have been for at least the last 15 years or so, I don't know much about how they run or what makes one better than another.
+
 I am a Vine Voice reviewer and I chose to accept and review this Dell desktop computer, because the desktop machine my family had been using before was running on a wildly outdated operating system.
-Overall, we're content with this machine, although frustrated with how slow it runs. Per my disclaimer, I don't know what it is about the machine that makes it run more slowly than, say, my work computer, but it just does. Perhaps the relatively inexpensive list price is a clue to that. As far as size and look, it's fine. The monitor is big enough for clear viewing, yet not so large as to be a space eater. It seems to come with the normal set of functions and apps. Getting it up and running was seamless, which is a big plus for my technologically clueless self. I just can't give it any more than three starts, because of how slow it moves.
+
+Overall, we're content with this machine, although frustrated with how slow it runs.
+Per my disclaimer, I don't know what it is about the machine that makes it run more slowly than, say, my work computer, but it just does.
+Perhaps the relatively inexpensive list price is a clue to that.
+As far as size and look, it's fine.
+desktop#aesthetics#size 2 0
+desktop#aesthetics#design 2 1
+The monitor is big enough for clear viewing, yet not so large as to be a space eater.
+screen#aesthetics#size 2 1
+It seems to come with the normal set of functions and apps.
+
+Getting it up and running was seamless, which is a big plus for my technologically clueless self.
+software>os#functionality#initial-setup 2 1
+I just can't give it any more than three starts, because of how slow it moves.
+desktop#performance#speed 0 1
 
 
 11
@@ -151,7 +182,8 @@ Overall the computer was responsible and not too sluggish.
 There's both wireless and a wired connection, so you're able to place this wherever suits you - and was easy to get set up.
 The display is pretty good - it's not totally amazing but after a few hours of watching movies and web browsing, I didn't feel any eye strain.
 As for the ports: We've got two USB 2.0 ports and two USB 3.0 ports that are side mounted.
-It seems a bit odd to not have a USB 3.0 port on the rear - because presumably it'd be more elegant if you had an external drive that you'd keep permanently attached and not have to deal with slower speeds of USB 2.0. There is a HDMI out, a DVD drive (download VLC to watch movies to avoid paying for the DVD playback codec) and a 4 in 1 card reader, so you can connect SD cards from your digital camera.
+It seems a bit odd to not have a USB 3.0 port on the rear - because presumably it'd be more elegant if you had an external drive that you'd keep permanently attached and not have to deal with slower speeds of USB 2.0.
+There is a HDMI out, a DVD drive (download VLC to watch movies to avoid paying for the DVD playback codec) and a 4 in 1 card reader, so you can connect SD cards from your digital camera.
 As for the processor: it's basic and light use. Benchmarks put this as slower as an Intel Core i3 5005U but not by much.
 I think the bottleneck is the slower hard drive.
 The 6gb of RAM seems sufficient as long as you're not pushing intensive applications.
@@ -159,25 +191,42 @@ For those brave souls, it is possible to replace the internal hard drive with a 
 The computer is only upgradeable to 8gb of RAM.
 I hate to say this - but this is a desktop that's made for people over 60 or those with extreme basic needs in a desktop computer.
 The price is right (~$500) and my mom loves it for basic things.
+desktop#price#worthiness 2 1
 It's a decent enough desktop, but it's important to set the expectations that it won't be a lightning-fast desktop.
+desktop#quality#overall 2 1
+desktop#performance#speed 1 1
 3.5 stars
 
 
 12
 I love my new computer.
+desktop#quality#overall 2 1
 There is no "twer", it is just the monitor, big and white, and the keyboard.
-It works very well and I will install Office in it.desktop#functionality#overall 1                                                                                                                                            
-So far I can go on the internet and email, etc so it has been great.
-It really looks beautiful and although ti was slow to get it going-- many updates--it is now working great!
-I don't much about the tech parts but my husband is impressed, and says the price is good as well.
-My husband adds: In this era of changing internet consumption habits, there is a trend away from the immense desktops of past toward a slimmer, sleeker design with a minimal footprint and "noiseprint".
-The Inspiron 3265 AIO desktop features a 21.5" display that houses 6GB of dual channel memory, 1TB 5400 rpm hard drive, and DVD player, with USB ports readily accessible from the back and side.
-It is powered by an AMD A6-7310 APU and thus is not a speed demon, but it works for surfing, email, word processing, photo viewing, etc.
-Setup was easy and simple, except for needing to wait for 4GB of updates to Windows 10 to download and install and reboot multiple times.
-As a computing appliance, it is helpful, stylish, and quiet, but it is not suited to serious computing tasks.
-Good value.
 
-https://www.amazon.com/Dell-i3265-A643WHT-PUS-Inspiron-Desktop-Display/product-reviews/B071DVKVKZ/ref=cm_cr_othr_d_paging_btm_13?ie=UTF8&reviewerType=all_reviews&pageNumber=13
+It works very well and I will install Office in it.
+desktop#functionality#overall 2 1
+So far I can go on the internet and email, etc so it has been great.
+desktop#performance#day-to-day 2 1
+It really looks beautiful and although ti was slow to get it going-- many updates--it is now working great!
+desktop#aesthetics#design 2 1
+desktop#performance#day-to-day 2 1
+I don't much about the tech parts but my husband is impressed, and says the price is good as well.
+hardware#quality#overall 2 1
+desktop#price#worthiness 2 1
+My husband adds: In this era of changing internet consumption habits, there is a trend away from the immense desktops of past toward a slimmer, sleeker design with a minimal footprint and "noiseprint".
+
+The Inspiron 3265 AIO desktop features a 21.5" display that houses 6GB of dual channel memory, 1TB 5400 rpm hard drive, and DVD player, with USB ports readily accessible from the back and side.
+
+It is powered by an AMD A6-7310 APU and thus is not a speed demon, but it works for surfing, email, word processing, photo viewing, etc.
+desktop#performance#speed 1 1
+desktop#performance#day-to-day 2 1
+Setup was easy and simple, except for needing to wait for 4GB of updates to Windows 10 to download and install and reboot multiple times.
+software>os#functionality#initial-setup 2 0
+As a computing appliance, it is helpful, stylish, and quiet, but it is not suited to serious computing tasks.
+desktop#performance#heavy 0 1
+Good value.
+desktop#price#worthiness 2 1
+
 
 13.Lite Gamer, great machine, nice performance!
 4
@@ -301,15 +350,23 @@ As Windows will initially download many updates, it's probably more reasonable t
 16
 Have really enjoyed using this computer.
 The initial RAM of 6 GB didn't seem very good, and I'm planning to increase it to the maximum 16 gb of memory that Crucial says it can handle (through their website).
-raam#fatures#OVERALAA()
+ram#features#capacity 0 1
 Maxing out the RAM will cost $120 through Crucial, it can be cheaper here on Amazon if you buy this stuff: The included RAM will get the job done for most people, I've been using it for weeks, but at times there is a bit of lag.
+desktop#performance#overall 1 1
 You know how it is with these computers, over time you install more and more stuff, there are OS upgrades, and if you wait a year or two then the RAM is incredibly expensive because its nearly obsolescence.
+
 I really love the form factor, since its all in one (AIO) it takes up very little space around your desk, just a screen on the top.
+desktop#aesthetics#form-factor 2 0
 There are less wiring problems as well.
+desktop#aesthetics#form-factor 2 1
 I would recommend you buy a wireless keyboard and mouse for the best enjoyment, the mouse and keyboard included are very lightweight junk.
+mouse#quality#overall 0 1
 I recommend this Dell model: Dell Marketing USA, LP KM717 Premier Wireless Keyboard and Mouse
+
 OK I know what you're saying, "Geez, the computer is $500 and you just recommended I spend another $200 to make it more fun, easy, and pleasant to use" and thats right.
+desktop#price#worthiness 0 1
 Thats exactly what I'm saying.
+
 It comes with a trial copy of MS office and a host of other preinstalled software.
 
 
@@ -320,8 +377,12 @@ desktop#functionality#initial-setup 2 1
 Not having a chassis to contend with was nice, makes for a really sleek appearance in my home office.
 desktop#aesthetics#design 2 1
 I was really glad to see that they included a DVD drive.
+desktop#features#dvd-player 2 0
 So far it has been fine for everything that I need it to do--watch DVDs, do basic office functions, watch videos online, edit photos, etc.
+desktop#performance#day-to-day 2 1
 It would not be adequate for a serious gamer, but at this price point, including a monitor, keyboard (adequate) and mouse (really cheap, will be replacing that) it is a great computer.
+desktop#performance#heavy 0 1
+desktop#price#worthiness 2 1
 
 https://www.amazon.com/Dell-i3265-A643WHT-PUS-Inspiron-Desktop-Display/product-reviews/B071DVKVKZ/ref=cm_cr_othr_d_paging_btm_14?ie=UTF8&reviewerType=all_reviews&pageNumber=14
 
@@ -331,13 +392,21 @@ This was super easy to put together and set up on the desk.
 Very lightweight.
 desktop#aesthetics#weight 2 1
 I'm not usually a fan of a mouse, I like finger touch and find a mouse is cumbersome and often needs replaced.
+
 However, this mouse takes a light touch, so I won't need to move it all over a mouse pad and fight with it.
+mouse#quality#overall 2 1
 Good, clear screen on this unit with a great webcam.
+
 Good speaker sound for the size of them.
+
 Not sure about warranty details, check with company on that.
+
 The screen is easy to swivel up and down a bit for comfort in viewing or fitting in a small space.
+screen#features
 The keyboard is slim, but keys are plenty big for easy typing.
+
 Very good unit and so much easier to fit on a desk than the huge older models.
+desktop#aesthetics#size 2 1
 
 
 19
@@ -381,18 +450,29 @@ desktop#aesthetics#design 2 1
 I love the big screen.
 screen#aesthetics#size 2 1
 I love that it is an all in one.
+desktop#aesthetics#form-factor 2 1
 No tower to get in my way.
+desktop#aesthetics#form-factor 2 1
 I love that i can take it anywhere.
+desktop#portability#overall 2 1
 It is about 18 lbs, so you might not want to take it into a place with limited space.
+desktop#aesthetics#weight 1 1
 I take it on vacations.
-I love the one terrabite hard drive.
-I have at least 100 movies and 400 full length games stored on the hard drive so I can watch a movie or play games when I travel and stay at hotels along the way.
-Movies and games are a whole lot better on a big screen.
-It is a very sturdy computer.
-You can tilt it up or down with a back stand.
-It is a work horse.
-It starts up in 12 seconds but, may not be as fast as some other computers, but as far as opening multible work tasks, nothing can beat it!
 
+I love the one terrabite hard drive.
+memory>hdd#features#capactiy 2 1
+I have at least 100 movies and 400 full length games stored on the hard drive so I can watch a movie or play games when I travel and stay at hotels along the way.
+memory>hdd#features#capactiy 2 1
+Movies and games are a whole lot better on a big screen.
+screen#aesthetics#size 2 1
+It is a very sturdy computer.
+desktop#durability#build-quality 2 1
+You can tilt it up or down with a back stand.
+screen#
+It is a work horse.
+desktop#performance#heavy 2 1
+It starts up in 12 seconds but, may not be as fast as some other computers, but as far as opening multible work tasks, nothing can beat it!
+desktop#performance#heavy 2 1
 
 23.Love this PC
 5
