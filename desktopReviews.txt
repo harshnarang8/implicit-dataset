@@ -110,14 +110,24 @@ For a family computer, or "My kid is off to college" computer, I really don't th
 Product worked fine and then over night became totally slow and almost impossible to use.
 desktop#performance#speed 0 1
 Had to do a full format, worked ok for a short time and then suddenly completely useless again.
+software>os#reliability#overall 0 1
 Seems to be a lemon, very little software is being installed, there is no bloatware on the system.
+software>os#reliability#overall 0 1
+software>os#features#bloatware 0 1
 Disk usage states 100% but nothing is running.
+software>os#reliability#overall 0 1
 Pathetically short return period and warranty is very unclear.
+
 Definitely would not buy again.
+desktop#quality#overall 0 1
+
 
 9
 Bought this computer for the family and it works well for everday basic usage (documents, internet, multimedia).
+desktop#performance#day-to-day 2 1
 The graphics and sound quality is great for movies, videos, and music (way better quality than our flatscreen TV).
+screen#quality#overall 2 1
+speakers#performance#sound-quality 2 1
 The keyboard and mouse provided are not wireless, but they do the job well.
 keyboard#quality#overall 2 1
 Still looks clean after a couple of months of use.
@@ -172,56 +182,119 @@ https://www.amazon.com/Dell-i3265-A643WHT-PUS-Inspiron-Desktop-Display/product-r
 13.Lite Gamer, great machine, nice performance!
 4
 This is a first desktop computer for our 11 year old son.
+
 He will be attending junior high school this Fall 2017 and will need his own computer for the various reports that he will be assigned.
+
 For his current needs and gaming through Steam, it is more than adequate without any lagging or issues.
+desktop#performance#day-to-day 2 1
+desktop#performance#heavy 2 1
 The computer comes loaded with Windows 10, a 1tb drive, 6gb (4.94 useable) of ram and an AMD A6-7310 APU with AMD Radeon RF graphics card (2.00 ghz).
+software>os#quality#overall 1 1
+memory>hdd#features#capacity 1 1
+ram#features#capacity 1 1
+graphics-card#features#clock-speed 2 1
 When you first start the Dell up as with any brand new pc/laptop it takes a VERY long time to the point where we left it to run over night.
+software>os#functionality#initial-setup 0 1
 There is 14 months of McAfee virus protection included once you sign up; the McAfee has not slowed down the computer as these Virus Protections companies usually do.
+software>apps#features#anti-virus 2 1
 Since school is out he has been hitting the Steam site hard and downloading games right and left.
+
 The reason that the system is not lagging or struggling is because he is not playing games that eat up the processor/memory.
-While this processor may not be the best, it is also not the worst when I went to build a similar Inspiron system on Dell's website. I do wish that the processor was a bit higher and the screen had been upgraded to a Touch because that is the only way to fully utilize all of Windows 10 features.
+desktop#performance#day-to-day 2 1
+While this processor may not be the best, it is also not the worst when I went to build a similar Inspiron system on Dell's website.
+processor#features#model 1 1
+I do wish that the processor was a bit higher and the screen had been upgraded to a Touch because that is the only way to fully utilize all of Windows 10 features.
+processor#features#model 0 1
+(doubt-touchscreen_presence) - -
 On the Dell website this processor and hard drive are attached to the Touch screen; you will not receive a touchscreen if ordered through Amazon's site.
+
 The keyboard and mouse are completely basic and will most likely be upgraded to a wireless keyboard and mouse.
+
 I do prefer a solid state drive but for this low cost a regular hard drive with DVD rom is acceptable.
+memory>hdd#quality#overall 1 1
 The desktop is upgradeable if you have extra memory laying around or find a great deal.
+hardware#features#upgradation 2 0
 The screen resolution is bright/vibrant but not viewable for every direction because of it's wide border.
+screen#features#resolution 2 0
+screen#features#brightness 2 0
+screen#features#viewing-angle 0 0
 Highly recommend this all in one desktop as an upgrade for an older desktop that had a tower.
+desktop#aesthetics#form-factor 2 1
 While it may not be a gaming machine, it is a more than acceptable home pc for basic computing, lite gaming, social media and streaming.
+desktop#performance#day-to-day 2 1
 Great price and even better cost on PRIME DAY.
+desktop#price#worthiness 2 1
 I would purchase regardless and would upgrade if I needed a bit more power.
+desktop#quality#overall 2 1
 
 
 14
 The Dell i3265 Inspiron was super easy to set up.
+desktop#functionality#initial-setup 2 0
 Simply attach the screen to the stand, attach the keyboard and mouse and plug it in.
+desktop#functionality#initial-setup 2 0
 The sleek white screen and keyboard make this PC look very Mac-ish.
+desktop#aesthetics#design 2 1
 This is the first all-in-one PC I've owned so I was a little surprised when I opened the box and didn't see a tower.
+desktop#aesthetics#form-factor 2 1
 No problem because finding a spot for the tower has always been a little challenge.
-Everything is contained in the screen.
-The 22" screen is a great size and the color and clarity are good, not fabulous, but good enough for the price.
-This PC is fast enough for reading emails and surfing the www.
-I'm not a gamer so I can't speak to that..
-I'm not too wild about the keyboard as the spacing is slightly different and it has a cheap, light-weight feel.
-The mouse is also light and feels cheap.
-The PC comes with Windows 10 and I wish I was a bigger fan.
 
+Everything is contained in the screen.
+desktop#aesthetics#form-factor 1 1
+The 22" screen is a great size and the color and clarity are good, not fabulous, but good enough for the price.
+screen#aesthetics#size 2 0
+screen#aesthetics#color 2 0
+screen#features#clarity 2 0
+This PC is fast enough for reading emails and surfing the www.
+desktop#performance#day-to-day 2 1
+I'm not a gamer so I can't speak to that..
+desktop#performance#heavy 1 1
+I'm not too wild about the keyboard as the spacing is slightly different and it has a cheap, light-weight feel.
+keyboard#aesthetics#design 0 1
+keyboard#aesthetics#build-quality 0 1
+The mouse is also light and feels cheap.
+mouse#aesthetics#weight 0 1
+mouse#aesthetics#design 0 1
+The PC comes with Windows 10 and I wish I was a bigger fan.
+software>os#functionality#overall 0 1
 
 15
 This model features an attractive bright screen which can be adjusted in terms of viewing angle.
+screen#features#brightness 2 0
+screen#features#viewing-angle 2 0
 Its 6 GB of RAM is really the minimum for the latest versions of Windows 10.
 ram#features#capacity 1 1
 Actual accessible RAM is slightly less than 5 gigabytes, so if there is a model with more RAM, I would give that serious consideration.
+ram#features#capacity 0 1
 The AMD processor is not especially snappy in terms of response, but certainly sufficient for general home use.
+processor#performance#speed 0 0
+processor#performance#overall 2 1
 You don't want to try and do too many things concurrently, however, especially if you are expecting smooth streaming of online media.
+desktop#performance#heavy 0 1
 Speakers are loud enough but not what I would consider "High Fidelity".
+speakers#performance#loudness 2 0
+speakers#performance#sound-quality 2 1
 In particular there seems to be a lack of bass response.
+speakers#functionality#bass 0 0
 I am glad to see that this model still includes a CD and DVD reader/burner.
+desktop#features#dvd-player 2 0
 Keyboard is comfortable and includes full numerical keypad.
+keyboard#aesthetics#typing-experience 2 1
+keyboard#aesthetics#layout 1 1
 A standard full-size wired mouse is in the box.
+
 Ports include USB(4), HDMI, and ethernet (standard size), SD card, as well as 3.5 mm headset jack (incl. microphone input).
+port#features#usb 2 0
+port#features#hdmi 2 0
+port#features#ethernet 2 0
+port#features#card-reader 2 0
+port#features#headphone-jack 2 0
 Warning: after updating windows when the machine is restarted, you may see a "Getting Windows Ready" screen for a **really** long time.
+
 I began to suspect that something was wrong.
+
 However, it eventually finished, starting up normally.
+
 As Windows will initially download many updates, it's probably more reasonable to gauge the speed and responsiveness of the computer once the updates are finished installing.
 
 
@@ -277,10 +350,17 @@ Other than that, I am completely satisfied with my purchase.
 
 20
 It's fast, powerful and the 1 TB hard drive is super!
+desktop#performance#speed 2 1
+desktop#performance#heavy 2 1
+memory>hdd#features#capacity 2 1
 The wide screen provides a clear perfect picture with beautiful colors.
+screen#aesthetics#size 2 1
+screen#features#clarity 2 1
+screen#aesthetics#color 2 0
 All my apps run nicely on this computer and there is virtually no lag time when upload, downloading and/or surfing the web.
+software>apps#features#internet-access 2 1
 The price should include a bigger, nicer keyboard and mouse combo--wireless!
-
+desktop#price#worthiness 0 0
 
 21
 LOVE IT!
@@ -319,18 +399,26 @@ It starts up in 12 seconds but, may not be as fast as some other computers, but 
 I have been very pleased with this desktop since I got it a few months ago.
 desktop#quality#overall 2 1
 No issues whatsoever, and it was up and running in literally no time from when I received the box from the delivery guy to when I was able to start the PC up and set up my apps.
-The sound quality is fantastic. I highly recommend this machine!
-
+software>os#functionality#initial-setup 2 1
+The sound quality is fantastic.
+speakers#performance#sound-quality 2 0
+I highly recommend this machine!
+desktop#quality#overall 2 1
 
 24
 Excellent product!
 
 has a strong body and good finishes, apart bought a module for exandir RAM memory to 16 g and installation was quick and easy for me even though I do not own many skills, though, should be very sensitive to uncover the computer to install the Ram.
+desktop#durability#build-quality 2 1
+desktop#aesthetics#build-quality 2 1
+ram#features#upgradation 2 1
 I am in the process of updating all programs and load information to pc, now everything works great, the sound is not to set up a nightclub in the office per is decent enough for personal use, especially for the quality of sound.
+software>os#functionality#overall 2 1
+speakers#performance#sound-quality 2 0
 As an object, looks pretty good on my desk desktop.
-desktop#aesthetics#design 2 1                              S     
+desktop#aesthetics#design 2 1  
 I hope that as a working tool also falls short, that time will tell …
-
+desktop#reliability#overall 1 1
 
 25
 Very amazing All In One PC :)
@@ -355,22 +443,24 @@ desktop#functionality#overall 2 1
 The large screen allows two pages to be shown side by side which is nice.
 screen#aesthetics#size 2 1
 The integrated beats audio allows me to get rid of all my peripheral speakers.
+speakers#performance#overall 2 1
 It is a marvelous 'computer' audio system, but not to be mistaken for a high end stereo system.
+speakers#quality#overall 2 1
 Fine for my needs on the computer.
+speakers#quality#overall 2 2
 Overall a good system.
 desktop#quality#overall 2 1
 4.5 stars - which I can't give on Amazon's ratings system.
+desktop#quality#overall 2 1
 
-https://www.amazon.com/HP-Pavilion-19-5-Inch-Flagship-Computer/product-reviews/B01N346AF2/ref=cm_cr_othr_d_paging_btm_6?ie=UTF8&reviewerType=all_reviews&pageNumber=6
 
-27.Best computer I've ever owned!
-5
+27
 I got this computer for my dorm at my base.
 
 I was gonna cheap out and get a $200 computer but I saw this in the store and fell in love.
 desktop#aesthetics#design 2 1
 So I made the investment and brought it back to the dorm and not a day goes by where I don't love this thing.
-desktoP#quality#overall 2 1
+desktop#quality#overall 2 1
 The touch screen is on spot, the responsiveness is amazing, the color is beautiful, the screen size is perfect, and the audio is killer (basically a beats pill).
 screen#features#touch 2 0
 screen#aesthetics#color 2 0
@@ -409,10 +499,8 @@ Also, I really love the black and red color scheme.
 desktop#aesthetics#color 2 0
 Hope this helped!
 
-https://www.amazon.com/HP-Pavilion-19-5-Inch-Flagship-Computer/product-reviews/B01N346AF2/ref=cm_cr_othr_d_paging_btm_8?ie=UTF8&reviewerType=all_reviews&pageNumber=8
 
-28.Best investment EVER
-5
+28
 Best investment EVER!!!
 desktop#price#worthiness 2 1
 I love this computer.
@@ -429,7 +517,3 @@ I expect this computer to meet my needs for years to come!
 desktop#reliability#overall 2 1
 High recommend this product!!
 desktop#quality#overall 2 1
-
-https://www.amazon.com/HP-Pavilion-Computer-i5-7400T-27-a230/product-reviews/B01N5RLBR6/ref=cm_cr_arp_d_paging_btm_2?ie=UTF8&reviewerType=all_reviews&pageNumber=2
-
-
