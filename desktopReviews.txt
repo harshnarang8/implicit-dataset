@@ -33,31 +33,50 @@ desktop#performance#speed 2 0
 
 3
 I really like that this is an all in one computer.
+desktop#aesthetics#form-factor 2 1
 It's nice that it's compact so it doesn't take up so much of my desk.
 desktop#aesthetics#size 2 1
 The screen is a nice size.
 screen#aesthetics#size 2 1
 The performance however leaves something to be desired.
+desktop#performance#overall 2 1
 I use this computer approximately 8 hours a day 5 days a week and I have noticed that it definitely has slowed down a lot since I first started using it.
+desktop#performance#speed 0 1
 I don't save a lot directly to the computer because I use an external hard drive so I'm not sure exactly why it's starting to lag.
-Start up has gotten especially slow.
-When I first started using it it would start up very quickly.
-Now it take several minutes.
-The most annoying thing about this computer is that at least twice a day, every day it will just freeze out of nowhere and I have to restart it.
-This is not only annoying and wastes my time but have lost work as a result.
-I have gotten in the habit of constantly saving whatever I"m working on but I always end up losing something due to it just freezing out of nowhere.
-I definitely would not purchase this again if I had a choice.
 
+Start up has gotten especially slow.
+desktop#performance#booting 0 1
+When I first started using it it would start up very quickly.
+desktop#performance#booting 2 1
+Now it take several minutes.
+desktop#performance#booting 0 2
+The most annoying thing about this computer is that at least twice a day, every day it will just freeze out of nowhere and I have to restart it.
+desktop#reliability#overall 0 1
+This is not only annoying and wastes my time but have lost work as a result.
+desktop#reliability#overall 0 2
+I have gotten in the habit of constantly saving whatever I"m working on but I always end up losing something due to it just freezing out of nowhere.
+desktop#reliability#overall 0 1
+I definitely would not purchase this again if I had a choice.
+desktop#quality#overall 0 1
 
 4
 Love this new All in One Dell computer.
 desktop#quality#overall 2 1
 desktop#aesthetics#form-factor 2 1
 Beautiful large screen, great sound quality and super fast i3 chip.
+screen#aesthetics#overall 2 1
+screen#aesthetics#size 2 1
+speakers#performance#sound-quality 2 0
+processor#performance#speed 2 1
 Should have upgraded sooner.
+desktop#quality#overall 2 1
 Minor business applications I use are fast, with no interference with the other applications running at the same time.
+desktop#performance#day-to-day 2 1
 A totally fast, quiet, efficient, quality computing experience.
+desktop#performance#speed 2 1
+
 And I don't miss the "messy mass" of wires.
+
 Would definitely recommend to others looking for a great computer.
 
 
@@ -79,11 +98,13 @@ The mouse and keyboard aren't wireless, at first, I was a little bummed but they
 Great buy!!
 
 
-
 6
 This is my honest review of Dell i3265 Inspiron all in one desktop computer.
+
 I have used this desktop primarily for the kids computer programs like typing, math, reading, science, etc.
+
 All the programs I've uploaded and downloaded work well without errors.
+
 I personally did not have any issues with speed and it does process quickly.
 desktop#performance#speed 2 1
 I do not use this for "gaming" so for the people who said it was slow, maybe it has too many programs running?
